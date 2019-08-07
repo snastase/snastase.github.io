@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Nastase"
 title_separator          : "-"
 name                     : &name "Sam Nastase"
-description              : &description "Postdoc at Princeton University"
+description              : &description "Postdoctoral researcher at Princeton University"
 url                      : https://snastase.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "snastase/snastase.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sam Nastase"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at Princeton University"
+  bio              : "Postdoctoral researcher at Princeton University"
   location         : "Princeton, NJ, USA"
   employer         :
   pubmed           : 
