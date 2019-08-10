@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Intersubject correlation tutorial<br>[`GitHub`](https://github.com/snastase/isc-tutorial)
+### Intersubject correlation tutorial  [`GitHub`](https://github.com/snastase/isc-tutorial)
 
 This tutorial introduces intersubject correlation (ISC) analysis and corresponding statistical tests using a Jupyter Notebook. The analysis are implemented in Python using the Brain Imaging Analysis Kit ([Brainiak](http://brainiak.org/)). To run the analyses interactively in the cloud using Google Colab, click here: [Tutorial in Google Colab](https://colab.research.google.com/drive/1EHI9buw-nvj5UDNg7MWUiQ1ITVJSswtH). This tutorial accompanies a "tools of the trade" article published in *Social Cognitive and Affective Neuroscience*:
 
