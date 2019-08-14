@@ -13,6 +13,6 @@ redirect_from:
 
 This tutorial introduces intersubject correlation (ISC) analysis and corresponding statistical tests using a Jupyter Notebook. The analysis are implemented in Python using the Brain Imaging Analysis Kit ([BrainIAK](http://brainiak.org/)). To run the analyses interactively in the cloud using Google Colab, click here: [Tutorial in Google Colab](https://colab.research.google.com/drive/1EHI9buw-nvj5UDNg7MWUiQ1ITVJSswtH). This tutorial accompanies a "tools of the trade" article published in *Social Cognitive and Affective Neuroscience*:
 
-Nastase, S. A., Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. *Social Cognitive and Affective Neuroscience*. [`DOI`](https://doi.org/10.1093/scan/nsz037) [`PDF`](https://snastase.github.io/files/Nastase_SCAN_2019.pdf)
+Nastase, S. A., Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. *Social Cognitive and Affective Neuroscience*, *14*(6), 667–685. [`DOI`](https://doi.org/10.1093/scan/nsz037) [`PDF`](https://snastase.github.io/files/Nastase_SCAN_2019.pdf)
 
 

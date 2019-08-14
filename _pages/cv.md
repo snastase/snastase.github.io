@@ -30,7 +30,7 @@ redirect_from:
 
 ## Publications
 ---
-**Nastase, S. A.**, Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. *Social Cognitive and Affective Neuroscience*. [`DOI`](https://doi.org/10.1093/scan/nsz037) [`PDF`](https://snastase.github.io/files/Nastase_SCAN_2019.pdf)
+**Nastase, S. A.**, Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. *Social Cognitive and Affective Neuroscience*, *14*(6), 667–685. [`DOI`](https://doi.org/10.1093/scan/nsz037) [`PDF`](https://snastase.github.io/files/Nastase_SCAN_2019.pdf)
 
 Feilong, M., **Nastase, S. A.**, Guntupalli, J. S., Haxby, J. V. (2018). Reliable individual difference in fine-grained cortical functional architecture. *NeuroImage*, *138*, 375–386. [`DOI`](https://doi.org/10.1016/j.neuroimage.2018.08.029) [`PDF`](https://snastase.github.io/files/Feilong_NIMG_2018.pdf)
 
