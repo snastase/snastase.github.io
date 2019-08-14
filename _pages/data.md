@@ -17,6 +17,8 @@ Nastase, S. A., Connolly, A. C., Oosterhof, N. N., Halchenko, Y. O., Guntupalli,
 
 ### This dataset has been re-analyzed in the following publications:
 
+Esteban, O., Markiewicz, C., Blair, R. W., Moodie, C., Isik, A. I., Erramuzpe, A., Kent, J. D., Goncalves, M., DuPre, E., Snyder, M., Oya, H., Ghosh, S. S., Wright, J., Durnez, J., Poldrack, R., & Gorgolewski, K. J. (2019). fMRIPrep: a robust preprocessing pipeline for functional MRI. _Nature Methods_, _16_, 111–116. [`DOI`](https://doi.org/10.1038/s41592-018-0235-4)
+
 Wen, Z., Yu, T., Yang, X., & Li, Y. (2018). Goal-directed processing of naturalistic stimuli modulates large-scale functional connectivity. *Frontiers in Neuroscience*, *12*, 1003. [`DOI`](https://doi.org/10.3389/fnins.2018.01003)
 
 McClure, P., Rho, N., Lee, J. A., Kaczmarzyk, J. R., Zheng, C., Ghosh, S. S., Nielson, D., Thomas, A. G., Bandettini, P., & Pereira, F. (2018). Knowing what you know in brain segmentation using deep neural networks. *arXiv*:1812.01719. [`arXiv`](https://arxiv.org/abs/1812.01719)
