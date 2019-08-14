@@ -15,7 +15,7 @@ Nastase, S. A., Halchenko, Y. O., Connolly, A. C., Gobbini, M. I., Haxby, J. V. 
 
 Nastase, S. A., Connolly, A. C., Oosterhof, N. N., Halchenko, Y. O., Guntupalli, J. S., Visconti di Oleggio Castello, M., Gors, J., Gobbini, M. I., & Haxby, J. V. (2017). Attention selectively reshapes the geometry of distributed semantic representation. *Cerebral Cortex*, *27*(8), 4277–4291. [`DOI`](https://doi.org/10.1093/cercor/bhx138) [`PDF`](https://snastase.github.io/files/Nastase_CerebCortex_2017.pdf)
 
-### These dataset has been re-analyzed in the following publications:
+### This dataset has been re-analyzed in the following publications:
 
 Wen, Z., Yu, T., Yang, X., & Li, Y. (2018). Goal-directed processing of naturalistic stimuli modulates large-scale functional connectivity. *Frontiers in Neuroscience*, *12*, 1003. [`DOI`](https://doi.org/10.3389/fnins.2018.01003)
 
