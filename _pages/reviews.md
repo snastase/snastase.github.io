@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### August 29, 2019 &mdash; Open review of preprint by Chen and colleagues: [`review`](https://snastase.github.io/reviews/2019-08-29-chen) [`PubPeer`](https://pubpeer.com/publications/CCB8B0623A6A4AFB7AF83500E3A2AB#1)
+Chen, G., Taylor, P. A., Qu, X., Molfese, P. J., Bandettini, P. A., Cox, R. W., & Finn, E. S. (2019). Untangling the relatedness among correlations, part III: inter-subject correlation analysis through Bayesian multilevel modeling for naturalistic scanning. *bioRxiv*, 655738. [`DOI`](https://doi.org/10.1101/655738)
+
+---
+
 ### August 20, 2019 &mdash; Open review of preprint by Nili and colleagues: [`review`](https://snastase.github.io/reviews/2019-08-20-nili) [`PubPeer`](https://pubpeer.com/publications/2447DC898FB0196763D160E1AF1203#1)
 Nili, H., Walther, A., Alink, A., & Kriegeskorte, N. (2016). Inferring exemplar discriminability in brain representations. *bioRxiv*, 080580. [`DOI`](https://doi.org/10.1101/080580)
 
