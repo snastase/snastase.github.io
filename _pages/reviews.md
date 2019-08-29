@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-When solicited for peer review by academic journals&mdash;*if the authors have posted a public preprint*&mdash;I try to post an open review (on [PubPeer](https://pubpeer.com/)). I send the same review to the journal (usually signed) at the same time as posting the review. You can read more about the motivation for [open peer review](https://en.wikipedia.org/wiki/Open_peer_review) in this [paper](https://doi.org/10.3389/fncom.2012.00079) and an accessible [article](https://www.wired.com/2017/03/rogue-neuroscientist-mission-hack-peer-review/) by *Wired* magazine.
+When solicited for peer review by academic journals&mdash;*if the authors have posted a public preprint*&mdash;I try to post an open review (on [PubPeer](https://pubpeer.com/)). I send the same review to the journal (usually signed) at the same time as posting the review. You can read more about the motivation for [open peer review](https://en.wikipedia.org/wiki/Open_peer_review) in this [paper](https://doi.org/10.3389/fncom.2012.00079) by Niko Kriegeskorte (2012) and an accessible [article](https://www.wired.com/2017/03/rogue-neuroscientist-mission-hack-peer-review/) by *Wired* magazine.
 
 ---
 
@@ -35,5 +35,10 @@ DuPre, E., Hanke, M., & Poline, J. (2019). Nature abhors a paywall: how open sci
 
 ### November 12, 2018 &mdash; Open review of software by Vallat: [`GitHub`](https://github.com/openjournals/joss-reviews/issues/1026)
 Vallat, R. (2018). Pingouin: statistics in Python. *Journal of Open Source Software*, *3*(31), 1026. [`DOI`](https://doi.org/10.21105/joss.01026)
+
+---
+
+### May 19, 2018 &mdash; Open review of preprint by Esteban and colleagues: [`review`](https://snastase.github.io/reviews/2018-05-19-esteban)
+Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramuzpe, A., Kent, J. D., Goncalves, M., DuPre, E., Snyder, M., Oya, H., Ghosh, S. S., Wright, J., Durnez, J., Poldrack, R. A., Gorgolewski, K. J. (2018). FMRIPrep: a robust preprocessing pipeline for functional MRI. *bioRxiv*, 306951. [`DOI`](https://doi.org/10.1101/306951)
 
 ---
