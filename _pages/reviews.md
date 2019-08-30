@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-When solicited for peer review by academic journals&mdash;*if the authors have posted a public preprint*&mdash;I try to post an open review (on [PubPeer](https://pubpeer.com/)). I send the same review to the journal (usually signed) at the same time as posting the review. You can read more about the motivation for [open peer review](https://en.wikipedia.org/wiki/Open_peer_review) in this [paper](https://doi.org/10.3389/fncom.2012.00079) by Niko Kriegeskorte (2012) and an accessible [article](https://www.wired.com/2017/03/rogue-neuroscientist-mission-hack-peer-review/) by *Wired* magazine.
+When solicited for peer review by academic journals&mdash;*if the authors have posted a public preprint*&mdash;I try to post an open review (on, e.g., [PubPeer](https://pubpeer.com/)). I send the same review to the journal (usually signed) at the same time as posting the public review.
 
 ---
 
@@ -40,5 +40,15 @@ Vallat, R. (2018). Pingouin: statistics in Python. *Journal of Open Source Softw
 
 ### May 19, 2018 &mdash; Open review of preprint by Esteban and colleagues: [`review`](https://snastase.github.io/reviews/2018-05-19-esteban)
 Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramuzpe, A., Kent, J. D., Goncalves, M., DuPre, E., Snyder, M., Oya, H., Ghosh, S. S., Wright, J., Durnez, J., Poldrack, R. A., Gorgolewski, K. J. (2018). FMRIPrep: a robust preprocessing pipeline for functional MRI. *bioRxiv*, 306951. [`DOI`](https://doi.org/10.1101/306951)
+
+---
+
+### March 29, 2018 &mdash; Open review of preprint by Pallarés and colleagues: [`review`](https://snastase.github.io/reviews/2018-03-29-pallares)
+Pallarés, V., Insabato, A., Sanjuan, A., Kuehn, S., Mantini, D., Deco, G., & Gilson, M. (2018). Extracting orthogonal subject- and behavior-specific signatures from fMRI data using whole-brain effective connectivity. *bioRxiv*, 201624. [`DOI`](https://doi.org/10.1101/201624)
+
+---
+
+### January 2, 2017 &mdash; Open review of preprint by Gorgolewski and colleagues: [`review`](https://snastase.github.io/reviews/2017-01-02-gorgolewski)
+Gorgolewski, K. J., Alfaro-Almagro, F., Auer, T., Bellec, P., Capota, M., Chakravarty, M. M., Churchill, N. W., Cohen, A. L., Craddock, R. C., Devenyi, G. A., Eklund, A., Esteban, O., Flandin, G., Ghosh, S. S., Guntupalli, J. S., Jenkinson, M., Keshavan, A., Kiar, G., Liem, F., Raamana, P. R., Raffelt, D., Steel, C. J., Quirion, P.-O., Smith, R. E., Strother, S. C., Varoquaux, G., Yarkoni, T., Wang, Y., Poldrack, R. A. (2017). BIDS Apps: improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods. *bioRxiv*, 079145. [`DOI`](https://doi.org/10.1101/079145)
 
 ---
