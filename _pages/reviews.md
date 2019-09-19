@@ -33,6 +33,11 @@ DuPre, E., Hanke, M., & Poline, J. (2019). Nature abhors a paywall: how open sci
 
 ---
 
+### March 27, 2019 &mdash; Open review of software by Kent and Herholz: [`GitHub`](https://github.com/openjournals/joss-reviews/issues/1295)
+Kent, J. D., Herholz, P. (2019). NiBetaSeries: task related correlations in fMRI. *Journal of Open Source Software*, *4*(41), 1295. [`DOI`](https://doi.org/10.21105/joss.01295)
+
+---
+
 ### November 12, 2018 &mdash; Open review of software by Vallat: [`GitHub`](https://github.com/openjournals/joss-reviews/issues/1026)
 Vallat, R. (2018). Pingouin: statistics in Python. *Journal of Open Source Software*, *3*(31), 1026. [`DOI`](https://doi.org/10.21105/joss.01026)
 
