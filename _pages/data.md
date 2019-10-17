@@ -21,6 +21,6 @@ Esteban, O., Markiewicz, C., Blair, R. W., Moodie, C., Isik, A. I., Erramuzpe, A
 
 Wen, Z., Yu, T., Yang, X., & Li, Y. (2018). Goal-directed processing of naturalistic stimuli modulates large-scale functional connectivity. *Frontiers in Neuroscience*, *12*, 1003. [`DOI`](https://doi.org/10.3389/fnins.2018.01003)
 
-McClure, P., Rho, N., Lee, J. A., Kaczmarzyk, J. R., Zheng, C., Ghosh, S. S., Nielson, D., Thomas, A. G., Bandettini, P., & Pereira, F. (2018). Knowing what you know in brain segmentation using deep neural networks. *arXiv*:1812.01719. [`arXiv`](https://arxiv.org/abs/1812.01719)
+McClure, P., Rho, N., Lee, J. A., Kaczmarzyk, J. R., Zheng, C., Ghosh, S. S., Nielson, D., Thomas, A. G., Bandettini, P., & Pereira, F. (2018). Knowing what you know in brain segmentation using deep neural networks. *Frontiers in Neuroinformatics*, *13*, 67. [`DOI`](https://doi.org/10.3389/fninf.2019.00067)
 
 ---

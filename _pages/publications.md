@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Hasson, U., Nastase, S. A., Goldstein, A. (2019). Robust-fit to nature: an evolutionary perspective on biological (and artificial) neural networks. *bioRxiv*, 764258. [`DOI`](https://doi.org/10.1101/764258) [`PDF`](https://snastase.github.io/files/Hasson_bioRxiv_2019.pdf)
+Hasson, U., Nastase, S. A., Goldstein, A. (2019). Direct-fit to nature: an evolutionary perspective on biological (and artificial) neural networks. *bioRxiv*, 764258. [`DOI`](https://doi.org/10.1101/764258) [`PDF`](https://snastase.github.io/files/Hasson_bioRxiv_2019.pdf)
 
 Nastase, S. A., Liu, Y.-F., Hillman, H., Norman, K. A., & Hasson, U. (2019). Leveraging shared connectivity to aggregate heterogeneous datasets into a common response space. *bioRxiv*, 741975. [`DOI`](https://doi.org/10.1101/741975) [`PDF`](https://snastase.github.io/files/Nastase_bioRxiv_2019.pdf)
 
