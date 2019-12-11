@@ -10,11 +10,11 @@ redirect from:
 
 {% include base_path %}
 
-## OpenNeuro ds002245 [`OpenNeuro`](https://openneuro.org/datasets/ds002245/)
+## OpenNeuro ds002345 [`OpenNeuro`](https://openneuro.org/datasets/ds002345/)
 
-"Narratives" collection comprising fMRI data acquired over the course of seven years for over 300 participants listening to naturalistic spoken story stimuli. Read more here: [`ds002245`](https://snastase.github.io/datasets/ds002245)
+"Narratives" collection comprising fMRI data acquired over the course of seven years for over 300 participants listening to naturalistic spoken story stimuli. Read more here: [`ds002345`](https://snastase.github.io/datasets/ds002345)
 
-Nastase, S. A., Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C. B., Lositsky, O., Chow, M. A., Leong, Y. C., Brooks, P. P., Choe, G., Goldstein, A., Halchenko, Y. O., Norman, K. A., Hasson, U. (in preparation). Narratives: fMRI data for evaluating models of naturalistic language comprehension.
+Nastase, S. A., Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C. B., Lositsky, O., Chow, M. A., Leong, Y. C., Brooks, P. P., Choe, G., Goldstein, A., Halchenko, Y. O., Norman, K. A., Hasson, U. (in preparation). Narratives: fMRI data for evaluating models of naturalistic language comprehension. [`DOI`](https://doi.org/10.18112/openneuro.ds002345.v1.0.0)
 
 ---
 
