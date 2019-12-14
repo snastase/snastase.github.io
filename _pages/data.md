@@ -10,7 +10,7 @@ redirect from:
 
 {% include base_path %}
 
-## OpenNeuro ds002345 [`OpenNeuro`](https://openneuro.org/datasets/ds002345/)
+## OpenNeuro ds002345 [`OpenNeuro`](https://openneuro.org/datasets/ds002345/) [`DOI`](https://doi.org/10.18112/openneuro.ds002345.v1.0.0)
 
 "Narratives" collection comprising fMRI data acquired over the course of seven years for over 300 participants listening to naturalistic spoken story stimuli. Read more here: [`ds002345`](https://snastase.github.io/datasets/ds002345)
 
@@ -18,7 +18,7 @@ Nastase, S. A., Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzi
 
 ---
 
-## OpenNeuro ds000233 [`OpenNeuro`](https://openneuro.org/datasets/ds000233/)
+## OpenNeuro ds000233 [`OpenNeuro`](https://openneuro.org/datasets/ds000233/) [`DOI`](https://doi.org/10.18112/openneuro.ds000233.v1.0.1)
 
 fMRI data for 12 participants viewing naturalistic clips of behaving animals while attending to either animal behavior or taxonomy. Read more here: [`ds000233`](https://snastase.github.io/datasets/ds000233)
 
