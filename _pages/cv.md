@@ -36,6 +36,9 @@ Hasson, U., **Nastase, S. A.**, Goldstein, A. (2019). Direct-fit to nature: an e
 
 **Nastase, S. A.**, Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. *Social Cognitive and Affective Neuroscience*, *14*(6), 667–685. [`DOI`](https://doi.org/10.1093/scan/nsz037) [`PDF`](https://snastase.github.io/files/Nastase_SCAN_2019.pdf)
 
+Lin, X., Sur, I., **Nastase, S. A.**, Divakaran, A., Hasson, U., & Amer, M. R. (2019). Data-efficient mutual information neural estimator. *arXiv*, arXiv:1905.03319. [`DOI`](https://arxiv.org/abs/1905.03319) [`PDF`](https://snastase.github.io/files/Lin_arXiv_2019.pdf)
+
+
 Feilong, M., **Nastase, S. A.**, Guntupalli, J. S., Haxby, J. V. (2018). Reliable individual difference in fine-grained cortical functional architecture. *NeuroImage*, *138*, 375–386. [`DOI`](https://doi.org/10.1016/j.neuroimage.2018.08.029) [`PDF`](https://snastase.github.io/files/Feilong_NIMG_2018.pdf)
 
 Van Uden, C. E.\*, <b>Nastase, S. A.\*</b>, Connolly, A. C., Feilong, M., Hansen, I., Gobbini, M. I., Haxby, J. V. (2018). Modeling semantic encoding in a common neural representational space. *Frontiers in Neuroscience*, *12*, 437. [`DOI`](https://doi.org/10.3389/fnins.2018.00437) [`PDF`](https://snastase.github.io/files/VanUden_FrontNeurosci_2018.pdf)
@@ -55,6 +58,13 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 **Nastase, S. A.**, Iacovella, V., Davis, B., and Hasson, U. (2015). Connectivity in the human brain dissociates entropy and complexity of auditory inputs. *NeuroImage*, *108*, 292–300. [`DOI`](https://doi.org/10.1016/j.neuroimage.2014.12.048) [`PDF`](https://snastase.github.io/files/Nastase_NIMG_2015.pdf)
 
 **Nastase, S. A.**, Iacovella, V. and Hasson, U. (2014). Uncertainty in visual and auditory series is coded by modality-general and modality-specific neural systems. *Human Brain Mapping*, *35*(4), 1111–1128. [`DOI`](https://doi.org/10.1002/hbm.22238) [`PDF`](https://snastase.github.io/files/Nastase_HumBrainMapp_2014.pdf)
+
+## Open data
+**OpenNeuro ds002345**<br>
+**Nastase, S. A.**, Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C. B., Lositsky, O., Simony, E., Chow, M. A., Leong, Y. C., Brooks, P. P., Micciche, E., Choe, G., Goldstein, A., Halchenko, Y. O., Norman, K. A., & Hasson, U. Narratives: fMRI data for evaluating models of naturalistic language comprehension. [`DOI`](https://doi.org/10.18112/openneuro.ds002345.v1.0.1)
+
+**OpenNeuro ds000233**<br>
+**Nastase, S. A.**, Halchenko, Y. O., Connolly, A. C., Gobbini, M. I., Haxby, J. V. (2018). Neural responses to naturalistic clips of behaving animals in two different task contexts. [`DOI`](https://doi.org/10.18112/openneuro.ds000233.v1.0.1)
 
 ## Teaching
 ---
@@ -86,7 +96,7 @@ Harvard University (instructor: Marc Tetel)
 ---
 **ReproNim/INCF Fellow**  2019<br>
 ReproNim: A Center for Reproducible Neuroimaging Computation<br>
-International Neuroinformatics Coordinating Factility (INCF)
+International Neuroinformatics Coordinating Facility (INCF)
 
 **Merit Abstract Award**  May, 2015<br>
 Organization for Human Brain Mapping
@@ -143,10 +153,6 @@ Anwesh Dash, undergraduate honor’s thesis, Gobbini Lab, Dartmouth College<br>
 [Publons](https://publons.com/researcher/1348227/sam-nastase),
 [ResearchGate](https://www.researchgate.net/profile/Samuel_Nastase),
 [Twitter](https://twitter.com/samnastase)
-
-[OpenNeuro dataset 233 “Neural responses to naturalistic clips of behaving animals in two different task contexts”](https://openneuro.org/datasets/ds000233)
-
-[Interactive Jupyter Notebook “Intersubject correlation tutorial” on Google Colab](https://colab.research.google.com/drive/1EHI9buw-nvj5UDNg7MWUiQ1ITVJSswtH)
 
 [*Wired*&mdash;The Rogue Neuroscientist on a Mission to Hack Peer Review](https://www.wired.com/2017/03/rogue-neuroscientist-mission-hack-peer-review)
 
