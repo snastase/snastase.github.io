@@ -70,6 +70,13 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 **OpenNeuro ds000233**<br>
 **Nastase, S. A.**, Halchenko, Y. O., Connolly, A. C., Gobbini, M. I., Haxby, J. V. (2018). Neural responses to naturalistic clips of behaving animals in two different task contexts. [`DOI`](https://doi.org/10.18112/openneuro.ds000233.v1.0.1)
 
+## Open code
+**Princeton Handbook for Reproducible Neuroimaging**<br>
+Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M., **Nastase, S. A.**. (2020). Princeton Handbook for Reproducible NeuroImaging. [`DOI`](https://zenodo.org/badge/latestdoi/221723445) [`Handbook`](https://brainhack-princeton.github.io/handbook/)
+
+**Intersubject correlation tutorial**<br>
+**Nastase, S. A.**, Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. [`DOI`](https://doi.org/10.5281/zenodo.3693161) [`GitHub`](https://github.com/snastase/isc-tutorial)
+
 ## Teaching
 ---
 **Teaching assistant&mdash;Systems Neuroscience with Lab**  Fall, 2015<br>
@@ -137,7 +144,7 @@ Krieger School of Arts & Sciences, Johns Hopkins University
 
 ## Community
 ---
-**Volunteer reviewer:** *Cerebral Cortex, Frontiers in Neuroscience, Human Brain Mapping, Journal of Experimental Psychology: Human Perception and Performance, Journal of Neuroscience, Journal of Open Source Software, Journal of the International Neuropsychological Society, NeuroImage, PLOS One, PLOS Computational Biology, Social Cognitive and Affective Neuroscience.*
+**Volunteer reviewer:** *Cerebral Cortex, Frontiers in Neuroscience, Human Brain Mapping, Journal of Experimental Psychology: Human Perception and Performance, Journal of Neuroscience, Journal of Open Source Software, Journal of the International Neuropsychological Society, NeuroImage, PLOS One, PLOS Computational Biology, Psychophysiology, Social Cognitive and Affective Neuroscience.*
 
 **Society membership:** Organization for Human Brain Mapping, Society for Neuroscience, Vision Sciences Society, Cognitive Neuroscience Society
 
