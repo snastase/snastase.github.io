@@ -30,6 +30,8 @@ redirect_from:
 
 ## Publications
 ---
+Willems, R., **Nastase, S. A.**, & Milivojevic, B. (in press). Narratives for neuroscience. *Trends in Neurosciences*.
+
 **Nastase, S. A.**, Goldstein, A., & Hasson, U. (2020). Keep it real: rethinking the primacy of experimental control in cognitive neuroscience. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/whn6d) [`PDF`](https://snastase.github.io/files/Nastase_PsyArXiv_2020.pdf)
 
 Hasson, U., **Nastase, S. A.**, & Goldstein, A. (2020). Direct-fit to nature: an evolutionary perspective on biological (and artificial) neural networks. *Neuron*, *105*(3), 416–434. [`DOI`](https://doi.org/10.1016/j.neuron.2019.12.002) [`PDF`](https://snastase.github.io/files/Hasson_Neuron_2020.pdf)
@@ -72,7 +74,7 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 
 ## Open code
 **Princeton Handbook for Reproducible Neuroimaging**<br>
-Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M., **Nastase, S. A.**. (2020). Princeton Handbook for Reproducible NeuroImaging. [`DOI`](https://zenodo.org/badge/latestdoi/221723445) [`Handbook`](https://brainhack-princeton.github.io/handbook/)
+Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M., & **Nastase, S. A.**. (2020). Princeton Handbook for Reproducible Neuroimaging. [`DOI`](http://doi.org/10.5281/zenodo.3688789) [`Handbook`](https://brainhack-princeton.github.io/handbook/)
 
 **Intersubject correlation tutorial**<br>
 **Nastase, S. A.**, Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. [`DOI`](https://doi.org/10.5281/zenodo.3693161) [`GitHub`](https://github.com/snastase/isc-tutorial)
