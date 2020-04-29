@@ -30,7 +30,7 @@ redirect_from:
 
 ## Publications
 ---
-Willems, R., **Nastase, S. A.**, & Milivojevic, B. (in press). Narratives for neuroscience. *Trends in Neurosciences*.
+Willems, R., **Nastase, S. A.**, & Milivojevic, B. (2020). Narratives for neuroscience. *Trends in Neurosciences*, *43*(5), 271–273. [`DOI`](https://doi.org/10.1016/j.tins.2020.03.003) [`PDF`](https://snastase.github.io/files/Willems_TINS_2020.pdf)
 
 **Nastase, S. A.**, Goldstein, A., & Hasson, U. (2020). Keep it real: rethinking the primacy of experimental control in cognitive neuroscience. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/whn6d) [`PDF`](https://snastase.github.io/files/Nastase_PsyArXiv_2020.pdf)
 
