@@ -122,40 +122,22 @@ The William H. Neukom Institute for Computational Science
 **Marie A. Center 1982 Graduate Award for Excellence in Teaching**  June, 2014<br>
 Department of Psychological & Brain Sciences, Dartmouth College
 
-**Conference Travel Grant**  April, 2014<br>
-Graduate Student Council, Dartmouth College
-
-**Graduate Travel Award**  April, 2014<br>
-Dartmouth Graduate Studies, Dartmouth College
-
 **Trainee Abstract Travel Award**  March, 2014<br>
 Organization for Human Brain Mapping
 
 **Merit Award**  December, 2012<br>
 Psychology & Cognitive Sciences Department, University of Trento
 
-**Honors**  July, 2012<br>
-Psychology & Cognitive Sciences Department, University of Trento
-
-**Departmental Honors**  May, 2010<br>
-Cognitive Science Department, Johns Hopkins University
-
-**General Honors**  May, 2010<br>
-Krieger School of Arts & Sciences, Johns Hopkins University
-
-**Dean’s List**  2006&ndash;2010<br>
-Krieger School of Arts & Sciences, Johns Hopkins University
-
 ## Community
 ---
-**Volunteer reviewer:** *Cerebral Cortex, Frontiers in Neuroscience, Human Brain Mapping, Journal of Experimental Psychology: Human Perception and Performance, Journal of Neuroscience, Journal of Open Source Software, Journal of the International Neuropsychological Society, NeuroImage, PLOS One, PLOS Computational Biology, Psychophysiology, Social Cognitive and Affective Neuroscience.*
+**Volunteer reviewer:** *Cerebral Cortex*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *NeuroImage*, *PLOS One*, *PLOS Computational Biology*, *Psychophysiology*, *Social Cognitive and Affective Neuroscience*.
 
 **Society membership:** Organization for Human Brain Mapping, Society for Neuroscience, Vision Sciences Society, Cognitive Neuroscience Society
 
 **Mentorship**<br>
-Anqi Wu, graduate student, Pillow Lab, Princeton University<br>
 Paula Brooks, graduate student, Norman Lab, Princeton University<br>
-Anne Mennen, graduate student, Cohen Lab, Princeton University<br>
+Anne Mennen, graduate student, Norman Lab, Princeton University<br>
+Anqi Wu, graduate student, Pillow Lab, Princeton University<br>
 Cara E. Van Uden, undergraduate research assistant, Haxby Lab, Dartmouth College<br>
 Rebecca E. Philip, undergraduate research assistant, Gobbini Lab, Dartmouth College<br>
 Anwesh Dash, undergraduate honor’s thesis, Gobbini Lab, Dartmouth College<br>
