@@ -11,9 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-Willems, R., Nastase, S. A., & Milivojevic, B. (2020). Narratives for neuroscience. *Trends in Neurosciences*, *43*(5), 271–273. [`DOI`](https://doi.org/10.1016/j.tins.2020.03.003) [`PDF`](https://snastase.github.io/files/Willems_TINS_2020.pdf)
-
 Nastase, S. A., Goldstein, A., & Hasson, U. (2020). Keep it real: rethinking the primacy of experimental control in cognitive neuroscience. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/whn6d) [`PDF`](https://snastase.github.io/files/Nastase_PsyArXiv_2020.pdf)
+
+Nguyen, M., Chang, A., Micciche, E., Meshulam, M., Nastase, S. A., & Hasson, U. (2020). Teacher-student neural coupling during teaching and learning. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.05.07.082958) [`PDF`](https://snastase.github.io/files/Nguyen_bioRxiv_2020.pdf)
+
+Willems, R., Nastase, S. A., & Milivojevic, B. (2020). Narratives for neuroscience. *Trends in Neurosciences*, *43*(5), 271–273. [`DOI`](https://doi.org/10.1016/j.tins.2020.03.003) [`PDF`](https://snastase.github.io/files/Willems_TINS_2020.pdf)
 
 Hasson, U., Nastase, S. A., & Goldstein, A. (2020). Direct-fit to nature: an evolutionary perspective on biological (and artificial) neural networks. *Neuron*, *105*(3), 416–434. [`DOI`](https://doi.org/10.1016/j.neuron.2019.12.002) [`PDF`](https://snastase.github.io/files/Hasson_Neuron_2020.pdf)
 
