@@ -15,13 +15,13 @@ Nastase, S. A., Goldstein, A., & Hasson, U. (2020). Keep it real: rethinking the
 
 Nguyen, M., Chang, A., Micciche, E., Meshulam, M., Nastase, S. A., & Hasson, U. (2020). Teacher-student neural coupling during teaching and learning. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.05.07.082958) [`PDF`](https://snastase.github.io/files/Nguyen_bioRxiv_2020.pdf)
 
+Nastase, S. A., Liu, Y.-F., Hillman, H., Norman, K. A., & Hasson, U. (2020). Leveraging shared connectivity to aggregate heterogeneous datasets into a common response space. *NeuroImage*, *217*, 116865. [`DOI`](https://doi.org/10.1016/j.neuroimage.2020.116865) [`PDF`](https://snastase.github.io/files/Nastase_NIMG_2020.pdf)
+
 Willems, R., Nastase, S. A., & Milivojevic, B. (2020). Narratives for neuroscience. *Trends in Neurosciences*, *43*(5), 271–273. [`DOI`](https://doi.org/10.1016/j.tins.2020.03.003) [`PDF`](https://snastase.github.io/files/Willems_TINS_2020.pdf)
 
 Hasson, U., Nastase, S. A., & Goldstein, A. (2020). Direct-fit to nature: an evolutionary perspective on biological (and artificial) neural networks. *Neuron*, *105*(3), 416–434. [`DOI`](https://doi.org/10.1016/j.neuron.2019.12.002) [`PDF`](https://snastase.github.io/files/Hasson_Neuron_2020.pdf)
 
 Haxby, J. V., Gobbini, M. I., & Nastase, S. A. (2020). Naturalistic stimuli reveal a dominant role for agentic action in visual representation. *NeuroImage*. [`DOI`](https://doi.org/10.1016/j.neuroimage.2020.116561) [`PDF`](https://snastase.github.io/files/Haxby_NIMG_2020.pdf)
-
-Nastase, S. A., Liu, Y.-F., Hillman, H., Norman, K. A., & Hasson, U. (2019). Leveraging shared connectivity to aggregate heterogeneous datasets into a common response space. *bioRxiv*, 741975. [`DOI`](https://doi.org/10.1101/741975) [`PDF`](https://snastase.github.io/files/Nastase_bioRxiv_2019.pdf)
 
 Nastase, S. A., Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. *Social Cognitive and Affective Neuroscience*, *14*(6), 667–685. [`DOI`](https://doi.org/10.1093/scan/nsz037) [`PDF`](https://snastase.github.io/files/Nastase_SCAN_2019.pdf)
 
