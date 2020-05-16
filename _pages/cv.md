@@ -38,7 +38,7 @@ Nguyen, M., Chang, A., Micciche, E., Meshulam, M., **Nastase, S. A.**, & Hasson,
 
 Willems, R., **Nastase, S. A.**, & Milivojevic, B. (2020). Narratives for neuroscience. *Trends in Neurosciences*, *43*(5), 271–273. [`DOI`](https://doi.org/10.1016/j.tins.2020.03.003) [`PDF`](https://snastase.github.io/files/Willems_TINS_2020.pdf)
 
-Hasson, U., **Nastase, S. A.**, & Goldstein, A. (2020). Direct-fit to nature: an evolutionary perspective on biological (and artificial) neural networks. *Neuron*, *105*(3), 416–434. [`DOI`](https://doi.org/10.1016/j.neuron.2019.12.002) [`PDF`](https://snastase.github.io/files/Hasson_Neuron_2020.pdf)
+Hasson, U., **Nastase, S. A.**, & Goldstein, A. (2020). Direct fit to nature: an evolutionary perspective on biological and artificial neural networks. *Neuron*, *105*(3), 416–434. [`DOI`](https://doi.org/10.1016/j.neuron.2019.12.002) [`PDF`](https://snastase.github.io/files/Hasson_Neuron_2020.pdf)
 
 Haxby, J. V., Gobbini, M. I., & **Nastase, S. A.** (2020). Naturalistic stimuli reveal a dominant role for agentic action in visual representation. *NeuroImage*. [`DOI`](https://doi.org/10.1016/j.neuroimage.2020.116561) [`PDF`](https://snastase.github.io/files/Haxby_NIMG_2020.pdf)
 
