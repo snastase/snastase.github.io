@@ -34,6 +34,8 @@ redirect_from:
 
 Nguyen, M., Chang, A., Micciche, E., Meshulam, M., **Nastase, S. A.**, & Hasson, U. (2020). Teacher-student neural coupling during teaching and learning. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.05.07.082958) [`PDF`](https://snastase.github.io/files/Nguyen_bioRxiv_2020.pdf)
 
+Haxby, J. V., Guntupalli, J. S., **Nastase, S. A.**, & Feilong, M. (2020). Hyperalignment: modeling shared information encoded in idiosyncratic cortical topographies. *eLife*, *9*, e56601. [`DOI`](https://doi.org/10.7554/eLife.56601) [`PDF`](https://snastase.github.io/files/Haxby_eLife_2020.pdf)
+
 **Nastase, S. A.**, Liu, Y.-F., Hillman, H., Norman, K. A., & Hasson, U. (2020). Leveraging shared connectivity to aggregate heterogeneous datasets into a common response space. *NeuroImage*, *217*, 116865. [`DOI`](https://doi.org/10.1016/j.neuroimage.2020.116865) [`PDF`](https://snastase.github.io/files/Nastase_NIMG_2020.pdf)
 
 Willems, R., **Nastase, S. A.**, & Milivojevic, B. (2020). Narratives for neuroscience. *Trends in Neurosciences*, *43*(5), 271–273. [`DOI`](https://doi.org/10.1016/j.tins.2020.03.003) [`PDF`](https://snastase.github.io/files/Willems_TINS_2020.pdf)
