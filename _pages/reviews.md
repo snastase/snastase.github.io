@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### June 8, 2020 &mdash; Open review of preprint by Coutanche and colleagues: [`review`](https://snastase.github.io/reviews/2020-06-08-coutanche) [`PubPeer`](https://pubpeer.com/publications/CF807C4A84111571962918D461AFC6#1)
+Coutanche, M. N., Akpan, E., & Buckser, R. R. (2020). Representational connectivity analysis: identifying networks of shared changes in representational strength through jackknife resampling. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.05.28.103077)
+
+---
+
 ### May 15, 2020 &mdash; Open review of preprint by Papale and colleagues: [`review`](https://snastase.github.io/reviews/2020-05-15-papale) [`PubPeer`](https://pubpeer.com/publications/CF807C4A84111571962918D461AFC6#1)
 Papale, P., Leo, A., Handjaras, G., Cecchetti, L., Pietrini, P., & Ricciardi, E. (2019). Shape coding in occipito-temporal cortex relies on object silhouette, curvature and medial-axis. *bioRxiv*, 814251. [`DOI`](https://doi.org/10.1101/814251)
 
