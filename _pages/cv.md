@@ -132,7 +132,7 @@ Psychology & Cognitive Sciences Department, University of Trento
 
 ## Community
 ---
-**Volunteer reviewer:** *Cerebral Cortex*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *NeuroImage*, *PLOS One*, *PLOS Computational Biology*, *Proceedings of the National Academy of Sciences of the United States of America*,  *Psychophysiology*, *Social Cognitive and Affective Neuroscience*.
+**Volunteer reviewer:** *Cerebral Cortex*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *NeuroImage*, *PLOS One*, *PLOS Computational Biology*, *Proceedings of the National Academy of Sciences of the United States of America*,  *Psychophysiology*, *Science*, *Scientific Data*, *Social Cognitive and Affective Neuroscience*.
 
 **Society membership:** Organization for Human Brain Mapping, Society for Neuroscience, Vision Sciences Society, Cognitive Neuroscience Society
 
@@ -153,7 +153,10 @@ Anwesh Dash, undergraduate honor’s thesis, Gobbini Lab, Dartmouth College<br>
 [ResearchGate](https://www.researchgate.net/profile/Samuel_Nastase),
 [Twitter](https://twitter.com/samnastase)
 
-[*Wired*&mdash;The Rogue Neuroscientist on a Mission to Hack Peer Review](https://www.wired.com/2017/03/rogue-neuroscientist-mission-hack-peer-review)
+[*TechTalks*&mdash;Artificial neural networks are more similar to the brain than they get credit for](https://bdtechtalks.com/2020/06/22/direct-fit-artificial-neural-networks)
+
+[*Medical Xpress*&mdash;A perspective on the study of artificial and biological neural networks](https://medicalxpress.com/news/2020-02-perspective-artificial-biological-neural-networks.html)
 
 [*Nature*&mdash;Credit data generators for data reuse](https://www.nature.com/articles/d41586-019-01715-4)
 
+[*Wired*&mdash;The Rogue Neuroscientist on a Mission to Hack Peer Review](https://www.wired.com/2017/03/rogue-neuroscientist-mission-hack-peer-review)
