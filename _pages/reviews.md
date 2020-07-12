@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-When solicited for peer review by academic journals&mdash;*if the authors have posted a public preprint*&mdash;I try to post an open review (on, e.g., [PubPeer](https://pubpeer.com/)). I send the same review to the journal (usually signed) at the same time as posting the public review.
+When solicited for peer review by academic journals&mdash;*if the authors have posted a public preprint*&mdash;I try to post an open review (here, and on [PubPeer](https://pubpeer.com/)). I send the same review to the journal (usually signed) at the same time as posting the public review.
 
 ---
 

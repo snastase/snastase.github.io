@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+I contribute software to several open source projects, particularly the [BrainIAK](https://brainiak.org/) Python package for fMRI analysis. You can find code repositories associated with my research projects on my GitHub profile: [`GitHub`](https://github.com/snastase)
+
+---
+
 ## Princeton Handbook for Reproducible Neuroimaging [`DOI`](http://doi.org/10.5281/zenodo.3688789) [`Handbook`](https://brainhack-princeton.github.io/handbook/)
 
 The goal of this handbook is to provide a reference for best practices in reproducible fMRI research. There’s no single “right” answer for many questions in fMRI, but here we try to provide helpful references and recommendations. Many elements of the handbook are specific to the Princeton Neuroscience Institute computing infrastructure, but the principles are widely applicable. This document will be updated over time as best practices evolve.
 
-Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M., & **Nastase, S. A.**. (2020). Princeton Handbook for Reproducible Neuroimaging. [`DOI`](http://doi.org/10.5281/zenodo.3688789)
+Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M., & Nastase, S. A. (2020). Princeton Handbook for Reproducible Neuroimaging. [`DOI`](http://doi.org/10.5281/zenodo.3688789)
 
 ---
 
