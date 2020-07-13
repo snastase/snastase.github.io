@@ -10,7 +10,7 @@ redirect from:
 
 {% include base_path %}
 
-I have shared and curated the following fMRI datasets in [BIDS](https://bids.neuroimaging.io/) format via [OpenNeuro](https://openneuro.org/) and/or [DataLad](https://www.datalad.org/). Please [email me](mailto:sam.nastase@gmail.com) if you have questions about the data.
+The following fMRI datasets are publicly available in [BIDS](https://bids.neuroimaging.io/) format via [OpenNeuro](https://openneuro.org/) and/or [DataLad](https://www.datalad.org/). Please [email me](mailto:sam.nastase@gmail.com) if you have questions about the data.
 
 ---
 
