@@ -14,7 +14,7 @@ The following fMRI datasets are publicly available in [BIDS](https://bids.neuroi
 
 ---
 
-## OpenNeuro ds002345 [`OpenNeuro`](https://openneuro.org/datasets/ds002345/) [`DataLad`](http://datasets.datalad.org/?dir=/labs/hasson/narratives) [`DOI`](https://doi.org/10.18112/openneuro.ds002345.v1.0.1)
+## OpenNeuro ds002345 [`OpenNeuro`](https://openneuro.org/datasets/ds002345/) [`DataLad`](http://datasets.datalad.org/?dir=/labs/hasson/narratives) [`DOI`](https://doi.org/10.18112/openneuro.ds002345.v1.1.1)
 
 "Narratives" collection comprising fMRI data acquired over the course of seven years for over 300 participants listening to naturalistic spoken story stimuli. Read more here: [`ds002345`](https://snastase.github.io/datasets/ds002345)
 
