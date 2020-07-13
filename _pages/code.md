@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I contribute software to several open source projects, particularly the [BrainIAK](https://brainiak.org/) Python package for fMRI analysis. You can find code repositories associated with my research projects on my GitHub profile: [`GitHub`](https://github.com/snastase)
+I contribute software to several open source projects, particularly the [BrainIAK](https://brainiak.org/) Python package for fMRI analysis. Please [email me](mailto:sam.nastase@gmail.com) if you have questions about the code. You can find code repositories associated with my research projects on my GitHub profile: [`GitHub`](https://github.com/snastase)
 
 ---
 

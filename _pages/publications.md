@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my publications on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
+
+You can also find my publications on my Google Scholar profile: [`Google Scholar`](https://scholar.google.com/citations?user=tjLH8mQAAAAJ&hl=en)
+
+---
 
 Nastase, S. A., Goldstein, A., & Hasson, U. (2020). Keep it real: rethinking the primacy of experimental control in cognitive neuroscience. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/whn6d) [`PDF`](https://snastase.github.io/files/Nastase_PsyArXiv_2020.pdf)
 
