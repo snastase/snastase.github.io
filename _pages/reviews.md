@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### October 29, 2020 &mdash; Open review of preprint by Di and Biswal: [`review`](https://snastase.github.io/reviews/2020-10-29-di) [`PubPeer`](https://pubpeer.com/publications/C46CEC1188604625888E1FAF724384#1)
+Di, X., & Biswal, B. B. (2020). Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.05.01.073163)
+
+---
+
 ### July 23, 2020 &mdash; Open review of preprint by Hawco and colleagues: [`review`](https://snastase.github.io/reviews/2020-07-23-hawco) [`PubPeer`](https://pubpeer.com/publications/E65BA050796D9BAEB4BA801AB6514A#1)
 Hawco, C. S., Dickie, E. W., Jacobs, G., Daskalakis, Z. J., & Voineskos, A. N. (2020). Moving beyond the mean: subgroups and dimensions of brain activity and cognitive performance across domains. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.02.28.970673)
 
