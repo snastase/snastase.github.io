@@ -11,6 +11,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 
 ---
 
+Nastase, S. A. (2020, November). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk presented at the Nathan Kline Institute for Psychiatric Research. [`DOI`](https://doi.org/10.5281/zenodo.4200147) [`slides`](https://docs.google.com/presentation/d/1d0_16R5mdvlP1SMLfdNrz0IccYHvZrxXemCp6U_8aYc/edit?usp=sharing)
+
 Nastase, S. A. (2020, June). *The benefits of BIDS*. Invited talk for the TrainTrack educational series at OHBM Brainhack 2020. [`DOI`](https://doi.org/10.5281/zenodo.3895409) [`slides`](https://docs.google.com/presentation/d/11MeS72TRLTiEwX4EbjWj84IFCTAmMJIawZF3VCLWLjA/edit?usp=sharing) [`OSF`](https://osf.io/ycrjq/) [`YouTube`](https://youtu.be/K9hVAr5fvJg)
 
 Nastase, S. A. (2020, May). *Direct fit: an ecological perspective on biological and artificial neural networks*. Invited talk presented at the Neural-AI Reading Group at Mila, Montreal, Canada. [`DOI`](https://doi.org/10.5281/zenodo.4016403) [`slides`](https://docs.google.com/presentation/d/1BD8s90D9QidmJkKEk1MIAApQmoC7VwKvqdDXpQKWlYM/edit?usp=sharing)
