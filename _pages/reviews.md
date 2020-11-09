@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### November 9, 2020 &mdash; Open review of preprint by Maffei and Sessa: [`review`](https://snastase.github.io/reviews/2020-11-09-maffei) [`PubPeer`](https://pubpeer.com/publications/6EBC686E5ABF76F907976C9B45B5D8#1)
+Maffei, A., & Sessa, P. (2020). Event-related network changes unfold the dynamics of cortical integration during face processing. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.06.29.177436)
+
+---
+
 ### October 29, 2020 &mdash; Open review of preprint by Di and Biswal: [`review`](https://snastase.github.io/reviews/2020-10-29-di) [`PubPeer`](https://pubpeer.com/publications/C46CEC1188604625888E1FAF724384#1)
 Di, X., & Biswal, B. B. (2020). Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.05.01.073163)
 
