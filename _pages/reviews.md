@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### November 28, 2020 &mdash; Open review of preprint by Toneva and colleagues: [`review`](https://snastase.github.io/reviews/2020-11-28-toneva) [`PubPeer`](https://pubpeer.com/publications/24105585B648D88A899BED9C642BC8#1)
+Toneva, M., Mitchell, T. M., & Wehbe, L. (2020). Combining computational controls with natural text reveals new aspects of meaning composition. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.09.28.316935)
+
+---
+
 ### November 9, 2020 &mdash; Open review of preprint by Maffei and Sessa: [`review`](https://snastase.github.io/reviews/2020-11-09-maffei) [`PubPeer`](https://pubpeer.com/publications/6EBC686E5ABF76F907976C9B45B5D8#1)
 Maffei, A., & Sessa, P. (2020). Event-related network changes unfold the dynamics of cortical integration during face processing. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.06.29.177436)
 
