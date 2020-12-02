@@ -11,9 +11,11 @@ If you're interested in hearing me talk at your institution, send me an [email](
 
 ---
 
+Nastase, S. A. (2020, December). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk presented at Johns Hopkins University, Baltimore, MD. [`DOI`](https://doi.org/10.5281/zenodo.4302630) [`slides`](https://docs.google.com/presentation/d/1cI-ck2EEz1FfSop5KjehLJcWehuJkYe2m6Uw25CQoMI/edit?usp=sharing)
+
 Nastase, S. A. (2020, November). *Rethinking the primacy of experimental control in cognitive neuroscience*. Invited talk presented at the Donders Session on "Narratives for Neurosicence" at the Donders Institute for Brain, Cognition and Behaviour, Nijmegen, the Netherlands. [`DOI`](https://doi.org/10.5281/zenodo.4292514) [`slides`](https://docs.google.com/presentation/d/1MOzVKbhmPrAPxN0T5NcbJRF8DQvgt-QI_NIX1XHqMko/edit?usp=sharing) [`Crowdcast`](https://www.crowdcast.io/e/geztctmd)
 
-Nastase, S. A. (2020, November). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk presented at the Nathan Kline Institute for Psychiatric Research. [`DOI`](https://doi.org/10.5281/zenodo.4200147) [`slides`](https://docs.google.com/presentation/d/1d0_16R5mdvlP1SMLfdNrz0IccYHvZrxXemCp6U_8aYc/edit?usp=sharing)
+Nastase, S. A. (2020, November). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk presented at the Nathan Kline Institute for Psychiatric Research, Orangeburg, NY. [`DOI`](https://doi.org/10.5281/zenodo.4200147) [`slides`](https://docs.google.com/presentation/d/1d0_16R5mdvlP1SMLfdNrz0IccYHvZrxXemCp6U_8aYc/edit?usp=sharing)
 
 Nastase, S. A. (2020, June). *The benefits of BIDS*. Invited talk for the TrainTrack educational series at OHBM Brainhack 2020. [`DOI`](https://doi.org/10.5281/zenodo.3895409) [`slides`](https://docs.google.com/presentation/d/11MeS72TRLTiEwX4EbjWj84IFCTAmMJIawZF3VCLWLjA/edit?usp=sharing) [`OSF`](https://osf.io/ycrjq/) [`YouTube`](https://youtu.be/K9hVAr5fvJg)
 
