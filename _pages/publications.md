@@ -11,6 +11,10 @@ You can also find my publications on my Google Scholar profile: [`Google Scholar
 
 ---
 
+Goldstein, A., Zada, Z., Buchnik, E., Schain, M., Price, A., Aubrey, B., Nastase, S. A., Feder, A., Emanual D., Cohen, A., Jensen, A., Gazula, H., Choe, G., Roa, A., Kim, C., Casto, C., Lora, F., Flinker, A., Devore, S., Doyle, W., Dugan, P., Friedman, D., Hassidim, A., Brenner, M., Matias, Y., Norman, K. A., Devinsky, O., & Hasson, U. (2020). Thinking ahead: prediction in context as a keystone of language in humans and machines. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.12.02.403477) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2020.pdf)
+
+Busch, E. L., Slipski, L., Feilong, M., Guntupalli, J. S., di Oleggio Castello, M. V., Huckins, J. F., Nastase, S. A., Gobbini, M. I., Wager, T., & Haxby, J. V. (2020). Hybrid hyperalignment: a single high-dimensional model of shared information embedded in cortical patterns of response and functional connectivity. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.11.25.398883) [`PDF`](https://snastase.github.io/files/Busch_bioRxiv_2020.pdf)
+
 Nguyen, M., Chang, A., Micciche, E., Meshulam, M., Nastase, S. A., & Hasson, U. (2020). Teacher-student neural coupling during teaching and learning. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.05.07.082958) [`PDF`](https://snastase.github.io/files/Nguyen_bioRxiv_2020.pdf)
 
 Nastase, S. A., Goldstein, A., & Hasson, U. (2020). Keep it real: rethinking the primacy of experimental control in cognitive neuroscience. *NeuroImage*, *222*, 117254. [`DOI`](https://doi.org/10.1016/j.neuroimage.2020.117254) [`PDF`](https://snastase.github.io/files/Nastase_NIMG_2020a.pdf)
