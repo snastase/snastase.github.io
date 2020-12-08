@@ -18,7 +18,7 @@ The following fMRI datasets are publicly available in [BIDS](https://bids.neuroi
 
 "Narratives" collection comprising fMRI data acquired over the course of seven years for over 300 participants listening to naturalistic spoken story stimuli. **Learn more here:** [`ds002345`](https://snastase.github.io/datasets/ds002345)
 
-Nastase, S. A., Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C., Lositsky, O., Simony, E., Chow, M. A., Leong, Y. C., Brooks, P. P., Micciche, E., Choe, G., Goldstein, A., Halchenko, Y. O., Norman, K. A., & Hasson, U. (2019). Narratives: fMRI data for evaluating models of naturalistic language comprehension. *OpenNeuro*, ds002345. [`DOI`](https://doi.org/10.18112/openneuro.ds002345.v1.1.1)
+Nastase, S. A., Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C., Lositsky, O., Simony, E., Chow, M. A., Leong, Y. C., Brooks, P. P., Micciche, E., Choe, G., Goldstein, A., Vanderwal, T., Halchenko, Y. O., Norman, K. A., & Hasson, U. (2019). Narratives: fMRI data for evaluating models of naturalistic language comprehension. *OpenNeuro*, ds002345. [`DOI`](https://doi.org/10.18112/openneuro.ds002345.v1.1.4)
 
 ---
 
