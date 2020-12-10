@@ -13,6 +13,12 @@ I contribute software to several open source projects, particularly the [BrainIA
 
 ---
 
+## BrainIAK: The Brain Imaging Analysis Kit [`website`](https://brainiak.org/) [`GitHub`](https://github.com/brainiak/brainiak)
+
+The Brain Imaging Analysis Kit (BrainIAK) is a free and open source Python package for computationally-optimized advanced fMRI analysis. BrainIAK supports a variety of methods including intersubject correlation (ISC) and intersubject functional connectivity (ISFC), the shared response model (SRM), full correlation matrix analysis (FCMA), Bayesian representational similarity analysis (BRSA), event segmentation using hidden Markov models, topographic factor analysis (TFA), inverted encoding models (IEM), fMRI data simulation (fmrisim), and real-time fMRI neurofeedback.
+
+Kumar, M., Anderson, M. J., Antony, J. W., Baldassano, C., Brooks, P. P., Cai, M. B., Chen, P.-H. C., Ellis, C. T., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J. B., Li, P. Y., Lu, Q., Manning, J. R., Mennen, A. C., Nastase, S. A., Richard, H., Schapiro, A. C., Schuck, N. W., Shvartsman, M., Sundaraman, N., Suo, D., Turek, J. S., Vo, V. A., Wallace, G., Wang, Y., Zhang, H., Zhu, X., Capota, M., Cohen, J. D., Hasson, U., Li, K., Ramadge, P. J., Turk-Browne, N. B., Willke, T. L., & Norman, K. A. (2020). BrainIAK: The Brain Imaging Analysis Kit. *OSF*. [`DOI`](https://doi.org/10.31219/osf.io/db2ev) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2020.pdf) [`GitHub`](https://github.com/brainiak/brainiak-aperture)
+
 ## Princeton Handbook for Reproducible Neuroimaging [`DOI`](http://doi.org/10.5281/zenodo.3688789) [`Handbook`](https://brainhack-princeton.github.io/handbook/)
 
 The goal of this handbook is to provide a reference for best practices in reproducible fMRI research. There’s no single “right” answer for many questions in fMRI, but here we try to provide helpful references and recommendations. Many elements of the handbook are specific to the Princeton Neuroscience Institute computing infrastructure, but the principles are widely applicable. This document will be updated over time as best practices evolve.

@@ -30,6 +30,9 @@ redirect_from:
 
 ## Publications
 ---
+
+Kumar, M., Anderson, M. J., Antony, J. W., Baldassano, C., Brooks, P. P., Cai, M. B., Chen, P.-H. C., Ellis, C. T., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J. B., Li, P. Y., Lu, Q., Manning, J. R., Mennen, A. C., **Nastase, S. A.**, Richard, H., Schapiro, A. C., Schuck, N. W., Shvartsman, M., Sundaraman, N., Suo, D., Turek, J. S., Vo, V. A., Wallace, G., Wang, Y., Zhang, H., Zhu, X., Capota, M., Cohen, J. D., Hasson, U., Li, K., Ramadge, P. J., Turk-Browne, N. B., Willke, T. L., & Norman, K. A. (2020). BrainIAK: The Brain Imaging Analysis Kit. *OSF*. [`DOI`](https://doi.org/10.31219/osf.io/db2ev) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2020.pdf)
+
 Goldstein, A., Zada, Z., Buchnik, E., Schain, M., Price, A., Aubrey, B., **Nastase, S. A.**, Feder, A., Emanual D., Cohen, A., Jensen, A., Gazula, H., Choe, G., Roa, A., Kim, C., Casto, C., Lora, F., Flinker, A., Devore, S., Doyle, W., Dugan, P., Friedman, D., Hassidim, A., Brenner, M., Matias, Y., Norman, K. A., Devinsky, O., & Hasson, U. (2020). Thinking ahead: prediction in context as a keystone of language in humans and machines. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.12.02.403477) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2020.pdf)
 
 Busch, E. L., Slipski, L., Feilong, M., Guntupalli, J. S., di Oleggio Castello, M. V., Huckins, J. F., **Nastase, S. A.**, Gobbini, M. I., Wager, T., & Haxby, J. V. (2020). Hybrid hyperalignment: a single high-dimensional model of shared information embedded in cortical patterns of response and functional connectivity. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.11.25.398883) [`PDF`](https://snastase.github.io/files/Busch_bioRxiv_2020.pdf)
