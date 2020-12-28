@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### December 27, 2020 &mdash; Open review of preprint by Xu and colleagues: [`review`](https://snastase.github.io/reviews/2020-12-27-xu) [`PubPeer`](https://pubpeer.com/publications/0E9022DAD287E3622AA0873CE14EEA#1)
+Xu, Y., Vignali, L., Collignon, O., Crepaldi, D., & Bottini, R. (2020). Brain network reconfiguration for narrative and argumentative thought. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.07.20.211466)
+
+---
+
 ### November 28, 2020 &mdash; Open review of preprint by Toneva and colleagues: [`review`](https://snastase.github.io/reviews/2020-11-28-toneva) [`PubPeer`](https://pubpeer.com/publications/24105585B648D88A899BED9C642BC8#1)
 Toneva, M., Mitchell, T. M., & Wehbe, L. (2020). Combining computational controls with natural text reveals new aspects of meaning composition. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.09.28.316935)
 
