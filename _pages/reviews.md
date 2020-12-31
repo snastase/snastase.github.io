@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### December 31, 2020 &mdash; Open review of preprint by Kaiser and colleagues: [`review`](https://snastase.github.io/reviews/2020-12-31-kaiser) [`PubPeer`](https://pubpeer.com/publications/C82DAD83F8777FC632001E7C382DFB#1)
+Kaiser, D., Haeberle, G., & Cichy, R. M. (2020). Coherent natural scene structure facilitates the extraction of task-relevant object information in visual cortex. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.12.01.406959)
+
+---
+
 ### December 27, 2020 &mdash; Open review of preprint by Xu and colleagues: [`review`](https://snastase.github.io/reviews/2020-12-27-xu) [`PubPeer`](https://pubpeer.com/publications/0E9022DAD287E3622AA0873CE14EEA#1)
 Xu, Y., Vignali, L., Collignon, O., Crepaldi, D., & Bottini, R. (2020). Brain network reconfiguration for narrative and argumentative thought. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.07.20.211466)
 
