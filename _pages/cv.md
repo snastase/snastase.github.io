@@ -141,7 +141,7 @@ Psychology & Cognitive Sciences Department, University of Trento
 
 ## Community
 ---
-**Volunteer reviewer:** *Canada Foundation for Innovation*, *Cerebral Cortex*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *NeuroImage*, *PLOS One*, *PLOS Computational Biology*, *Proceedings of the National Academy of Sciences of the United States of America*,  *Psychophysiology*, *Science*, *Scientific Data*, *Social Cognitive and Affective Neuroscience*.
+**Volunteer reviewer:** *Canada Foundation for Innovation*, *Cerebral Cortex*, *Communications Biology*,  *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *Nature*, *Nature Communications*, *NeuroImage*, *Neuropsychologia*, *PLOS One*, *PLOS Computational Biology*, *Proceedings of the National Academy of Sciences of the United States of America*,  *Psychophysiology*, *Science*, *Scientific Data*, *Social Cognitive and Affective Neuroscience*.
 
 **Society membership:** Organization for Human Brain Mapping, Society for Neuroscience, Vision Sciences Society, Cognitive Neuroscience Society
 
