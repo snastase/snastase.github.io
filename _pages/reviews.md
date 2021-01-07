@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### January 6, 2021 &mdash; Open review of preprint by Bazeille, DuPre, and colleagues: [`review`](https://snastase.github.io/reviews/2021-01-06-bazeille) [`PubPeer`](https://pubpeer.com/publications/6361A2E12F1D599440B918E51C6D89#1)
+Bazeille, T., DuPre, E., Poline, J. B., & Thirion, B. (2020). An empirical evaluation of functional alignment using inter-subject decoding. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.12.07.415000)
+
+---
+
 ### December 31, 2020 &mdash; Open review of preprint by Kaiser and colleagues: [`review`](https://snastase.github.io/reviews/2020-12-31-kaiser) [`PubPeer`](https://pubpeer.com/publications/C82DAD83F8777FC632001E7C382DFB#1)
 Kaiser, D., Haeberle, G., & Cichy, R. M. (2020). Coherent natural scene structure facilitates the extraction of task-relevant object information in visual cortex. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.12.01.406959)
 
