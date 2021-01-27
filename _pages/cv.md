@@ -31,6 +31,8 @@ redirect_from:
 ## Publications
 ---
 
+Williams, J. A., Margulis, E. H., **Nastase, S. A.**, Chen, J., Hasson, U., Norman, K. A., Baldassano, C. (2021). High-order areas and auditory cortex booth representt the high-level event structure of music. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.01.26.428291) [`PDF`](https://snastase.github.io/files/Williams_bioRxiv_2021.pdf)
+
 **Nastase, S. A.**, Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C., Lositsky, O., Simony, E., Chow, M. A., Leong, Y. C., Brooks, P. P., Micciche, E., Choe, G., Goldstein, A., Vanderwal, T., Halchenko, Y. O., Norman, K. A., & Hasson, U. (2020). Narratives: fMRI data for evaluating models of naturalistic language comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.12.23.424091) [`PDF`](https://snastase.github.io/files/Nastase_bioRxiv_2020.pdf)
 
 Kumar, M., Anderson, M. J., Antony, J. W., Baldassano, C., Brooks, P. P., Cai, M. B., Chen, P.-H. C., Ellis, C. T., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J. B., Li, P. Y., Lu, Q., Manning, J. R., Mennen, A. C., **Nastase, S. A.**, Richard, H., Schapiro, A. C., Schuck, N. W., Shvartsman, M., Sundaraman, N., Suo, D., Turek, J. S., Vo, V. A., Wallace, G., Wang, Y., Zhang, H., Zhu, X., Capota, M., Cohen, J. D., Hasson, U., Li, K., Ramadge, P. J., Turk-Browne, N. B., Willke, T. L., & Norman, K. A. (2020). BrainIAK: The Brain Imaging Analysis Kit. *OSF Preprints*. [`DOI`](https://doi.org/10.31219/osf.io/db2ev) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2020.pdf)
