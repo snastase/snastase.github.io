@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### February 6, 2021 &mdash; Open review of preprint by Naumann and colleagues: [`review`](https://snastase.github.io/reviews/2021-02-06-naumann) [`PubPeer`](https://pubpeer.com/publications/5DD9F597038F312639D4FD3F39ECFE#1)
+Naumann, S., Byrne, M. L., de la Fuente, L. A., Harrewijn, A., PhD, Nugiel, T., Rosen, M. L., Dziobiek, I., van Atteveldt, N., & Matusz, P. J. (2020). Assessing the degree of ecological validity of your study: Introducing the Ecological Validity Assessment (EVA) Tool. [`DOI`](https://doi.org/10.31234/osf.io/qb9tz)
+
+---
+
 ### January 6, 2021 &mdash; Open review of preprint by Bazeille, DuPre, and colleagues: [`review`](https://snastase.github.io/reviews/2021-01-06-bazeille) [`PubPeer`](https://pubpeer.com/publications/6361A2E12F1D599440B918E51C6D89#1)
 Bazeille, T., DuPre, E., Poline, J. B., & Thirion, B. (2020). An empirical evaluation of functional alignment using inter-subject decoding. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.12.07.415000)
 
