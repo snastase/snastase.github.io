@@ -11,6 +11,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 
 ---
 
+Nastase, S. A. (2021, February). *Developing community resources for reproducible neuroimaging*. Invited talk presented at the "Research Inside-Out: Shifting the conversation to research-as-process" panel discussion at Princeton University, Princeton, NJ. [`DOI`](https://doi.org/10.5281/zenodo.4563048) [`slides`](https://docs.google.com/presentation/d/1XUP8lquCzlj25zlDSFy_Pw8YQCdbHqfaBL0mMEN2W4g/edit?usp=sharing)
+
 Nastase, S. A. (2020, December). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk presented at Johns Hopkins University, Baltimore, MD. [`DOI`](https://doi.org/10.5281/zenodo.4302630) [`slides`](https://docs.google.com/presentation/d/1cI-ck2EEz1FfSop5KjehLJcWehuJkYe2m6Uw25CQoMI/edit?usp=sharing)
 
 Nastase, S. A. (2020, November). *Rethinking the primacy of experimental control in cognitive neuroscience*. Invited talk presented at the Donders Session on "Narratives for Neuroscience" at the Donders Institute for Brain, Cognition and Behaviour, Nijmegen, the Netherlands. [`DOI`](https://doi.org/10.5281/zenodo.4292514) [`slides`](https://docs.google.com/presentation/d/1MOzVKbhmPrAPxN0T5NcbJRF8DQvgt-QI_NIX1XHqMko/edit?usp=sharing) [`Crowdcast`](https://www.crowdcast.io/e/geztctmd)
