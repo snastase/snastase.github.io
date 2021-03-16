@@ -11,6 +11,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 
 ---
 
+Nastase, S. A. (2021, March). *The neuroscience of storytelling*. Invited talk presented at the "Voices of STEM" virtual workshop at Princeton University, Princeton, NJ. [`slides`](https://docs.google.com/presentation/d/1Qv_CEZI4rGlXMhbI5VhIAyNdH_jwyk8rDEbdiMBoYtA/edit?usp=sharing)
+
 Nastase, S. A. (2021, March). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk presented at the Courtois Project on Neuronal Modelling (CNeuromod), Montreal, QC, Canada. [`DOI`](https://doi.org/10.5281/zenodo.4579746) [`slides`](https://docs.google.com/presentation/d/18vM4ITkQlsv8CkcN-s2KTd2cOL46JWzQBi0dmBotak4/edit?usp=sharing)
 
 Nastase, S. A. (2021, February). *Developing community resources for reproducible neuroimaging*. Invited talk presented at the "Research Inside-Out: Shifting the conversation to research-as-process" panel discussion at Princeton University, Princeton, NJ. [`DOI`](https://doi.org/10.5281/zenodo.4563048) [`slides`](https://docs.google.com/presentation/d/1XUP8lquCzlj25zlDSFy_Pw8YQCdbHqfaBL0mMEN2W4g/edit?usp=sharing)
