@@ -22,15 +22,17 @@ redirect_from:
 
 ## Employment
 ---
-**Postdoctoral Reseaarch Associate**  February, 2018&ndash;present<br>
+**Postdoctoral Research Associate**  February, 2018&ndash;present<br>
 **Princeton University** (advisor: Uri Hasson)
+
+**University Lecturer**  February, 2021&ndash;present<br>
+**Princeton University**
 
 **Student Intern**  June&ndash;August, 2016<br>
 **Siemens Healthcare** (advisor: Francisco Pereira)
 
 ## Publications
 ---
-
 Busch, E. L., Slipski, L., Feilong, M., Guntupalli, J. S., di Oleggio Castello, M. V., Huckins, J. F., **Nastase, S. A.**, Gobbini, M. I., Wager, T., & Haxby, J. V. (2020). Hybrid hyperalignment: a single high-dimensional model of shared information embedded in cortical patterns of response and functional connectivity. *NeuroImage*, *233*,  117975. [`DOI`](https://doi.org/10.1016/j.neuroimage.2021.117975) [`PDF`](https://snastase.github.io/files/Busch_NIMG_2021.pdf)
 
 Wu, A., **Nastase S. A.**, Baldassano, C., Turk-Browne, N. B., Norman, K. A., Engelhardt, B. E., & Pillow, J. W. (2021). Brain kernel: a new spatial covariance function for fMRI data. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.03.22.436524) [`PDF`](https://snastase.github.io/files/Wu_bioRxiv_2021.pdf)
@@ -65,7 +67,6 @@ Haxby, J. V., Gobbini, M. I., & **Nastase, S. A.** (2020). Naturalistic stimuli 
 
 Lin, X., Sur, I., **Nastase, S. A.**, Divakaran, A., Hasson, U., & Amer, M. R. (2019). Data-efficient mutual information neural estimator. *arXiv*, arXiv:1905.03319. [`DOI`](https://arxiv.org/abs/1905.03319) [`PDF`](https://snastase.github.io/files/Lin_arXiv_2019.pdf)
 
-
 Feilong, M., **Nastase, S. A.**, Guntupalli, J. S., Haxby, J. V. (2018). Reliable individual difference in fine-grained cortical functional architecture. *NeuroImage*, *138*, 375–386. [`DOI`](https://doi.org/10.1016/j.neuroimage.2018.08.029) [`PDF`](https://snastase.github.io/files/Feilong_NIMG_2018.pdf)
 
 Van Uden, C. E.\*, <b>Nastase, S. A.\*</b>, Connolly, A. C., Feilong, M., Hansen, I., Gobbini, M. I., Haxby, J. V. (2018). Modeling semantic encoding in a common neural representational space. *Frontiers in Neuroscience*, *12*, 437. [`DOI`](https://doi.org/10.3389/fnins.2018.00437) [`PDF`](https://snastase.github.io/files/VanUden_FrontNeurosci_2018.pdf)
@@ -86,7 +87,38 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 
 **Nastase, S. A.**, Iacovella, V. and Hasson, U. (2014). Uncertainty in visual and auditory series is coded by modality-general and modality-specific neural systems. *Human Brain Mapping*, *35*(4), 1111–1128. [`DOI`](https://doi.org/10.1002/hbm.22238) [`PDF`](https://snastase.github.io/files/Nastase_HumBrainMapp_2014.pdf)
 
+## Invited talks
+---
+**Nastase, S. A.** (2021, March). *The neuroscience of storytelling*. Invited talk at the Council on Science and Technology "Voices of STEM" virtual workshop at Princeton University, Princeton, NJ. [`slides`](https://docs.google.com/presentation/d/1Qv_CEZI4rGlXMhbI5VhIAyNdH_jwyk8rDEbdiMBoYtA/edit?usp=sharing)
+
+**Nastase, S. A.** (2021, March). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at the Courtois Project on Neuronal Modelling (CNeuromod), Montreal, QC, Canada. [`DOI`](https://doi.org/10.5281/zenodo.4579746) [`slides`](https://docs.google.com/presentation/d/18vM4ITkQlsv8CkcN-s2KTd2cOL46JWzQBi0dmBotak4/edit?usp=sharing)
+
+**Nastase, S. A.** (2021, February). *Developing community resources for reproducible neuroimaging*. Invited talk at the Princeton University Library "Research Inside-Out: Shifting the conversation to research-as-process" panel discussion at Princeton University, Princeton, NJ. [`DOI`](https://doi.org/10.5281/zenodo.4563048) [`slides`](https://docs.google.com/presentation/d/1XUP8lquCzlj25zlDSFy_Pw8YQCdbHqfaBL0mMEN2W4g/edit?usp=sharing)
+
+**Nastase, S. A.** (2020, December). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at Johns Hopkins University, Baltimore, MD. [`DOI`](https://doi.org/10.5281/zenodo.4302630) [`slides`](https://docs.google.com/presentation/d/1cI-ck2EEz1FfSop5KjehLJcWehuJkYe2m6Uw25CQoMI/edit?usp=sharing)
+
+**Nastase, S. A.** (2020, November). *Rethinking the primacy of experimental control in cognitive neuroscience*. Invited talk at the Donders Session on "Narratives for Neuroscience" at the Donders Institute for Brain, Cognition and Behaviour, Nijmegen, the Netherlands. [`DOI`](https://doi.org/10.5281/zenodo.4292514) [`slides`](https://docs.google.com/presentation/d/1MOzVKbhmPrAPxN0T5NcbJRF8DQvgt-QI_NIX1XHqMko/edit?usp=sharing) [`Crowdcast`](https://www.crowdcast.io/e/geztctmd)
+
+**Nastase, S. A.** (2020, November). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at the Nathan Kline Institute for Psychiatric Research, Orangeburg, NY. [`DOI`](https://doi.org/10.5281/zenodo.4200147) [`slides`](https://docs.google.com/presentation/d/1d0_16R5mdvlP1SMLfdNrz0IccYHvZrxXemCp6U_8aYc/edit?usp=sharing)
+
+**Nastase, S. A.** (2020, June). *The benefits of BIDS*. Invited talk for the TrainTrack educational series at OHBM Brainhack 2020. [`DOI`](https://doi.org/10.5281/zenodo.3895409) [`slides`](https://docs.google.com/presentation/d/11MeS72TRLTiEwX4EbjWj84IFCTAmMJIawZF3VCLWLjA/edit?usp=sharing) [`OSF`](https://osf.io/ycrjq/) [`YouTube`](https://youtu.be/K9hVAr5fvJg)
+
+**Nastase, S. A.** (2020, May). *Direct fit: an ecological perspective on biological and artificial neural networks*. Invited talk at the Neural-AI Reading Group at Mila, Montreal, Canada. [`DOI`](https://doi.org/10.5281/zenodo.4016403) [`slides`](https://docs.google.com/presentation/d/1BD8s90D9QidmJkKEk1MIAApQmoC7VwKvqdDXpQKWlYM/edit?usp=sharing)
+
+**Nastase, S. A.** (2020, February). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at Columbia University, New York, NY. [`DOI`](https://doi.org/10.5281/zenodo.4016407) [`slides`](https://docs.google.com/presentation/d/1pERQXZhCb5obRee6K2-J9JOGSM1dDlOICsw574f-SG8/edit?usp=sharing)
+
+**Nastase, S. A.** (2019, August). *Estimating a shared response space across heterogeneous naturalistic story-listening data sets.* Invited talk at the Center for Cognitive Neuroscience workshop on "Semantic processing and semantic knowledge" at Dartmouth College, Hanover, NH. [`DOI`](https://doi.org/10.5281/zenodo.4016413) [`slides`](https://docs.google.com/presentation/d/1h8cS6aELS7uCFuOP6kWjUsEvJQRQPCExSD1QI7ssQ0I/edit?usp=sharing) [`YouTube`](https://youtu.be/YSLbu63_M70)
+
+**Nastase, S. A.** *Aligning fine-grained functional topographies across individuals*. (2017, November). Invited talk at Brainhack DC, Washington, DC.
+
+**Nastase, S. A.** (2017, August) *Primacy of observed action representation during natural vision*. Invited talk at the Center for Cognitive Neuroscience workshop on "Action understanding: from kinematics to mind" at Dartmouth College, Hanover, NH. [`DOI`](https://doi.org/10.5281/zenodo.4016415) [`YouTube`](https://youtu.be/fI3u1TwMFPM)
+
+**Nastase, S. A.** & Haxby, J. V. (2016, November). *Constructing a representational atlas for human cerebral cortex*. Invited talk at the Neurocog 2016 workshop at Katholieke Universiteit Leuven, Leuven, Belgium. [`DOI`](https://doi.org/10.5281/zenodo.4016445)
+
+**Nastase, S. A.** (2015, June). *Multivariate pattern analysis for neuroscience*. Invited talk at the Dartmouth-Hitchcock Medical Center, Lebanon, NH.
+
 ## Open data
+---
 **OpenNeuro ds002345**<br>
 **Nastase, S. A.**, Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C. B., Lositsky, O., Simony, E., Chow, M. A., Leong, Y. C., Brooks, P. P., Micciche, E., Choe, G., Goldstein, A., Halchenko, Y. O., Norman, K. A., & Hasson, U. Narratives: fMRI data for evaluating models of naturalistic language comprehension. [`DOI`](https://doi.org/10.18112/openneuro.ds002345.v1.0.1)
 
@@ -94,6 +126,10 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 **Nastase, S. A.**, Halchenko, Y. O., Connolly, A. C., Gobbini, M. I., Haxby, J. V. (2018). Neural responses to naturalistic clips of behaving animals in two different task contexts. [`DOI`](https://doi.org/10.18112/openneuro.ds000233.v1.0.1)
 
 ## Open code
+---
+**Brain Imaging Analysis Kit (BrainIAK)**<br>
+Kumar, M., Anderson, M. J., Antony, J. W., Baldassano, C., Brooks, P. P., Cai, M. B., Chen, P.-H. C., Ellis, C. T., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J. B., Li, P. Y., Lu, Q., Manning, J. R., Mennen, A. C., **Nastase, S. A.**, Richard, H., Schapiro, A. C., Schuck, N. W., Shvartsman, M., Sundaraman, N., Suo, D., Turek, J. S., Vo, V. A., Wallace, G., Wang, Y., Zhang, H., Zhu, X., Capota, M., Cohen, J. D., Hasson, U., Li, K., Ramadge, P. J., Turk-Browne, N. B., Willke, T. L., & Norman, K. A. (2020) BrainIAK: The Brain Imaging Analysis Kit. [`DOI`](https://doi.org/10.31219/osf.io/db2ev) [`website`]( https://brainiak.org/) [`GitHub`](https://github.com/brainiak/brainiak)
+
 **Princeton Handbook for Reproducible Neuroimaging**<br>
 Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M., & **Nastase, S. A.**. (2020). Princeton Handbook for Reproducible Neuroimaging. [`DOI`](http://doi.org/10.5281/zenodo.3688789) [`Handbook`](https://brainhack-princeton.github.io/handbook/)
 
@@ -102,6 +138,9 @@ Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M.,
 
 ## Teaching
 ---
+**Lecturer&mdash;Neuroscience: From Molecules to Systems to Behavior**  Spring, 2021<br>
+Princeton University (co-lecturers: Jonathan Cohen, Leigh Nystrom)
+
 **Teaching assistant&mdash;Systems Neuroscience with Lab**  Fall, 2015<br>
 Dartmouth College (instructors: Jeffrey Taube, Matthijs van der Meer)
 
@@ -141,6 +180,12 @@ The William H. Neukom Institute for Computational Science
 **Marie A. Center 1982 Graduate Award for Excellence in Teaching**  June, 2014<br>
 Department of Psychological & Brain Sciences, Dartmouth College
 
+**Student Council Conference Travel Grant**  April, 2014<br>
+Graduate Student Council, Dartmouth College
+
+**Graduate Travel Award**  April, 2014<br>
+Dartmouth Graduate Studies, Dartmouth College
+
 **Trainee Abstract Travel Award**  March, 2014<br>
 Organization for Human Brain Mapping
 
@@ -154,6 +199,10 @@ Psychology & Cognitive Sciences Department, University of Trento
 **Society membership:** Organization for Human Brain Mapping, Society for Neuroscience, Vision Sciences Society, Cognitive Neuroscience Society
 
 **Mentorship**<br>
+Zaid Zada, graduate student, Hasson Lab, Princeton University<br>
+Sade Abiodun, graduate student, Hasson Lab, Princeton University<br>
+Jamal Williams, graduate student, Norman Lab, Princeton University<br>
+Anqi Wu, graduate student, Pillow Lab, Princeton University<br>
 Paula Brooks, graduate student, Norman Lab, Princeton University<br>
 Anne Mennen, graduate student, Norman Lab, Princeton University<br>
 Anqi Wu, graduate student, Pillow Lab, Princeton University<br>
