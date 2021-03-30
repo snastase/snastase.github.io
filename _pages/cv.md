@@ -202,13 +202,32 @@ Psychology & Cognitive Sciences Department, University of Trento
 Zaid Zada, graduate student, Hasson Lab, Princeton University<br>
 Sade Abiodun, graduate student, Hasson Lab, Princeton University<br>
 Jamal Williams, graduate student, Norman Lab, Princeton University<br>
-Anqi Wu, graduate student, Pillow Lab, Princeton University<br>
 Paula Brooks, graduate student, Norman Lab, Princeton University<br>
 Anne Mennen, graduate student, Norman Lab, Princeton University<br>
 Anqi Wu, graduate student, Pillow Lab, Princeton University<br>
 Cara E. Van Uden, undergraduate research assistant, Haxby Lab, Dartmouth College<br>
 Rebecca E. Philip, undergraduate research assistant, Gobbini Lab, Dartmouth College<br>
 Anwesh Dash, undergraduate honor’s thesis, Gobbini Lab, Dartmouth College<br>
+
+**Events**<br>
+Brainhack Princeton 2020, Princeton University&mdash;organizer (December, 2020)<br>
+Neuroimaging Analysis Methods (NIAM) seminar series, Princeton University&mdash;organizer (2019–present)<br>
+Brainhack Princeton 2019, Princeton University&mdash;organizer (November, 2019)<br>
+Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (August, 2019)<br>
+Neurohackademy, University of Washington&mdash;attendee (July, 2019)<br>
+Kavli Summer Institute in Cognitive Neuroscience&mdash;attendee (June, 2019)<br>
+OHBM Brainhack 2019, Rome&mdash;attendee (June, 2019)<br>
+Pygers Reproducible Neuroimaging support group&mdash;organizer (2018—present)<br>
+OHBM Brainhack 2018, Singapore&mdash;attendee (June, 2018)<br>
+Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (August, 2017)<br>
+Brainhack Dartmouth 2017, Dartmouth College&mdash;organizer (March, 2017)<br>
+Brainhack LA 2016, UCLA&mdash;attendee (November, 2016)<br>
+Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (August, 2016)<br>
+AFNI Boot Camp, Dartmouth College&mdash;organizer (September, 2016)<br>
+Professional Ethics Program, Dartmouth College&mdash;instructor (September, 2014)<br>
+AFNI Boot Camp, Dartmouth College&mdash;organizer (September, 2014)<br>
+Cognitive Brown Bag symposium series, Dartmouth College&mdash;organizer (2014–2016)<br>
+fMRI Brown Bag symposium series, Dartmouth College&mdash;organizer (2013–2017)<br>
 
 ## Media
 ---
