@@ -32,7 +32,7 @@ Nastase, S. A. (2020, February). *Scaling up to a more ecological (and reproduci
 
 Nastase, S. A. (2019, August). *Estimating a shared response space across heterogeneous naturalistic story-listening data sets.* Invited talk at the Center for Cognitive Neuroscience workshop on "Semantic processing and semantic knowledge" at Dartmouth College, Hanover, NH. [`DOI`](https://doi.org/10.5281/zenodo.4016413) [`slides`](https://docs.google.com/presentation/d/1h8cS6aELS7uCFuOP6kWjUsEvJQRQPCExSD1QI7ssQ0I/edit?usp=sharing) [`YouTube`](https://youtu.be/YSLbu63_M70)
 
-Nastase, S. A. *Aligning fine-grained functional topographies across individuals*. (2017, November). Invited talk at Brainhack DC, Washington, DC.
+Nastase, S. A. (2017, November).  *Aligning fine-grained functional topographies across individuals*. Invited talk at Brainhack DC, Washington, DC.
 
 Nastase, S. A. (2017, August) *Primacy of observed action representation during natural vision*. Invited talk at the Center for Cognitive Neuroscience workshop on "Action understanding: from kinematics to mind" at Dartmouth College, Hanover, NH. [`DOI`](https://doi.org/10.5281/zenodo.4016415) [`YouTube`](https://youtu.be/fI3u1TwMFPM)
 
