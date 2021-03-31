@@ -71,7 +71,7 @@ Feilong, M., **Nastase, S. A.**, Guntupalli, J. S., Haxby, J. V. (2018). Reliabl
 
 Van Uden, C. E.\*, <b>Nastase, S. A.\*</b>, Connolly, A. C., Feilong, M., Hansen, I., Gobbini, M. I., Haxby, J. V. (2018). Modeling semantic encoding in a common neural representational space. *Frontiers in Neuroscience*, *12*, 437. [`DOI`](https://doi.org/10.3389/fnins.2018.00437) [`PDF`](https://snastase.github.io/files/VanUden_FrontNeurosci_2018.pdf)
 
-**Nastase, S. A.**, Halchenko, Y. O., Connolly, A. C., Gobbini, M. I., Haxby, J. V. (2018). Neural responses to naturalistic clips of behaving animals in to different task contexts. *Frontiers in Neuroscience*, *12*, 316. [`DOI`](https://doi.org/10.3389/fnins.2018.00316) [`PDF`](https://snastase.github.io/files/Nastase_FrontNeurosci_2018.pdf)
+**Nastase, S. A.**, Halchenko, Y. O., Connolly, A. C., Gobbini, M. I., Haxby, J. V. (2018). Neural responses to naturalistic clips of behaving animals in two different task contexts. *Frontiers in Neuroscience*, *12*, 316. [`DOI`](https://doi.org/10.3389/fnins.2018.00316) [`PDF`](https://snastase.github.io/files/Nastase_FrontNeurosci_2018.pdf)
 
 **Nastase, S. A.**, Davis, B., Hasson, U. (2018). Cross-modal and non-monotonic representations of statistical regularity are encoded in local neural response patterns. *NeuroImage*, *173*,  509–517. [`DOI`](https://doi.org/10.1016/j.neuroimage.2018.02.019) [`PDF`](https://snastase.github.io/files/Nastase_NIMG_2018.pdf)
 
