@@ -11,21 +11,21 @@ redirect_from:
 
 ## Education 
 ---
-**BA&mdash;Cognitive Science, Philosophy**  May, 2010<br>
-**Johns Hopkins University** (advisor: Michael McCloskey)
+**PhD&mdash;Cognitive Neuroscience**  December, 2017<br>
+**Dartmouth College** (advisor: James V. Haxby)
 
 **MSc&mdash;Cognitive Neuroscience**  July, 2012<br>
 **University of Trento** (advisor: Uri Hasson)
 
-**PhD&mdash;Cognitive Neuroscience**  December, 2017<br>
-**Dartmouth College** (advisor: James V. Haxby)
+**BA&mdash;Cognitive Science, Philosophy**  May, 2010<br>
+**Johns Hopkins University** (advisor: Michael McCloskey)
 
 ## Employment
 ---
 **Postdoctoral Research Associate**  February, 2018&ndash;present<br>
 **Princeton University** (advisor: Uri Hasson)
 
-**University Lecturer**  February, 2021&ndash;present<br>
+**University Lecturer**  February, 2021&ndash;present<br>
 **Princeton University**
 
 **Student Intern**  June&ndash;August, 2016<br>
@@ -89,6 +89,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 
 ## Invited talks
 ---
+Nastase, S. A. (2021, April). *Developing a community resource for natural language neuroimaging*. Invited talk at University of Michigan, Ann Arbor, MI. [`DOI`](https://doi.org/10.5281/zenodo.4677495) [`slides`](https://docs.google.com/presentation/d/1D7uikh4FsqeQrcrIgZsVABoESa5o2JHnHZEBVdBRxEY/edit?usp=sharing)
+
 **Nastase, S. A.** (2021, March). *The neuroscience of storytelling*. Invited talk at the Council on Science and Technology "Voices of STEM" virtual workshop at Princeton University, Princeton, NJ. [`slides`](https://docs.google.com/presentation/d/1Qv_CEZI4rGlXMhbI5VhIAyNdH_jwyk8rDEbdiMBoYtA/edit?usp=sharing)
 
 **Nastase, S. A.** (2021, March). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at the Courtois Project on Neuronal Modelling (CNeuromod), Montreal, QC, Canada. [`DOI`](https://doi.org/10.5281/zenodo.4579746) [`slides`](https://docs.google.com/presentation/d/18vM4ITkQlsv8CkcN-s2KTd2cOL46JWzQBi0dmBotak4/edit?usp=sharing)
