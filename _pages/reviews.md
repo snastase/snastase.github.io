@@ -13,8 +13,14 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### April 18, 2021 &mdash; Open review of preprint by Azhari and colleagues: [`review`](https://snastase.github.io/reviews/2021-04-18-azhari) [`PubPeer`](https://pubpeer.com/publications/A67BC3C487C85AAFEC7F1407B87CFD#1)
+Azhari, A., Bizzego, A., & Esposito, G. (2020). Father-child dyads exhibit unique inter-subject synchronisation during co-viewing of animation video stimuli. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.10.30.361592
+)
+
+---
+
 ### February 6, 2021 &mdash; Open review of preprint by Naumann and colleagues: [`review`](https://snastase.github.io/reviews/2021-02-06-naumann) [`PubPeer`](https://pubpeer.com/publications/5DD9F597038F312639D4FD3F39ECFE#1)
-Naumann, S., Byrne, M. L., de la Fuente, L. A., Harrewijn, A., PhD, Nugiel, T., Rosen, M. L., Dziobiek, I., van Atteveldt, N., & Matusz, P. J. (2020). Assessing the degree of ecological validity of your study: Introducing the Ecological Validity Assessment (EVA) Tool. [`DOI`](https://doi.org/10.31234/osf.io/qb9tz)
+Naumann, S., Byrne, M. L., de la Fuente, L. A., Harrewijn, A., PhD, Nugiel, T., Rosen, M. L., Dziobiek, I., van Atteveldt, N., & Matusz, P. J. (2020). Assessing the degree of ecological validity of your study: Introducing the Ecological Validity Assessment (EVA) Tool. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/qb9tz)
 
 ---
 
