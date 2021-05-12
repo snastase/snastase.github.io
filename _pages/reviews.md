@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### May 11, 2021 &mdash; Open review of preprint by Dominey: [`review`](https://snastase.github.io/reviews/2021-05-11-dominey) [`PubPeer`](https://pubpeer.com/publications/92952EA83F09F32F080C5D193EB132#1)
+Dominey, P. F. (2021). Narrative event segmentation in the cortical reservoir. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.04.23.441090)
+
+---
+
 ### April 18, 2021 &mdash; Open review of preprint by Azhari and colleagues: [`review`](https://snastase.github.io/reviews/2021-04-18-azhari) [`PubPeer`](https://pubpeer.com/publications/A67BC3C487C85AAFEC7F1407B87CFD#1)
 Azhari, A., Bizzego, A., & Esposito, G. (2020). Father-child dyads exhibit unique inter-subject synchronisation during co-viewing of animation video stimuli. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.10.30.361592
 )
