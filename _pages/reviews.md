@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### May 22, 2021 &mdash; Open review of preprint by Lee Masson and Isik: [`review`](https://snastase.github.io/reviews/2021-05-22-leemasson) [`PubPeer`](https://pubpeer.com/publications/4F8269B5FADD9BE14441D96A4CD4A6#1)
+Lee Masson, H. & Isik, L. (2021). Functional selectivity for naturalistic social interaction perception in the human superior temporal sulcus. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.03.26.437258)
+
+---
+
 ### May 11, 2021 &mdash; Open review of preprint by Dominey: [`review`](https://snastase.github.io/reviews/2021-05-11-dominey) [`PubPeer`](https://pubpeer.com/publications/92952EA83F09F32F080C5D193EB132#1)
 Dominey, P. F. (2021). Narrative event segmentation in the cortical reservoir. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.04.23.441090)
 
