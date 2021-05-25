@@ -203,6 +203,8 @@ Psychology & Cognitive Sciences Department, University of Trento
 **Mentorship**<br>
 Zaid Zada, graduate student, Hasson Lab, Princeton University<br>
 Sade Abiodun, graduate student, Hasson Lab, Princeton University<br>
+Jane Han, graduate student, Haxby Lab, Dartmouth College<br>
+Heejung Jung, graduate studen, Haxby Lab, Dartmouth College<br>
 Jamal Williams, graduate student, Norman Lab, Princeton University<br>
 Paula Brooks, graduate student, Norman Lab, Princeton University<br>
 Anne Mennen, graduate student, Norman Lab, Princeton University<br>
