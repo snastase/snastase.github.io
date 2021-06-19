@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### June 18, 2021 &mdash; Open review of preprint by Chen and colleagues: [`review`](https://snastase.github.io/reviews/2021-06-18-chen) [`PubPeer`](https://pubpeer.com/publications/4CAAF9894DF18E4DA232EF053D2CF0#1)
+Chen, A. A., Beer, J. C., Tustison, N. J., Cook, P. A., Shinohara, R. T., Shou, H. & the Alzheimer’s Disease Neuroimaging Initiative (2020). Removal of scanner effects in covariance improves multivariate pattern analysis in neuroimaging data. *bioRxiv*, 858415. [`DOI`](https://doi.org/10.1101/858415)
+
+---
+
 ### May 22, 2021 &mdash; Open review of preprint by Lee Masson and Isik: [`review`](https://snastase.github.io/reviews/2021-05-22-leemasson) [`PubPeer`](https://pubpeer.com/publications/4F8269B5FADD9BE14441D96A4CD4A6#1)
 Lee Masson, H. & Isik, L. (2021). Functional selectivity for naturalistic social interaction perception in the human superior temporal sulcus. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.03.26.437258)
 
