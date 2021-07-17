@@ -13,8 +13,13 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### July 17, 2021 &mdash; Open review of preprint by Liu and colleagues: [`review`](https://snastase.github.io/reviews/2021-07-17-liu) [`PubPeer`](https://pubpeer.com/publications/D94B6B8E7D12A1C52E833921035C38#1)
+Liu, L., Li, H., Ren, Z., Zhou, Q., Zhang, Y., Lu, C., Qiu, J., Chen, H., & Ding, G. (2021). The "two-brain" approach reveals the active role of task-deactivated default mode network in speech comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.03.02.433669)
+
+---
+
 ### June 18, 2021 &mdash; Open review of preprint by Chen and colleagues: [`review`](https://snastase.github.io/reviews/2021-06-18-chen) [`PubPeer`](https://pubpeer.com/publications/4CAAF9894DF18E4DA232EF053D2CF0#1)
-Chen, A. A., Beer, J. C., Tustison, N. J., Cook, P. A., Shinohara, R. T., Shou, H. & the Alzheimer’s Disease Neuroimaging Initiative (2020). Removal of scanner effects in covariance improves multivariate pattern analysis in neuroimaging data. *bioRxiv*, 858415. [`DOI`](https://doi.org/10.1101/858415)
+Chen, A. A., Beer, J. C., Tustison, N. J., Cook, P. A., Shinohara, R. T., Shou, H. & the Alzheimer’s Disease Neuroimaging Initiative (2020). Removal of scanner effects in covariance improves multivariate pattern analysis in neuroimaging data. *bioRxiv*. [`DOI`](https://doi.org/10.1101/858415)
 
 ---
 
