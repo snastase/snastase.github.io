@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### July 28, 2021 &mdash; Open review of preprint by De Angelis and colleagues: [`review`](https://snastase.github.io/reviews/2021-07-28-deangelis) [`PubPeer`](https://pubpeer.com/publications/F68D34928B43B30632E41C529899E5#1)
+De Angelis, L., Gazzola, V., & Keysers, C. (2021). Parametric tests for leave-one-out inter-subject correlations in fMRI provide adequate type I error control while providing high sensitivity. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.07.16.206235)
+
+---
+
 ### July 17, 2021 &mdash; Open review of preprint by Liu and colleagues: [`review`](https://snastase.github.io/reviews/2021-07-17-liu) [`PubPeer`](https://pubpeer.com/publications/D94B6B8E7D12A1C52E833921035C38#1)
 Liu, L., Li, H., Ren, Z., Zhou, Q., Zhang, Y., Lu, C., Qiu, J., Chen, H., & Ding, G. (2021). The "two-brain" approach reveals the active role of task-deactivated default mode network in speech comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.03.02.433669)
 
