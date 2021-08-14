@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### August 14, 2021 &mdash; Open review of preprint by Shahdloo and colleagues: [`review`](https://snastase.github.io/reviews/2021-08-14-shahdloo) [`PubPeer`](https://pubpeer.com/publications/941D2C08AE96AE3276683BBC722218#1)
+Shahdloo, M., Çelik, E., Urgen, B. A., Gallant, J. L., & Çukur, T. (2021). Task-dependent warping of semantic representations during search for visual action categories. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.06.17.448789)
+
+---
+
 ### July 28, 2021 &mdash; Open review of preprint by De Angelis and colleagues: [`review`](https://snastase.github.io/reviews/2021-07-28-deangelis) [`PubPeer`](https://pubpeer.com/publications/F68D34928B43B30632E41C529899E5#1)
 De Angelis, L., Gazzola, V., & Keysers, C. (2021). Parametric tests for leave-one-out inter-subject correlations in fMRI provide adequate type I error control while providing high sensitivity. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.07.16.206235)
 
