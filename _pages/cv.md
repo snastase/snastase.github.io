@@ -41,7 +41,7 @@ Levitis, E., Gould van Praag, C. D., Gau, R., Heunis, S., DuPre, E., Kiar, G., B
 
 Wilterson, A. I., **Nastase, S. A.**, Bio, B. J., Guterstam, A., Graziano, M. S. A. (2021). Attention, awareness, and the right temporoparietal junction. *Proceedings of the National Academy of Sciences*, *118*(25), e2026099118. [`DOI`](https://doi.org/10.1073/pnas.2026099118) [`PDF`](https://snastase.github.io/files/Wilterson_PNAS_2021.pdf)
 
-Gau, R., Noble, S., Heuer, K., Bottenhorn, K. L., Bilgin, I. P., Yang, Y.-F., Huntenburg, J. M., Bayer, J., Bethlehem, R. A. I., Rhoads, S. A., Vogelbacher, C., Borghesani, V., Levitis, E., Wang, H.-T., Van Den Bossche, S., Kobeleva, X., Haitz Legarreta, J., Guay, S., Atay, S. M., Varoquaux, G., Huijser, D. C., Sandström, M. S., Herholz, P., **Nastase, S. A.**, Badhwar, A., Dumas, G., Schwab, S., Moia, S., Dayan, M., Bassil, Y., Brooks, P., Mancini, M., Shine, J. M., O’Connor, D., Xie, X., Poggiali, D., Friedrich, P., Riedl, L., Toro, R., Heinsfeld, A. S., Caballero-Gaudes, C., Eklund, A., Garner, K. G., Nolan, C. R., Demeter, D. V., Barrios, F. A., Merchant, J. S., McDevitt, E. A., Oostenveld, R., Craddock, R. C., Rokem, A., Doyle, A., Esper, N. B., Ghosh, S. S., Langs, G., Nikolaidis, A., Stanley, O. W., Uruñuela, E., Vohryzek, J., & The Brainhack Community. (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. *Neuron*, *109*. [`DOI`](https://doi.org/10.1016/j.neuron.2021.04.001) [`PDF`](https://snastase.github.io/files/Gau_Neuron_2021.pdf)
+Gau, R., Noble, S., Heuer, K., Bottenhorn, K. L., Bilgin, I. P., Yang, Y.-F., Huntenburg, J. M., Bayer, J., Bethlehem, R. A. I., Rhoads, S. A., Vogelbacher, C., Borghesani, V., Levitis, E., Wang, H.-T., Van Den Bossche, S., Kobeleva, X., Haitz Legarreta, J., Guay, S., Atay, S. M., Varoquaux, G., Huijser, D. C., Sandström, M. S., Herholz, P., **Nastase, S. A.**, Badhwar, A., Dumas, G., Schwab, S., Moia, S., Dayan, M., Bassil, Y., Brooks, P., Mancini, M., Shine, J. M., O’Connor, D., Xie, X., Poggiali, D., Friedrich, P., Riedl, L., Toro, R., Heinsfeld, A. S., Caballero-Gaudes, C., Eklund, A., Garner, K. G., Nolan, C. R., Demeter, D. V., Barrios, F. A., Merchant, J. S., McDevitt, E. A., Oostenveld, R., Craddock, R. C., Rokem, A., Doyle, A., Esper, N. B., Ghosh, S. S., Langs, G., Nikolaidis, A., Stanley, O. W., Uruñuela, E., Vohryzek, J., & The Brainhack Community. (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. *Neuron*, *109*(11), 1769–1775. [`DOI`](https://doi.org/10.1016/j.neuron.2021.04.001) [`PDF`](https://snastase.github.io/files/Gau_Neuron_2021.pdf)
 
 Busch, E. L., Slipski, L., Feilong, M., Guntupalli, J. S., di Oleggio Castello, M. V., Huckins, J. F., **Nastase, S. A.**, Gobbini, M. I., Wager, T., & Haxby, J. V. (2020). Hybrid hyperalignment: a single high-dimensional model of shared information embedded in cortical patterns of response and functional connectivity. *NeuroImage*, *233*,  117975. [`DOI`](https://doi.org/10.1016/j.neuroimage.2021.117975) [`PDF`](https://snastase.github.io/files/Busch_NIMG_2021.pdf)
 
@@ -51,7 +51,7 @@ Williams, J. A., Margulis, E. H., **Nastase, S. A.**, Chen, J., Hasson, U., Norm
 
 Kumar, M., Anderson, M. J., Antony, J. W., Baldassano, C., Brooks, P. P., Cai, M. B., Chen, P.-H. C., Ellis, C. T., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J. B., Li, P. Y., Lu, Q., Manning, J. R., Mennen, A. C., **Nastase, S. A.**, Richard, H., Schapiro, A. C., Schuck, N. W., Shvartsman, M., Sundaraman, N., Suo, D., Turek, J. S., Vo, V. A., Wallace, G., Wang, Y., Zhang, H., Zhu, X., Capota, M., Cohen, J. D., Hasson, U., Li, K., Ramadge, P. J., Turk-Browne, N. B., Willke, T. L., & Norman, K. A. (2020). BrainIAK: The Brain Imaging Analysis Kit. *OSF Preprints*. [`DOI`](https://doi.org/10.31219/osf.io/db2ev) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2020.pdf)
 
-Goldstein, A., Zada, Z., Buchnik, E., Schain, M., Price, A., Aubrey, B., **Nastase, S. A.**, Feder, A., Emanual D., Cohen, A., Jensen, A., Gazula, H., Choe, G., Roa, A., Kim, C., Casto, C., Lora, F., Flinker, A., Devore, S., Doyle, W., Dugan, P., Friedman, D., Hassidim, A., Brenner, M., Matias, Y., Norman, K. A., Devinsky, O., & Hasson, U. (2020). Thinking ahead: prediction in context as a keystone of language in humans and machines. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.12.02.403477) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2020.pdf)
+Goldstein, A., Zada, Z.\*, Buchnik, E.\*, Schain, M.\*, Price, A.\*, Aubrey, B.\*, **Nastase, S. A.**\*, Feder, A.\*, Emanual D.\*, Cohen, A.\*, Jensen, A.\*, Gazula, H., Choe, G., Roa, A., Kim, C., Casto, C., Lora, F., Flinker, A., Devore, S., Doyle, W., Dugan, P., Friedman, D., Hassidim, A., Brenner, M., Matias, Y., Norman, K. A., Devinsky, O., & Hasson, U. (2020). Thinking ahead: prediction in context as a keystone of language in humans and machines. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.12.02.403477) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2020.pdf)
 
 Nguyen, M., Chang, A., Micciche, E., Meshulam, M., **Nastase, S. A.**, & Hasson, U. (2020). Teacher-student neural coupling during teaching and learning. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.05.07.082958) [`PDF`](https://snastase.github.io/files/Nguyen_bioRxiv_2020.pdf)
 
@@ -65,7 +65,7 @@ Willems, R., **Nastase, S. A.**, & Milivojevic, B. (2020). Narratives for neuros
 
 Hasson, U., **Nastase, S. A.**, & Goldstein, A. (2020). Direct fit to nature: an evolutionary perspective on biological and artificial neural networks. *Neuron*, *105*(3), 416–434. [`DOI`](https://doi.org/10.1016/j.neuron.2019.12.002) [`PDF`](https://snastase.github.io/files/Hasson_Neuron_2020.pdf)
 
-Haxby, J. V., Gobbini, M. I., & **Nastase, S. A.** (2020). Naturalistic stimuli reveal a dominant role for agentic action in visual representation. *NeuroImage*. [`DOI`](https://doi.org/10.1016/j.neuroimage.2020.116561) [`PDF`](https://snastase.github.io/files/Haxby_NIMG_2020.pdf)
+Haxby, J. V., Gobbini, M. I., & **Nastase, S. A.** (2020). Naturalistic stimuli reveal a dominant role for agentic action in visual representation. *NeuroImage*, *216*, 116561. [`DOI`](https://doi.org/10.1016/j.neuroimage.2020.116561) [`PDF`](https://snastase.github.io/files/Haxby_NIMG_2020.pdf)
 
 **Nastase, S. A.**, Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. *Social Cognitive and Affective Neuroscience*, *14*(6), 667–685. [`DOI`](https://doi.org/10.1093/scan/nsz037) [`PDF`](https://snastase.github.io/files/Nastase_SCAN_2019.pdf)
 
@@ -116,6 +116,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 **Nastase, S. A.** (2020, February). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at Columbia University, New York, NY. [`DOI`](https://doi.org/10.5281/zenodo.4016407) [`slides`](https://docs.google.com/presentation/d/1pERQXZhCb5obRee6K2-J9JOGSM1dDlOICsw574f-SG8/edit?usp=sharing)
 
 **Nastase, S. A.** (2019, August). *Estimating a shared response space across heterogeneous naturalistic story-listening data sets.* Invited talk at the Center for Cognitive Neuroscience workshop on "Semantic processing and semantic knowledge" at Dartmouth College, Hanover, NH. [`DOI`](https://doi.org/10.5281/zenodo.4016413) [`slides`](https://docs.google.com/presentation/d/1h8cS6aELS7uCFuOP6kWjUsEvJQRQPCExSD1QI7ssQ0I/edit?usp=sharing) [`YouTube`](https://youtu.be/YSLbu63_M70)
+
+**Nastase, S. A.** (2019, January). *Expanding on intersubject correlation analysis*. Tutorial workshop for "MURI: A computational cognitive neuroscience approach to understanding event representation and episodic memory", Princeton, NJ.
 
 **Nastase, S. A.** (2017, November). *Aligning fine-grained functional topographies across individuals*. Invited talk at Brainhack DC, Washington, DC.
 
@@ -202,7 +204,7 @@ Psychology & Cognitive Sciences Department, University of Trento
 
 ## Community
 ---
-**Volunteer reviewer:** *Canada Foundation for Innovation*, *Cerebral Cortex*, *Communications Biology*,  *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *NeuroImage*, *NeuroImage: Reports*, *Neuropsychologia*, *PLOS One*, *PLOS Computational Biology*, *Proceedings of the National Academy of Sciences of the United States of America*,  *Psychophysiology*, *Science*, *Science Advances*, *Scientific Data*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*.
+**Volunteer reviewer:** *Canada Foundation for Innovation*, *Cerebral Cortex*, *Communications Biology*,  *Cortex*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *NeuroImage*, *NeuroImage: Reports*, *Neuropsychologia*, *PLOS One*, *PLOS Computational Biology*, *Proceedings of the National Academy of Sciences of the United States of America*,  *Psychophysiology*, *Science*, *Science Advances*, *Scientific Data*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*.
 
 **Society membership:** Organization for Human Brain Mapping, Society for Neuroscience, Vision Sciences Society, Cognitive Neuroscience Society
 
@@ -210,7 +212,7 @@ Psychology & Cognitive Sciences Department, University of Trento
 Zaid Zada, graduate student, Hasson Lab, Princeton University<br>
 Sade Abiodun, graduate student, Hasson Lab, Princeton University<br>
 Jane Han, graduate student, Haxby Lab, Dartmouth College<br>
-Heejung Jung, graduate studen, Haxby Lab, Dartmouth College<br>
+Heejung Jung, graduate student, Haxby Lab, Dartmouth College<br>
 Jamal Williams, graduate student, Norman Lab, Princeton University<br>
 Paula Brooks, graduate student, Norman Lab, Princeton University<br>
 Anne Mennen, graduate student, Norman Lab, Princeton University<br>
