@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### November 4, 2021 &mdash; Open review of preprint by Di and colleagues: [`review`](https://snastase.github.io/reviews/2021-11-04-di) [`PubPeer`](https://pubpeer.com/publications/8CCC9B597064B664A130C0AE66C438#1)
+Di, X., Zhang, Z., Xu, T., & Biswal, B. B. (2021). Dynamic and stable brain connectivity during movie watching as revealed by functional MRI. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.09.14.460293)
+
+---
+
 ### August 14, 2021 &mdash; Open review of preprint by Shahdloo and colleagues: [`review`](https://snastase.github.io/reviews/2021-08-14-shahdloo) [`PubPeer`](https://pubpeer.com/publications/941D2C08AE96AE3276683BBC722218#1)
 Shahdloo, M., Çelik, E., Urgen, B. A., Gallant, J. L., & Çukur, T. (2021). Task-dependent warping of semantic representations during search for visual action categories. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.06.17.448789)
 
