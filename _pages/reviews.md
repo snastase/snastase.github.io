@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### November 23, 2021 &mdash; Open review of preprint by Chowdhury and colleagues: [`review`](https://snastase.github.io/reviews/2021-11-23-chowdhury) [`PubPeer`](https://pubpeer.com/publications/17194DD37E24090F12E75310103A6E#1)
+Chowdhury, P. R., Wadhwa, A., & Tyagi, N. (2021). Brain inspired face recognition: a computational framework. *arXiv*. [`link`](https://arxiv.org/abs/2105.07237)
+
+---
+
 ### November 4, 2021 &mdash; Open review of preprint by Di and colleagues: [`review`](https://snastase.github.io/reviews/2021-11-04-di) [`PubPeer`](https://pubpeer.com/publications/8CCC9B597064B664A130C0AE66C438#1)
 Di, X., Zhang, Z., Xu, T., & Biswal, B. B. (2021). Dynamic and stable brain connectivity during movie watching as revealed by functional MRI. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.09.14.460293)
 
