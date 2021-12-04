@@ -39,9 +39,11 @@ Goldstein, A., Zada, Z.\*, Buchnik, E.\*, Schain, M.\*, Price, A.\*, Aubrey, B.\
 
 Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2021). Not so fast: limited validity of deep convolutional neural networks as *in silico* models for human naturalistic face processing. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.11.17.469009) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2021.pdf)
 
+Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (2021). Information flow across the cortical timescales hierarchy during narrative comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.12.01.470825) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2021.pdf)
+
 Wu, A., **Nastase S. A.**, Baldassano, C., Turk-Browne, N. B., Norman, K. A., Engelhardt, B. E., & Pillow, J. W. (2021). Brain kernel: a new spatial covariance function for fMRI data. *NeuroImage*, *245*, 118580. [`DOI`](https://doi.org/10.1016/j.neuroimage.2021.118580) [`PDF`](https://snastase.github.io/files/Wu_NeuroImage_2021.pdf)
 
-**Nastase, S. A.**. (2021). Toward a more ecological cognitive neuroscience. *The Brunswik Society Newsletter*, *36*, 46–48. [`link`](http://brunswik.org/newsletters/2021news.pdf) [`PDF`](https://snastase.github.io/files/Nastase_Brunswik_2021.pdf)
+**Nastase, S. A.** (2021). Toward a more ecological cognitive neuroscience. *The Brunswik Society Newsletter*, *36*, 46–48. [`link`](http://brunswik.org/newsletters/2021news.pdf) [`PDF`](https://snastase.github.io/files/Nastase_Brunswik_2021.pdf)
 
 Zadbood, A., **Nastase, S. A.**, Chen, J., Norman, K. A., & Hasson, U. (2021). Here's the twist: how the brain updates naturalistic event memories as our understanding of the past changes. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.09.28.462068) [`PDF`](https://snastase.github.io/files/Zadbood_bioRxiv_2021.pdf)
 
