@@ -101,6 +101,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 
 ## Invited talks
 ---
+**Nastase, S. A.** (2021, November). *Ecological perspectives on the neural machinery for communication and cooperation*. Invited talk at the Institute for Research in Fundamental Sciences (IPM), Tehran, Iran.
+
 **Nastase, S. A.** (2021, August). *Ecological perspectives on the neural machinery for communication and cooperation*. Invited talk at University of Western Ontario, London, ON, Canada.
 
 **Nastase, S. A.** (2021, April). *Developing a community resource for natural language neuroimaging*. Invited talk at University of Michigan, Ann Arbor, MI. [`DOI`](https://doi.org/10.5281/zenodo.4677495) [`slides`](https://docs.google.com/presentation/d/1D7uikh4FsqeQrcrIgZsVABoESa5o2JHnHZEBVdBRxEY/edit?usp=sharing)
