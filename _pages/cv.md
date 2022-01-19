@@ -25,7 +25,7 @@ redirect_from:
 **Postdoctoral Research Associate**  February, 2018&ndash;present<br>
 **Princeton University** (advisor: Uri Hasson)
 
-**University Lecturer**  February&ndash;May, 2021<br>
+**University Lecturer**  January, 2021&ndash;present<br>
 **Princeton University**
 
 **Student Intern**  June&ndash;August, 2016<br>
