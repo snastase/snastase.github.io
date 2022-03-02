@@ -103,6 +103,11 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 
 ## Invited talks
 ---
+
+**Nastase, S. A.** (2022, March). *Ecological insights into the neural machinery for communication and cooperation*. Invited talk at the Music Cognition Lab at Princeton University, Princeton, NJ.
+
+**Nastase, S. A.** (2022, February). *Speaker–listener neural coupling underlies successful communication*. Invited talk at the Columbia Narrative Medicine Program, New York, NY.
+
 **Nastase, S. A.** (2021, November). *Ecological perspectives on the neural machinery for communication and cooperation*. Invited talk at the Institute for Research in Fundamental Sciences (IPM), Tehran, Iran.
 
 **Nastase, S. A.** (2021, August). *Ecological perspectives on the neural machinery for communication and cooperation*. Invited talk at University of Western Ontario, London, ON, Canada.
