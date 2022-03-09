@@ -37,7 +37,7 @@ Goldstein, A., Zada, Z.\*, Buchnik, E.\*, Schain, M.\*, Price, A.\*, Aubrey, B.\
 
 Mennen, A. C., **Nastase, S. A.**, Yeshurun, Y., Hasson, U., Noman, K. A. (2022). Real-time neurofeedback to alter interpretations of a naturalistic narrative. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.01.30.478388) [`PDF`](https://snastase.github.io/files/Mennen_bioRxiv_2022.pdf)
 
-Williams, J. A., Margulis, E. H., **Nastase, S. A.**, Chen, J., Hasson, U., Norman, K. A., Baldassano, C. (2021). High-order areas and auditory cortex both represent the high-level event structure of music. *Journal of Cognitive Neuroscience*. [`DOI`](https://doi.org/10.1162/jocn_a_01815) [`PDF`](https://snastase.github.io/files/Williams_bioRxiv_2021.pdf)
+Williams, J. A., Margulis, E. H., **Nastase, S. A.**, Chen, J., Hasson, U., Norman, K. A., Baldassano, C. (2021). High-order areas and auditory cortex both represent the high-level event structure of music. *Journal of Cognitive Neuroscience*, *34*(4), 699–714. [`DOI`](https://doi.org/10.1162/jocn_a_01815) [`PDF`](https://snastase.github.io/files/Williams_JOCN_2022.pdf)
 
 **Nastase, S. A.**, Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C., Lositsky, O., Simony, E., Chow, M. A., Leong, Y. C., Brooks, P. P., Micciche, E., Choe, G., Goldstein, A., Vanderwal, T., Halchenko, Y. O., Norman, K. A., & Hasson, U. (2021). The "Narratives" fMRI dataset for evaluating models of naturalistic language comprehension. *Scientific Data*, *8*, 250. [`DOI`](https://doi.org/10.1038/s41597-021-01033-3) [`PDF`](https://snastase.github.io/files/Nastase_SciData_2021.pdf)
 
