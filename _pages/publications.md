@@ -15,6 +15,8 @@ You can find my full list of publications on my CV or on my Google Scholar profi
 
 **Nastase, S. A.**, Goldstein, A., & Hasson, U. (2020). Keep it real: rethinking the primacy of experimental control in cognitive neuroscience. *NeuroImage*, *222*, 117254. [`DOI`](https://doi.org/10.1016/j.neuroimage.2020.117254) [`PDF`](https://snastase.github.io/files/Nastase_NIMG_2020a.pdf)
 
+Goldstein, A., Zada, Z.\*, Buchnik, E.\*, Schain, M.\*, Price, A.\*, Aubrey, B.\*, **Nastase, S. A.**\*, Feder, A.\*, Emanual D.\*, Cohen, A.\*, Jensen, A.\*, Gazula, H., Choe, G., Roa, A., Kim, C., Casto, C., Lora, F., Flinker, A., Devore, S., Doyle, W., Dugan, P., Friedman, D., Hassidim, A., Brenner, M., Matias, Y., Norman, K. A., Devinsky, O., & Hasson, U. (2022). Shared computational principles for language processing in humans and deep language models. *Nature Neuroscience*, *25*, 369–380. [`DOI`](https://doi.org/10.1038/s41593-022-01026-4) [`PDF`](https://snastase.github.io/files/Goldstein_NatNeurosci_2022.pdf)
+
 Haxby, J. V., Guntupalli, J. S., **Nastase, S. A.**, & Feilong, M. (2020). Hyperalignment: modeling shared information encoded in idiosyncratic cortical topographies. *eLife*, *9*, e56601. [`DOI`](https://doi.org/10.7554/eLife.56601) [`PDF`](https://snastase.github.io/files/Haxby_eLife_2020.pdf)
 
 **Nastase, S. A.**, Liu, Y.-F., Hillman, H., Norman, K. A., & Hasson, U. (2020). Leveraging shared connectivity to aggregate heterogeneous datasets into a common response space. *NeuroImage*, *217*, 116865. [`DOI`](https://doi.org/10.1016/j.neuroimage.2020.116865) [`PDF`](https://snastase.github.io/files/Nastase_NIMG_2020b.pdf)
