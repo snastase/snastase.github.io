@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### April 3, 2022 &mdash; Open review of preprint by Assouline and Mendelsohn: [`review`](https://snastase.github.io/reviews/2022-04-03-assouline)
+Assouline, A., & Mendelsohn, A. (2019). Weaving a story: narrative formation over prolonged time scales engages social cognition and fronto-parietal networks. *bioRxiv*. [`link`](https://doi.org/10.1101/667618)
+
+---
+
 ### November 23, 2021 &mdash; Open review of preprint by Chowdhury and colleagues: [`review`](https://snastase.github.io/reviews/2021-11-23-chowdhury) [`PubPeer`](https://pubpeer.com/publications/17194DD37E24090F12E75310103A6E#1)
 Chowdhury, P. R., Wadhwa, A., & Tyagi, N. (2021). Brain inspired face recognition: a computational framework. *arXiv*. [`link`](https://arxiv.org/abs/2105.07237)
 
