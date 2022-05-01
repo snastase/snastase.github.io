@@ -35,7 +35,7 @@ redirect_from:
 ---
 Goldstein, A., Zada, Z.\*, Buchnik, E.\*, Schain, M.\*, Price, A.\*, Aubrey, B.\*, **Nastase, S. A.**\*, Feder, A.\*, Emanual D.\*, Cohen, A.\*, Jensen, A.\*, Gazula, H., Choe, G., Roa, A., Kim, C., Casto, C., Lora, F., Flinker, A., Devore, S., Doyle, W., Dugan, P., Friedman, D., Hassidim, A., Brenner, M., Matias, Y., Norman, K. A., Devinsky, O., & Hasson, U. (2022). Shared computational principles for language processing in humans and deep language models. *Nature Neuroscience*, *25*, 369–380. [`DOI`](https://doi.org/10.1038/s41593-022-01026-4) [`PDF`](https://snastase.github.io/files/Goldstein_NatNeurosci_2022.pdf)
 
-Mennen, A. C., **Nastase, S. A.**, Yeshurun, Y., Hasson, U., Noman, K. A. (2022). Real-time neurofeedback to alter interpretations of a naturalistic narrative. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.01.30.478388) [`PDF`](https://snastase.github.io/files/Mennen_bioRxiv_2022.pdf)
+Mennen, A. C., **Nastase, S. A.**, Yeshurun, Y., Hasson, U., Norman, K. A. (2022). Real-time neurofeedback to alter interpretations of a naturalistic narrative. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.01.30.478388) [`PDF`](https://snastase.github.io/files/Mennen_bioRxiv_2022.pdf)
 
 Williams, J. A., Margulis, E. H., **Nastase, S. A.**, Chen, J., Hasson, U., Norman, K. A., Baldassano, C. (2021). High-order areas and auditory cortex both represent the high-level event structure of music. *Journal of Cognitive Neuroscience*, *34*(4), 699–714. [`DOI`](https://doi.org/10.1162/jocn_a_01815) [`PDF`](https://snastase.github.io/files/Williams_JOCN_2022.pdf)
 
@@ -230,13 +230,17 @@ Zaid Zada, graduate student, Hasson Lab, Princeton University<br>
 Sade Abiodun, graduate student, Hasson Lab, Princeton University<br>
 Jane Han, graduate student, Haxby Lab, Dartmouth College<br>
 Heejung Jung, graduate student, Haxby Lab, Dartmouth College<br>
+Victoria Graf, undergraduate research assistant, Hasson Lab, Princeton University<br>
+Andrew Goldberg, undergraduate research assistant, Hasson Lab, Princeton University<br>
+Daniella Cohen, undergraduate senior thesis, Hasson Lab, Princeton Univeristy<br>
+Joe Chen, undergradate senior thesis, Hasson Lab, Princeton University<br>
 Jamal Williams, graduate student, Norman Lab, Princeton University<br>
 Paula Brooks, graduate student, Norman Lab, Princeton University<br>
 Anne Mennen, graduate student, Norman Lab, Princeton University<br>
 Anqi Wu, graduate student, Pillow Lab, Princeton University<br>
 Cara E. Van Uden, undergraduate research assistant, Haxby Lab, Dartmouth College<br>
 Rebecca E. Philip, undergraduate research assistant, Gobbini Lab, Dartmouth College<br>
-Anwesh Dash, undergraduate honor’s thesis, Gobbini Lab, Dartmouth College<br>
+Anwesh Dash, undergraduate honors thesis, Gobbini Lab, Dartmouth College<br>
 
 **Events**<br>
 Brainhack Princeton 2020, Princeton University&mdash;organizer (December, 2020)<br>
