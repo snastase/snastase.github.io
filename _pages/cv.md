@@ -33,7 +33,9 @@ redirect_from:
 
 ## Publications
 ---
-Goldstein, A., Zada, Z.\*, Buchnik, E.\*, Schain, M.\*, Price, A.\*, Aubrey, B.\*, **Nastase, S. A.**\*, Feder, A.\*, Emanual D.\*, Cohen, A.\*, Jensen, A.\*, Gazula, H., Choe, G., Roa, A., Kim, C., Casto, C., Lora, F., Flinker, A., Devore, S., Doyle, W., Dugan, P., Friedman, D., Hassidim, A., Brenner, M., Matias, Y., Norman, K. A., Devinsky, O., & Hasson, U. (2022). Shared computational principles for language processing in humans and deep language models. *Nature Neuroscience*, *25*, 369–380. [`DOI`](https://doi.org/10.1038/s41593-022-01026-4) [`PDF`](https://snastase.github.io/files/Goldstein_NatNeurosci_2022.pdf)
+Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2022). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
+
+Goldstein, A., Zada, Z.\*, Buchnik, E.\*, Schain, M.\*, Price, A.\*, Aubrey, B.\*, **Nastase, S. A.**\*, Feder, A.\*, Emanual D.\*, Cohen, A.\*, Jensen, A.\*, Gazula, H., Choe, G., Rao, A., Kim, C., Casto, C., Lora, F., Flinker, A., Devore, S., Doyle, W., Dugan, P., Friedman, D., Hassidim, A., Brenner, M., Matias, Y., Norman, K. A., Devinsky, O., & Hasson, U. (2022). Shared computational principles for language processing in humans and deep language models. *Nature Neuroscience*, *25*, 369–380. [`DOI`](https://doi.org/10.1038/s41593-022-01026-4) [`PDF`](https://snastase.github.io/files/Goldstein_NatNeurosci_2022.pdf)
 
 Mennen, A. C., **Nastase, S. A.**, Yeshurun, Y., Hasson, U., Norman, K. A. (2022). Real-time neurofeedback to alter interpretations of a naturalistic narrative. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.01.30.478388) [`PDF`](https://snastase.github.io/files/Mennen_bioRxiv_2022.pdf)
 
