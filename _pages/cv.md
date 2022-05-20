@@ -23,7 +23,7 @@ redirect_from:
 ## Employment
 ---
 **Postdoctoral Research Associate**  February, 2018&ndash;present<br>
-**Princeton University** (advisor: Uri Hasson)
+**Princeton University** (advisors: Uri Hasson, Kenneth A. Norman)
 
 **University Lecturer**  January, 2021&ndash;present<br>
 **Princeton University**
@@ -34,6 +34,8 @@ redirect_from:
 ## Publications
 ---
 Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2022). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
+
+Goldstein, A., Dabush, A., Aubrey, B., Schain, M., **Nastase, S. A.**, Zada, Z., Ham, E., Hong, Z., Feder, A., Gazula, H., Buchnik, E., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Devinsky, O., Flinker, A., & Hasson, U. (2022). Brain embeddings and artificial contextual embeddings converge on a shared geometry for natural language. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.03.01.482586) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2022.pdf)
 
 Goldstein, A., Zada, Z.\*, Buchnik, E.\*, Schain, M.\*, Price, A.\*, Aubrey, B.\*, **Nastase, S. A.**\*, Feder, A.\*, Emanual D.\*, Cohen, A.\*, Jensen, A.\*, Gazula, H., Choe, G., Rao, A., Kim, C., Casto, C., Lora, F., Flinker, A., Devore, S., Doyle, W., Dugan, P., Friedman, D., Hassidim, A., Brenner, M., Matias, Y., Norman, K. A., Devinsky, O., & Hasson, U. (2022). Shared computational principles for language processing in humans and deep language models. *Nature Neuroscience*, *25*, 369–380. [`DOI`](https://doi.org/10.1038/s41593-022-01026-4) [`PDF`](https://snastase.github.io/files/Goldstein_NatNeurosci_2022.pdf)
 
