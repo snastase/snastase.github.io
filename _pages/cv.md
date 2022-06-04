@@ -169,7 +169,7 @@ Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M.,
 
 ## Teaching
 ---
-**Lecturer&mdash;Neuroscience: From Molecules to Systems to Behavior**  Spring, 2021<br>
+**Lecturer&mdash;Neuroscience: From Molecules to Systems to Behavior**  Spring, 2021–2022<br>
 Princeton University (co-lecturers: Jonathan Cohen, Leigh Nystrom)
 
 **Teaching assistant&mdash;Systems Neuroscience with Lab**  Fall, 2015<br>
