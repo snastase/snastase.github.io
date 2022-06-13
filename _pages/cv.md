@@ -33,6 +33,8 @@ redirect_from:
 
 ## Publications
 ---
+Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022). Reconstructing the cascade of language processing in the brain using the internal computations of a transformer-based language model. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.06.08.495348) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2022.pdf)
+
 Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2022). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
 
 Goldstein, A., Dabush, A., Aubrey, B., Schain, M., **Nastase, S. A.**, Zada, Z., Ham, E., Hong, Z., Feder, A., Gazula, H., Buchnik, E., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Devinsky, O., Flinker, A., & Hasson, U. (2022). Brain embeddings and artificial contextual embeddings converge on a shared geometry for natural language. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.03.01.482586) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2022.pdf)
