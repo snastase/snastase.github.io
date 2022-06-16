@@ -13,8 +13,13 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### June 16, 2022 &mdash; Open review of preprint by Caucheteux and colleagues: [`review`](https://snastase.github.io/reviews/2022-06-16-caucheteux) [`PubPeer`](https://pubpeer.com/publications/B8DA987B69A1C6F22B945B17FF1CEB#1)
+Caucheteux, C., Gramfort, A., & King, J. R. (2021). Long-range and hierarchical language predictions in brains and algorithms. *arXiv*. [`link`](https://arxiv.org/abs/2111.14232)
+
+---
+
 ### April 3, 2022 &mdash; Open review of preprint by Assouline and Mendelsohn: [`review`](https://snastase.github.io/reviews/2022-04-03-assouline)
-Assouline, A., & Mendelsohn, A. (2019). Weaving a story: narrative formation over prolonged time scales engages social cognition and fronto-parietal networks. *bioRxiv*. [`link`](https://doi.org/10.1101/667618)
+Assouline, A., & Mendelsohn, A. (2019). Weaving a story: narrative formation over prolonged time scales engages social cognition and fronto-parietal networks. *bioRxiv*. [`DOI`](https://doi.org/10.1101/667618)
 
 ---
 
