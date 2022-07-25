@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### July 24, 2022 &mdash; Open review of preprint by Amalric and Cantlon: [`review`](https://snastase.github.io/reviews/2022-07-24-amalric) [`PubPeer`](https://pubpeer.com/publications/F249D0E67FA4AD23840A9A59DA372A#1)
+Amalric, M., & Cantlon, J. F. (2020). Entropy, complexity, and maturity in children’s neural responses during naturalistic mathematics learning. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.11.18.387431) 
+
+---
+
 ### June 16, 2022 &mdash; Open review of preprint by Caucheteux and colleagues: [`review`](https://snastase.github.io/reviews/2022-06-16-caucheteux) [`PubPeer`](https://pubpeer.com/publications/B8DA987B69A1C6F22B945B17FF1CEB#1)
 Caucheteux, C., Gramfort, A., & King, J. R. (2021). Long-range and hierarchical language predictions in brains and algorithms. *arXiv*. [`link`](https://arxiv.org/abs/2111.14232)
 
