@@ -22,11 +22,11 @@ redirect_from:
 
 ## Employment
 ---
-**Postdoctoral Research Associate**  February, 2018&ndash;present<br>
-**Princeton University** (advisors: Uri Hasson, Kenneth A. Norman)
-
 **University Lecturer**  January, 2021&ndash;present<br>
 **Princeton University**
+
+**Postdoctoral Research Associate**  February, 2018&ndash;present<br>
+**Princeton University** (advisors: Uri Hasson, Kenneth A. Norman)
 
 **Student Intern**  June&ndash;August, 2016<br>
 **Siemens Healthcare** (advisor: Francisco Pereira)
@@ -51,7 +51,7 @@ Williams, J. A., Margulis, E. H., **Nastase, S. A.**, Chen, J., Hasson, U., Norm
 
 Kumar, M., Anderson, M. J., Antony, J. W., Baldassano, C., Brooks, P. P., Cai, M. B., Chen, P.-H. C., Ellis, C. T., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J. B., Li, P. Y., Lu, Q., Manning, J. R., Mennen, A. C., **Nastase, S. A.**, Richard, H., Schapiro, A. C., Schuck, N. W., Shvartsman, M., Sundaraman, N., Suo, D., Turek, J. S., Turner, D. M., Vo, V. A., Wallace, G., Wang, Y., Williams, J. A., Zhang, H., Zhu, X., Capota, M., Cohen, J. D., Hasson, U., Li, K., Ramadge, P. J., Turk-Browne, N. B., Willke, T. L., & Norman, K. A. (2021). BrainIAK: The Brain Imaging Analysis Kit. *Aperture Neuro*, *1*(4). [`DOI`](http://doi.org/10.52294/31bb5b68-2184-411b-8c00-a1dacb61e1da) [`PDF`](https://snastase.github.io/files/Kumar_Aperture_2021.pdf)
 
-Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2021). Not so fast: limited validity of deep convolutional neural networks as *in silico* models for human naturalistic face processing. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.11.17.469009) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2021.pdf)
+Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2021). Modeling naturalistic face processing in humans with deep convolutional neural networks. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.11.17.469009) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2021.pdf)
 
 Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (2021). Information flow across the cortical timescales hierarchy during narrative comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.12.01.470825) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2021.pdf)
 
