@@ -12,6 +12,12 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., & Vazire, S. (2022, June). *Open Science Room Panel: Open Publishing*. Invited panel discussion at the annual meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
+
+**Nastase, S. A.** (2022, March). *Ecological insights into the neural machinery for communication and cooperation*. Invited talk at the Music Cognition Lab at Princeton University, Princeton, NJ.
+
+**Nastase, S. A.** (2022, February). *Speaker–listener neural coupling underlies successful communication*. Invited talk at the Columbia Narrative Medicine Program, New York, NY.
+
 **Nastase, S. A.** (2021, November). *Ecological perspectives on the neural machinery for communication and cooperation*. Invited talk at the Institute for Research in Fundamental Sciences (IPM), Tehran, Iran.
 
 **Nastase, S. A.** (2021, August). *Ecological perspectives on the neural machinery for communication and cooperation*. Invited talk at University of Western Ontario, London, ON, Canada.
@@ -50,6 +56,16 @@ If you're interested in hearing me talk at your institution, send me an [email](
 
 ---
 ## Conference presentations
+
+Zada, Z., **Nastase, S. A.**, Goldstein, A., Hasson, U. (2022, August). *Brain-to-brain linguistic coupling in natural conversations*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1242-0)
+
+Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022, August). *Reconstructing the cascade of language processing in the brain using the internal computations of a transformer-based language model*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1255-0)
+
+Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2022, August). *The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1216-0)
+
+Jiahui, G.\*, Feilong, M.\*, Visconti di Oleggio Castello, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2022, August). *Modeling naturalistic face processing in humans with deep convolutional neural networks*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1218-0)
+
+Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (2021, November). *The flow of information transformation across cortical networks during auditory narrative comprehension*. Poster presented at the annual meeting of the Society for Neuroscience, Chicago, IL.
 
 **Nastase, S. A.**, Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C., Lositsky, O., Simony, E., Chow, M. A., Leong, Y. C., Brooks, P. P., Micciche, E., Choe, G., Goldstein, A., Halchenko, Y. O., Norman, K. A., Hasson, U. (2019, October). *Narratives: fMRI data for evaluating models of naturalistic language comprehension*. Talk presented at the annual meeting of the Society for Neuroscience, Chicago, IL. [`DOI`](https://doi.org/10.5281/zenodo.4016409) [`slides`](https://docs.google.com/presentation/d/1KNViRGPHFf53PJLTM-1B1ZguHXSPWR2nppkLWNLSuy8/edit?usp=sharing)
 

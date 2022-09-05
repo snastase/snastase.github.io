@@ -113,7 +113,6 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 ---
 Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., & Vazire, S. (2022, June). *Open Science Room Panel: Open Publishing*. Invited panel discussion at the annual meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
 
-
 **Nastase, S. A.** (2022, March). *Ecological insights into the neural machinery for communication and cooperation*. Invited talk at the Music Cognition Lab at Princeton University, Princeton, NJ.
 
 **Nastase, S. A.** (2022, February). *Speaker–listener neural coupling underlies successful communication*. Invited talk at the Columbia Narrative Medicine Program, New York, NY.
@@ -175,7 +174,10 @@ Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M.,
 
 ## Teaching
 ---
-**Lecturer&mdash;Neuroscience: From Molecules to Systems to Behavior**  Spring, 2021–2022<br>
+**Lecturer&mdash;Mathematical Tools for Neuroscience**  Fall, 2022–present<br>
+Princeton University
+
+**Lecturer&mdash;Neuroscience: From Molecules to Systems to Behavior**  Spring, 2021–present<br>
 Princeton University (co-lecturers: Jonathan Cohen, Leigh Nystrom)
 
 **Teaching assistant&mdash;Systems Neuroscience with Lab**  Fall, 2015<br>
