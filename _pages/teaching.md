@@ -9,7 +9,7 @@ redirect from:
 
 {% include base_path %}
 
-I'm currently a lecturer at Princeton teaching NEU 314 and NEU 502B.
+I'm currently a lecturer at Princeton University teaching the undergraduate course "Mathematical Tools for Neuroscience" (NEU 314) and the graduate-level cognitive neuroscience methods course "Neuroscience: From Molecules to Systems to Behavior" (NEU 502B).
 
 ---
 
