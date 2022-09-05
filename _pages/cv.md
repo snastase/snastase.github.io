@@ -111,6 +111,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 
 ## Invited talks
 ---
+Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., & Vazire, S. (2022, June). *Open Science Room Panel: Open Publishing*. Invited panel discussion at the annual meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
+
 
 **Nastase, S. A.** (2022, March). *Ecological insights into the neural machinery for communication and cooperation*. Invited talk at the Music Cognition Lab at Princeton University, Princeton, NJ.
 
