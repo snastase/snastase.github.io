@@ -13,9 +13,13 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### September 23, 2022 &mdash; Open review of preprint by Gwilliams and colleagues: [`review`](https://snastase.github.io/reviews/2022-09-23-gwilliams) [`PubPeer`](https://pubpeer.com/publications/70814F38A403CA6562FCB7241D87EF#1)
+Gwilliams, L., Flick, G., Marantz, A., Pylkkanen, L., Poeppel, D., & King, J.-R. (2022). MEG-MASC: a high-quality magneto-encephalography dataset for evaluating natural speech processing. *arXiv*. [`link`](https://arxiv.org/abs/2208.11488)
+
+---
+
 ### July 24, 2022 &mdash; Open review of preprint by Amalric and Cantlon: [`review`](https://snastase.github.io/reviews/2022-07-24-amalric) [`PubPeer`](https://pubpeer.com/publications/F249D0E67FA4AD23840A9A59DA372A#1)
 Amalric, M., & Cantlon, J. F. (2020). Entropy, complexity, and maturity in children’s neural responses during naturalistic mathematics learning. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2020.11.18.387431) 
-
 ---
 
 ### June 16, 2022 &mdash; Open review of preprint by Caucheteux and colleagues: [`review`](https://snastase.github.io/reviews/2022-06-16-caucheteux) [`PubPeer`](https://pubpeer.com/publications/B8DA987B69A1C6F22B945B17FF1CEB#1)
