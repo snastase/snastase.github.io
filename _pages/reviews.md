@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### September 25, 2022 &mdash; Open review of preprint by Yang and colleagues: [`review`](https://snastase.github.io/reviews/2022-09-25-yang) [`PubPeer`](https://pubpeer.com/publications/E58100E8DC57EA3D2843B2943BF1A3#1)
+Yang, E., Milisav, F., Kopal, J., Holmes, A., Mitsis, G. D., Misic, B., Finn, E. S., & Bzdok, D. (2022). Bringing language to dynamic brain states: the default network dominates neural responses to evolving movie stories. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.08.24.505147)
+
+---
+
 ### September 23, 2022 &mdash; Open review of preprint by Gwilliams and colleagues: [`review`](https://snastase.github.io/reviews/2022-09-23-gwilliams) [`PubPeer`](https://pubpeer.com/publications/70814F38A403CA6562FCB7241D87EF#1)
 Gwilliams, L., Flick, G., Marantz, A., Pylkkanen, L., Poeppel, D., & King, J.-R. (2022). MEG-MASC: a high-quality magneto-encephalography dataset for evaluating natural speech processing. *arXiv*. [`link`](https://arxiv.org/abs/2208.11488)
 
