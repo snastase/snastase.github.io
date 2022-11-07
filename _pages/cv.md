@@ -35,6 +35,8 @@ redirect_from:
 ---
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022). Reconstructing the cascade of language processing in the brain using the internal computations of a transformer-based language model. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.06.08.495348) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2022.pdf)
 
+Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (in press). Information flow across the cortical timescales hierarchy during narrative construction. *Proceedings of the National Academy of Sciences*. [`DOI`](https://doi.org/10.1101/2021.12.01.470825) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2021.pdf)
+
 Goldstein, A.\*, Ham, E.\*, **Nastase, S. A.**, Zada, Z., Dabush, A., Aubrey, B., Schain, M., Gazula, H., Feder, A., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Devinsky, O., Flinker, A., Levy, O., & Hasson, U. Correspondence between the layered structure of deep language models and temporal structure of natural language processing in the human brain. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.07.11.499562) [`PDF`](https://snastase.github.io/files/GoldsteinHam_bioRxiv_2022.pdf)
 
 Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2022). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
@@ -52,8 +54,6 @@ Williams, J. A., Margulis, E. H., **Nastase, S. A.**, Chen, J., Hasson, U., Norm
 Kumar, M., Anderson, M. J., Antony, J. W., Baldassano, C., Brooks, P. P., Cai, M. B., Chen, P.-H. C., Ellis, C. T., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J. B., Li, P. Y., Lu, Q., Manning, J. R., Mennen, A. C., **Nastase, S. A.**, Richard, H., Schapiro, A. C., Schuck, N. W., Shvartsman, M., Sundaraman, N., Suo, D., Turek, J. S., Turner, D. M., Vo, V. A., Wallace, G., Wang, Y., Williams, J. A., Zhang, H., Zhu, X., Capota, M., Cohen, J. D., Hasson, U., Li, K., Ramadge, P. J., Turk-Browne, N. B., Willke, T. L., & Norman, K. A. (2021). BrainIAK: The Brain Imaging Analysis Kit. *Aperture Neuro*, *1*(4). [`DOI`](http://doi.org/10.52294/31bb5b68-2184-411b-8c00-a1dacb61e1da) [`PDF`](https://snastase.github.io/files/Kumar_Aperture_2021.pdf)
 
 Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2021). Modeling naturalistic face processing in humans with deep convolutional neural networks. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.11.17.469009) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2021.pdf)
-
-Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (2021). Information flow across the cortical timescales hierarchy during narrative comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2021.12.01.470825) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2021.pdf)
 
 Wu, A., **Nastase S. A.**, Baldassano, C., Turk-Browne, N. B., Norman, K. A., Engelhardt, B. E., & Pillow, J. W. (2021). Brain kernel: a new spatial covariance function for fMRI data. *NeuroImage*, *245*, 118580. [`DOI`](https://doi.org/10.1016/j.neuroimage.2021.118580) [`PDF`](https://snastase.github.io/files/Wu_NeuroImage_2021.pdf)
 
