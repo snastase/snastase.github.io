@@ -37,6 +37,8 @@ Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, 
 
 Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (in press). Information flow across the cortical timescales hierarchy during narrative construction. *Proceedings of the National Academy of Sciences*. [`DOI`](https://doi.org/10.1101/2021.12.01.470825) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2021.pdf)
 
+Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2022). Cross-movie prediction of individualized functional topography. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.11.21.517253) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2022.pdf)
+
 Goldstein, A.\*, Ham, E.\*, **Nastase, S. A.**, Zada, Z., Dabush, A., Aubrey, B., Schain, M., Gazula, H., Feder, A., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Devinsky, O., Flinker, A., Levy, O., & Hasson, U. Correspondence between the layered structure of deep language models and temporal structure of natural language processing in the human brain. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.07.11.499562) [`PDF`](https://snastase.github.io/files/GoldsteinHam_bioRxiv_2022.pdf)
 
 Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2022). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
