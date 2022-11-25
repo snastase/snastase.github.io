@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### November 25, 2022 &mdash; Open review of preprint by Dima and colleagues: [`review`](https://snastase.github.io/reviews/2022-11-25-dima) [`PubPeer`](https://pubpeer.com/publications/CCD2C2FB1A70F5DC70A9074FB22CF6#1)
+Dima, D. C., Hebart, M. N., & Isik, L. (2022). A data-driven investigation of human action representations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.09.22.509054)
+
+---
+
 ### September 25, 2022 &mdash; Open review of preprint by Yang and colleagues: [`review`](https://snastase.github.io/reviews/2022-09-25-yang) [`PubPeer`](https://pubpeer.com/publications/E58100E8DC57EA3D2843B2943BF1A3#1)
 Yang, E., Milisav, F., Kopal, J., Holmes, A., Mitsis, G. D., Misic, B., Finn, E. S., & Bzdok, D. (2022). Bringing language to dynamic brain states: the default network dominates neural responses to evolving movie stories. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.08.24.505147)
 
