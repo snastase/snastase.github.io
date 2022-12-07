@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.**. (2022, December). *Putting peer review in the public record*. Invited talk at the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB) "MRI Together" workshop. [`slides`](https://docs.google.com/presentation/d/14zpN4A3_j33ClAZzwqQ0Rs3RCZ_i_eEpi7ScBgsv3_k/edit?usp=sharing)
+
 **Nastase, S. A.**. (2022, October). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited colloquium for the Cognitive Science program at Indiana University, Bloomington, IN. [`DOI`](https://doi.org/10.5281/zenodo.7259318) [`slides`](https://docs.google.com/presentation/d/15JLYvH5niw3mYda8Ho_E8DChLTQQEIdW8rYkGMMV_aI/edit?usp=sharing)
 
 Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., & Vazire, S. (2022, June). *Open Science Room Panel: Open Publishing*. Invited panel discussion at the annual meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
