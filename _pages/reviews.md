@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### December 11, 2022 &mdash; Open review of preprint by Samara and colleagues: [`review`](https://snastase.github.io/reviews/2022-12-11-samara) [`PubPeer`](https://pubpeer.com/publications/57B0DA1EB3C7CDF981385FA137E166#1)
+Samara, A., Eilbott, J., Margulies, D. S., Xu, T., & Vanderwal, T. (2022). Cortical gradients during naturalistic processing are hierarchical and modality-specific. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.10.15.512379)
+
+---
+
 ### November 25, 2022 &mdash; Open review of preprint by Dima and colleagues: [`review`](https://snastase.github.io/reviews/2022-11-25-dima) [`PubPeer`](https://pubpeer.com/publications/CCD2C2FB1A70F5DC70A9074FB22CF6#1)
 Dima, D. C., Hebart, M. N., & Isik, L. (2022). A data-driven investigation of human action representations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.09.22.509054)
 
