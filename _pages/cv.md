@@ -37,7 +37,7 @@ Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, 
 
 Zadbood, A., **Nastase, S. A.**, Chen, J., Norman, K. A., & Hasson, U. (in press). Neural representations of naturalistic events are updated as our understanding of the past changes. *eLife*. [`DOI`](https://doi.org/10.1101/2021.09.28.462068) [`PDF`](https://snastase.github.io/files/Zadbood_bioRxiv_2021.pdf)
 
-Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (in press). Information flow across the cortical timescales hierarchy during narrative construction. *Proceedings of the National Academy of Sciences*. [`DOI`](https://doi.org/10.1101/2021.12.01.470825) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2021.pdf)
+Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (2022). Information flow across the cortical timescales hierarchy during narrative construction. *Proceedings of the National Academy of Sciences*, *119*(51), e2209307119. [`DOI`](https://doi.org/10.1073/pnas.2209307119) [`PDF`](https://snastase.github.io/files/Chang_PNAS_2022.pdf)
 
 Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2022). Cross-movie prediction of individualized functional topography. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.11.21.517253) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2022.pdf)
 
