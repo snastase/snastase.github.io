@@ -240,11 +240,14 @@ Psychology & Cognitive Sciences Department, University of Trento
 
 ## Community
 ---
-**Volunteer reviewer:** *Brain Structure and Function*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science Society*, *Communications Biology*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *European Journal of Neuroscience*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Human Behaviour*, *NeuroImage*, *NeuroImage: Reports*, *Neuropsychologia*, *Organization for Human Brain Mapping*, *PLOS One*, *PLOS Computational Biology*, *Proceedings of the National Academy of Sciences*, *Psychological Review*, *Psychophysiology*, *Science*, *Science Advances*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Neurosciences*
+**Volunteer reviewer:** *Brain Structure and Function*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *European Journal of Neuroscience*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Human Behaviour*, *NeuroImage*, *NeuroImage: Reports*, *Neuropsychologia*, *Organization for Human Brain Mapping*, *PLOS One*, *PLOS Computational Biology*, *Proceedings of the National Academy of Sciences*, *Psychological Review*, *Psychophysiology*, *Science*, *Science Advances*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Neurosciences*
 
 **Society membership:** Organization for Human Brain Mapping, Society for Neuroscience, Vision Sciences Society, Cognitive Neuroscience Society
 
 **Mentorship**<br>
+Yibei Chen, graduate student, Media Neuroscience Lab, UC Santa Barbara<br>
+Yingying Peng, graduate student, Li Lab, Hong Kong Polytechnic University<br>
+Chanyuan Gu, graduate student, Li Lab, Hong Kong Polytechnic University<br>
 Zaid Zada, graduate student, Hasson Lab, Princeton University<br>
 Sade Abiodun, graduate student, Hasson Lab, Princeton University<br>
 Jane Han, graduate student, Haxby Lab, Dartmouth College<br>
