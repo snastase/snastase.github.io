@@ -35,7 +35,7 @@ redirect_from:
 ---
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022). Reconstructing the cascade of language processing in the brain using the internal computations of a transformer-based language model. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.06.08.495348) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2022.pdf)
 
-Zadbood, A., **Nastase, S. A.**, Chen, J., Norman, K. A., & Hasson, U. (2022). Neural representations of naturalistic events are updated as our understanding of the past changes. *eLife*. [`DOI`](https://doi.org/10.7554/eLife.79045) [`PDF`](https://snastase.github.io/files/Zadbood_bioRxiv_2021.pdf)
+Zadbood, A., **Nastase, S. A.**, Chen, J., Norman, K. A., & Hasson, U. (2022). Neural representations of naturalistic events are updated as our understanding of the past changes. *eLife*, *11*, e79045. [`DOI`](https://doi.org/10.7554/eLife.79045) [`PDF`](https://snastase.github.io/files/Zadbood_eLife_2022.pdf)
 
 Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (2022). Information flow across the cortical timescales hierarchy during narrative construction. *Proceedings of the National Academy of Sciences*, *119*(51), e2209307119. [`DOI`](https://doi.org/10.1073/pnas.2209307119) [`PDF`](https://snastase.github.io/files/Chang_PNAS_2022.pdf)
 
