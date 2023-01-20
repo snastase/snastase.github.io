@@ -19,8 +19,8 @@ This course introduces students to the mathematical tools at the core of computa
 
 ---
 
-## Neuroscience: From Molecules to Systems to Behavior [`GitHub`](https://github.com/2022-NEU502b/demos)
+## Neuroscience: From Molecules to Systems to Behavior [`website`](http://snastase.github.io/teaching/neu502b)
 
-This lab course covers the methodological landscape of human cognitive neuroscience research. Students will learn the fundamentals of experimental design, data collection, preprocessing, and statistical analysis for fMRI, EEG/MEG, and ECoG, with an emphasis on best practices in reproducible neuroscience. Lectures will set the conceptual foundation for interactive, hands-on lab work using Jupyter notebooks. Advanced topics include multivariate pattern analysis (MVPA), representational similarity analysis (RSA), functional connectivity, intersubject correlation (ISC) analysis, and regularized encoding models. Students will be expected to analze and write up an fMRI experiment as a final project.
+This lab course covers the methodological landscape of human cognitive neuroscience research. Students will learn the fundamentals of experimental design, data collection, preprocessing, and statistical analysis for fMRI, EEG/MEG, and ECoG, with an emphasis on best practices in reproducible neuroscience. Lectures will set the conceptual foundation for interactive, hands-on lab work using Jupyter notebooks. Advanced topics include multivariate pattern analysis (MVPA), representational similarity analysis (RSA), functional connectivity, intersubject correlation (ISC) analysis, and regularized encoding models. Students will be expected to design, analyze, and write up an fMRI experiment as a final project.
 
 
