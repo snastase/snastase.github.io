@@ -29,32 +29,32 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 
 | Date | Topic | Slides/code | Homework | Optional reading |
 | --- | --- | --- | --- | --- |
-| M 1/30 | Introduction and computing tools; MR physics | | | |
-| W 2/1 | Biological basis of BOLD | | | |
-| M 2/6 | fMRI experimental design | | | |
-| W 2/8 | fMRI confounds and preprocessing | | | |
-| M 2/13 | First-level modeling (GLM) | | | |
-| W 2/15 | Group-level analysis and correction for multiple tests | | | |
-| M 2/20 | Best practices in reproducible neuroimaging | | | |
-| W 2/22 | Multivariate pattern analysis (MVPA) | | | |
-| M 2/27 | Representational similarity analysis | | | |
-| W 3/1 | Searchlight analysis | | | |
-| M 3/6 | Naturalistic design, intersubject correlation, hyperalignment | | | |
-| W 3/8 | Voxelwise encoding models | | | |
+| M 1/30 | Introduction and computing tools; MR physics | | | [`Logothetis et al., 2001`](https://doi.org/10.1038/35084005) [`Buxton, 2013`](https://doi.org/10.1088/0034-4885/76/9/096601) |
+| W 2/1 | Biological basis of BOLD | | | [`Ogawa et al., 1992`](https://doi.org/10.1073/pnas.89.13.5951) [`Bandettini et al., 1992`](https://doi.org/10.1002/mrm.1910250220) [`Kwong et al., 1992`](https://doi.org/10.1073/pnas.89.12.5675) |
+| M 2/6 | fMRI experimental design | | | [`Boynton et al., 1996`](https://doi.org/10.1523/JNEUROSCI.16-13-04207.1996) [`Dale & Buckner, 1997`](https://doi.org/10.1002/(SICI)1097-0193(1997)5:5%3C329::AID-HBM1%3E3.0.CO;2-5) |
+| W 2/8 | fMRI confounds and preprocessing | | | [`Esteban et al., 2019`](https://doi.org/10.1038/s41592-018-0235-4) [`Power et al., 2012`](https://doi.org/10.1016/j.neuroimage.2011.10.018) |
+| M 2/13 | First-level modeling (GLM) | | | [`Friston et al., 1994`](https://doi.org/10.1002/hbm.460020402) [`Lindquist, 2008`](https://doi.org/10.1214/09-STS282) |
+| W 2/15 | Group-level analysis and correction for multiple tests | | | [`Nichols & Holmes, 2002`](https://doi.org/10.1002/hbm.1058) [`Eklund et al., 2016`](https://doi.org/10.1073/pnas.1602413113) |
+| M 2/20 | Best practices in reproducible neuroimaging | | | [`Carp, 2012`](https://doi.org/10.1016/j.neuroimage.2012.07.004) [`Nichols et al., 2017`](https://doi.org/10.1038/nn.4500) [`Poldrack et al., 2019`](https://doi.org/10.1038/nrn.2016.167) |
+| W 2/22 | Multivariate pattern analysis (MVPA) | | | [`Haxby et al., 2001`](https://doi.org/10.1126/science.1063736) [`Norman et al., 2006`](https://doi.org/10.1016/j.tics.2006.07.005) [`Tong & Pratte, 2012`](https://doi.org/10.1146/annurev-psych-120710-100412) |
+| M 2/27 | Representational similarity analysis | | | [`Edelman, 1998`](https://doi.org/10.1017/S0140525X98001253) [`Kriegeskorte et al., 2008`](https://doi.org/10.3389/neuro.06.004.2008) |
+| W 3/1 | Searchlight analysis | | | [`Kriegeskorte et al., 2006`](https://doi.org/10.1073/pnas.0600244103) |
+| M 3/6 | Naturalistic design, intersubject correlation, hyperalignment | | | [`Hasson et al., 2004`](https://doi.org/10.1126/science.1089506) [`Nastase et al., 2019`](https://doi.org/10.1093/scan/nsz037) [`Haxby et al., 2020`](https://doi.org/10.7554/eLife.56601) |
+| W 3/8 | Voxelwise encoding models | | | [`Mitchell et al., 2008`](https://doi.org/10.1126/science.1152876) [`Naselaris et al., 2011`](https://doi.org/10.1016/j.neuroimage.2010.07.073) [`Huth et al., 2016`](https://doi.org/10.1038/nature17637) |
 | M 3/13 | _No class (spring recess)_ | | | |
 | W 3/15 | _No class (spring recess)_ | | | |
-| M 3/20 | Structural and functional connectivity | | | |
-| W 3/22 | EEG preprocessing; project proposal presentations | | | |
-| M 3/27 | Experimental design in PsychoPy | | | |
+| M 3/20 | Structural and functional connectivity | | | [`Bullmore & Sporns`](https://doi.org/10.1038/nrn2575) [`Biswal et al., 2010`](https://doi.org/10.1073/pnas.0911855107) [`Yeo et al., 2011`](https://doi.org/10.1152/jn.00338.2011) |
+| W 3/22 | EEG preprocessing; project proposal presentations | | | [`Buzsáki et al., 2012`](https://doi.org/10.1038/nrn3241) [`Gramfort et al., 2013`](https://doi.org/10.3389/fnins.2013.00267) |
+| M 3/27 | Experimental design in PsychoPy | | | [`Peirce et al., 2019`](https://doi.org/10.3758/s13428-018-01193-y) |
 | W 3/29 | EEG facility demonstration | | | |
 | M 4/3 | fMRI data collection | | | |
 | M 4/5 | fMRI data collection | | | |
-| M 4/10 | EEG ERP analysis | | | |
-| W 4/12  | EEG spectral analysis | | | |
-| M 4/17 | ECoG preprocessing and analysis | | | |
+| M 4/10 | EEG ERP analysis | | | [`Hillyard & Kutas, 1983`](https://doi.org/10.1146/annurev.ps.34.020183.000341) [`Kutas & Federmeier, 2010`](https://doi.org/10.1146/annurev.psych.093008.131123) |
+| W 4/12  | EEG time-frequency analysis | | | [`Fries, 2015`](https://doi.org/10.1016/j.neuron.2015.09.034) [`Cohen, 2017`](https://doi.org/10.1016/j.tins.2017.02.004) |
+| M 4/17 | ECoG preprocessing and analysis | | | [`Engel et al., 2005`](https://doi.org/10.1038/nrn1585) [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner`](https://doi.org/10.1038/s41593-018-0108-2) |
 | W 4/19 | Progress report presentations | | | |
-| M 4/24 | Convolutional neural networks | | | |
-| W 4/26 | Recurrent neural networks, transformers | | | |
+| M 4/24 | Convolutional neural networks | | | [`Krizhevsky et al., 2012`](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) |
+| W 4/26 | Recurrent neural networks, transformers | | | [`Vaswani et al., 2017`](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) [`Goldstein et al., 2022`](https://doi.org/10.1038/s41593-022-01026-4) |
 | M 5/8 | _No class (final written report due)_
 
 ---
