@@ -29,7 +29,7 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 
 | Date | Topic | Slides/code | Homework | Optional reading |
 | --- | --- | --- | --- | --- |
-| M 1/30 | Introduction and computing tools; MR physics | | | [`Logothetis et al., 2001`](https://doi.org/10.1038/35084005) [`Buxton, 2013`](https://doi.org/10.1088/0034-4885/76/9/096601) |
+| M 1/30 | Introduction and computing tools; MR physics | [`Slides`](https://docs.google.com/presentation/d/1-z-MqUW27vwozxMoEQ8TCV6yht_TK1Bpu-JTmsORBoA/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-00/fmri-00-introduction.ipynb) [`Scratch`](https://docs.google.com/document/d/1M1lTMpmpQ3u8yGUHTuNSHkBbMV1smjHTDjb3NFVkLew/edit?usp=sharing) | | [`Logothetis et al., 2001`](https://doi.org/10.1038/35084005) [`Buxton, 2013`](https://doi.org/10.1088/0034-4885/76/9/096601) |
 | W 2/1 | Biological basis of BOLD | | | [`Ogawa et al., 1992`](https://doi.org/10.1073/pnas.89.13.5951) [`Bandettini et al., 1992`](https://doi.org/10.1002/mrm.1910250220) [`Kwong et al., 1992`](https://doi.org/10.1073/pnas.89.12.5675) |
 | M 2/6 | fMRI experimental design | | | [`Boynton et al., 1996`](https://doi.org/10.1523/JNEUROSCI.16-13-04207.1996) [`Dale & Buckner, 1997`](https://doi.org/10.1002/(SICI)1097-0193(1997)5:5%3C329::AID-HBM1%3E3.0.CO;2-5) |
 | W 2/8 | fMRI confounds and preprocessing | | | [`Esteban et al., 2019`](https://doi.org/10.1038/s41592-018-0235-4) [`Power et al., 2012`](https://doi.org/10.1016/j.neuroimage.2011.10.018) |
@@ -51,7 +51,7 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 | M 4/5 | fMRI data collection | | | |
 | M 4/10 | EEG ERP analysis | | | [`Hillyard & Kutas, 1983`](https://doi.org/10.1146/annurev.ps.34.020183.000341) [`Kutas & Federmeier, 2010`](https://doi.org/10.1146/annurev.psych.093008.131123) |
 | W 4/12  | EEG time-frequency analysis | | | [`Fries, 2015`](https://doi.org/10.1016/j.neuron.2015.09.034) [`Cohen, 2017`](https://doi.org/10.1016/j.tins.2017.02.004) |
-| M 4/17 | ECoG preprocessing and analysis | | | [`Engel et al., 2005`](https://doi.org/10.1038/nrn1585) [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner`](https://doi.org/10.1038/s41593-018-0108-2) |
+| M 4/17 | ECoG preprocessing and analysis | | | [`Engel et al., 2005`](https://doi.org/10.1038/nrn1585) [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner, 2018`](https://doi.org/10.1038/s41593-018-0108-2) |
 | W 4/19 | Progress report presentations | | | |
 | M 4/24 | Convolutional neural networks | | | [`Krizhevsky et al., 2012`](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) |
 | W 4/26 | Recurrent neural networks, transformers | | | [`Vaswani et al., 2017`](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) [`Goldstein et al., 2022`](https://doi.org/10.1038/s41593-022-01026-4) |
