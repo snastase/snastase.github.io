@@ -16,7 +16,8 @@ Princeton University, NEU 502B, Spring 2023<br>
 **Instructor:** Sam Nastase ([snastase@princeton.edu](snastase@princeton.edu))<br>
 **AI:** Gili Karni ([gili@princeton.edu](gili@princeton.edu))<br>
 **Syllabus:** [`Syllabus`](https://docs.google.com/document/d/1JRjKDrGgjRPv-Fzc43NnibtK02tIoXBdEJIqEYeyLN0/edit?usp=sharing)<br>
-**GitHub:** [`GitHub`](https://github.com/2023-NEU502b)
+**GitHub:** [`GitHub`](https://github.com/2023-NEU502b)<br>
+**Scratch:** [`Scratch`](https://docs.google.com/document/d/1M1lTMpmpQ3u8yGUHTuNSHkBbMV1smjHTDjb3NFVkLew/edit?usp=sharing)
 
 {% include base_path %}
 
@@ -29,7 +30,7 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 
 | Date | Topic | Slides/code | Homework | Optional reading |
 | --- | --- | --- | --- | --- |
-| M 1/30 | Introduction and computing tools; MR physics | [`Slides`](https://docs.google.com/presentation/d/1-z-MqUW27vwozxMoEQ8TCV6yht_TK1Bpu-JTmsORBoA/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-00/fmri-00-introduction.ipynb) [`Scratch`](https://docs.google.com/document/d/1M1lTMpmpQ3u8yGUHTuNSHkBbMV1smjHTDjb3NFVkLew/edit?usp=sharing) | | [`Logothetis et al., 2001`](https://doi.org/10.1038/35084005) [`Buxton, 2013`](https://doi.org/10.1088/0034-4885/76/9/096601) |
+| M 1/30 | Introduction and computing tools; MR physics | [`Slides`](https://docs.google.com/presentation/d/1-z-MqUW27vwozxMoEQ8TCV6yht_TK1Bpu-JTmsORBoA/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-00/fmri-00-introduction.ipynb) | | [`Logothetis et al., 2001`](https://doi.org/10.1038/35084005) [`Buxton, 2013`](https://doi.org/10.1088/0034-4885/76/9/096601) |
 | W 2/1 | Biological basis of BOLD | [`Slides`](https://docs.google.com/presentation/d/16vDMc79pclwT4rrTZZYsL904xbFy9BovE_Jvr0b6mwk/edit?usp=sharing) | | [`Ogawa et al., 1992`](https://doi.org/10.1073/pnas.89.13.5951) [`Bandettini et al., 1992`](https://doi.org/10.1002/mrm.1910250220) [`Kwong et al., 1992`](https://doi.org/10.1073/pnas.89.12.5675) |
 | M 2/6 | fMRI experimental design | | | [`Boynton et al., 1996`](https://doi.org/10.1523/JNEUROSCI.16-13-04207.1996) [`Dale & Buckner, 1997`](https://doi.org/10.1002/(SICI)1097-0193(1997)5:5%3C329::AID-HBM1%3E3.0.CO;2-5) |
 | W 2/8 | fMRI confounds and preprocessing | | | [`Esteban et al., 2019`](https://doi.org/10.1038/s41592-018-0235-4) [`Power et al., 2012`](https://doi.org/10.1016/j.neuroimage.2011.10.018) |
