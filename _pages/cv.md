@@ -22,10 +22,13 @@ redirect_from:
 
 ## Employment
 ---
-**University Lecturer**  January, 2021&ndash;present<br>
+**Associate Research Scholar**  2023&ndash;present<br>
 **Princeton University**
 
-**Postdoctoral Research Associate**  February, 2018&ndash;present<br>
+**Lecturer**  2021&ndash;present<br>
+**Princeton University**
+
+**Postdoctoral Research Associate**  2018&ndash;2022<br>
 **Princeton University** (advisors: Uri Hasson, Kenneth A. Norman)
 
 **Student Intern**  June&ndash;August, 2016<br>
