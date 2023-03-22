@@ -45,8 +45,8 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 | M 3/13 | _No class (spring recess)_ | | | |
 | W 3/15 | _No class (spring recess)_ | | | |
 | M 3/20 | Structural and functional connectivity | [`Slides`](https://docs.google.com/presentation/d/1MUfBWoiBDZmzbANsiiTKaP7xCkhK-IGVZsy9K7pDP9o/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-06/fmri-06-fc.ipynb) | | [`Bullmore & Sporns`](https://doi.org/10.1038/nrn2575) [`Biswal et al., 2010`](https://doi.org/10.1073/pnas.0911855107) [`Yeo et al., 2011`](https://doi.org/10.1152/jn.00338.2011) |
-| W 3/22 | EEG preprocessing; project proposal presentations | | | [`Buzsáki et al., 2012`](https://doi.org/10.1038/nrn3241) [`Gramfort et al., 2013`](https://doi.org/10.3389/fnins.2013.00267) |
-| M 3/27 | Experimental design in PsychoPy | | | [`Peirce et al., 2019`](https://doi.org/10.3758/s13428-018-01193-y) |
+| W 3/22 | EEG preprocessing; project proposal presentations | [`Slides`](https://docs.google.com/presentation/d/1wZOcnEH2wveMO--kIeRwv0Z05kQaLfNHjG7xDbSaDP0/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/elec-00/elec-00-preprocessing.ipynb) | | [`Buzsáki et al., 2012`](https://doi.org/10.1038/nrn3241) [`Gramfort et al., 2013`](https://doi.org/10.3389/fnins.2013.00267) |
+| M 3/27 | ~~Experimental design in PsychoPy~~<br>_Class canceled_ | | | [`Peirce et al., 2019`](https://doi.org/10.3758/s13428-018-01193-y) |
 | W 3/29 | EEG facility demonstration | | | |
 | M 4/3 | fMRI data collection | | | |
 | M 4/5 | fMRI data collection | | | |
