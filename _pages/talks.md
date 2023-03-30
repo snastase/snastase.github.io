@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.** (2023, March). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Pennsylvania, Philadelphia, PA.
+
 **Nastase, S. A.** (2022, December). *Putting peer review in the public record*. Invited talk at the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB) "MRI Together" workshop. [`slides`](https://docs.google.com/presentation/d/14zpN4A3_j33ClAZzwqQ0Rs3RCZ_i_eEpi7ScBgsv3_k/edit?usp=sharing)
 
 **Nastase, S. A.** (2022, October). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited colloquium for the Cognitive Science program at Indiana University, Bloomington, IN. [`DOI`](https://doi.org/10.5281/zenodo.7259318) [`slides`](https://docs.google.com/presentation/d/15JLYvH5niw3mYda8Ho_E8DChLTQQEIdW8rYkGMMV_aI/edit?usp=sharing)
@@ -60,6 +62,10 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 
 ---
 ## Conference presentations
+
+Han, J., **Nastase, S. A.**, & Haxby, J. V. (2023, March). *Neural representational geometry of action in naturalistic stimuli*. Poster presented at the annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
+
+Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023, March). *Cross-movie prediction of individualized functional topography*. Poster presented at the annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
 
 Zada, Z., **Nastase, S. A.**, Goldstein, A., Hasson, U. (2022, August). *Brain-to-brain linguistic coupling in natural conversations*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1242-0)
 

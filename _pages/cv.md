@@ -117,6 +117,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 ## Invited talks
 ---
 
+**Nastase, S. A.** (2023, March). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Pennsylvania, Philadelphia, PA.
+
 **Nastase, S. A.** (2022, December). *Putting peer review in the public record*. Invited talk at the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB) "MRI Together" workshop. [`slides`](https://docs.google.com/presentation/d/14zpN4A3_j33ClAZzwqQ0Rs3RCZ_i_eEpi7ScBgsv3_k/edit?usp=sharing)
 
 **Nastase, S. A.**. (2022, October). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited colloquium for the Cognitive Science program at Indiana University, Bloomington, IN. [`DOI`](https://doi.org/10.5281/zenodo.7259318) [`slides`](https://docs.google.com/presentation/d/1eMoYVt5ZNbP7yPmhqdW6Xwhx_W_Pg9B7L1FiZ1TwIrA/edit?usp=sharing)
@@ -243,12 +245,13 @@ Psychology & Cognitive Sciences Department, University of Trento
 
 ## Community
 ---
-**Peer review:** *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *European Journal of Neuroscience*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Human Behaviour*, *NeuroImage*, *NeuroImage: Reports*, *Neuropsychologia*, *Organization for Human Brain Mapping*, *PLOS One*, *PLOS Computational Biology*, *Princeton University Press*, *Proceedings of the National Academy of Sciences*, *Psychological Review*, *Psychophysiology*, *Science*, *Science Advances*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Neurosciences*
+**Peer review:** *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *European Journal of Neuroscience*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Human Behaviour*, *NeuroImage*, *NeuroImage: Reports*, *Neuropsychologia*, *Organization for Human Brain Mapping*, *PLOS One*, *PLOS Computational Biology*, *Princeton University Press*, *Proceedings of the National Academy of Sciences*, *Psychological Review*, *Psychophysiology*, *Science*, *Science Advances*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Cognitive Sciences*, *Trends in Neurosciences*
 
 **Society membership:** Organization for Human Brain Mapping, Society for Neuroscience, Vision Sciences Society, Cognitive Neuroscience Society
 
 **Mentorship**<br>
 Yibei Chen, graduate student, Media Neuroscience Lab, UC Santa Barbara<br>
+Isaac Christian, graduate student, Graziano Lab, Princeton University<br>
 Yingying Peng, graduate student, Li Lab, Hong Kong Polytechnic University<br>
 Chanyuan Gu, graduate student, Li Lab, Hong Kong Polytechnic University<br>
 Zaid Zada, graduate student, Hasson Lab, Princeton University<br>
