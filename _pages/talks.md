@@ -67,6 +67,8 @@ Han, J., **Nastase, S. A.**, & Haxby, J. V. (2023, March). *Neural representatio
 
 Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023, March). *Cross-movie prediction of individualized functional topography*. Poster presented at the annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
 
+Peng, Y., Gu, C., **Nastase, S. A.**, Mayer, R. E., & Li, P. (2023, March). *Social cues impact real-time neural synchronization, visual attention, and learning outcome during multimedia learning*. Poster presented at the annual meeting of Cognitive Neuroscience Society, San Francisco, CA.
+
 Zada, Z., **Nastase, S. A.**, Goldstein, A., Hasson, U. (2022, August). *Brain-to-brain linguistic coupling in natural conversations*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1242-0)
 
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022, August). *Reconstructing the cascade of language processing in the brain using the internal computations of a transformer-based language model*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1255-0)
