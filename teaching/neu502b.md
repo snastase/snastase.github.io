@@ -50,8 +50,8 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 | W 3/29 | EEG facility demonstration | | | |
 | M 4/3 | fMRI data collection | | | |
 | M 4/5 | fMRI data collection | | | |
-| M 4/10 | EEG ERP analysis | | | [`Hillyard & Kutas, 1983`](https://doi.org/10.1146/annurev.ps.34.020183.000341) [`Kutas & Federmeier, 2010`](https://doi.org/10.1146/annurev.psych.093008.131123) |
-| W 4/12  | EEG time-frequency analysis | | | [`Fries, 2015`](https://doi.org/10.1016/j.neuron.2015.09.034) [`Cohen, 2017`](https://doi.org/10.1016/j.tins.2017.02.004) |
+| M 4/10 | ~~EEG ERP analysis~~<br>fMRI data collection | | | [`Hillyard & Kutas, 1983`](https://doi.org/10.1146/annurev.ps.34.020183.000341) [`Kutas & Federmeier, 2010`](https://doi.org/10.1146/annurev.psych.093008.131123) |
+| W 4/12  | EEG ERP and time-frequency analysis | [`Slides`](https://docs.google.com/presentation/d/1GnkggLjvGLTJxtiF6ZOW435Lbtq9pyq8n9QDvuHhJb0/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/tree/master/elec-01) | | [`Fries, 2015`](https://doi.org/10.1016/j.neuron.2015.09.034) [`Cohen, 2017`](https://doi.org/10.1016/j.tins.2017.02.004) |
 | M 4/17 | ECoG preprocessing and analysis | | | [`Engel et al., 2005`](https://doi.org/10.1038/nrn1585) [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner, 2018`](https://doi.org/10.1038/s41593-018-0108-2) |
 | W 4/19 | Progress report presentations | | | |
 | M 4/24 | Convolutional neural networks | | | [`Krizhevsky et al., 2012`](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) |
