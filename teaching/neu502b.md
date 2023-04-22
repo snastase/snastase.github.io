@@ -40,8 +40,8 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 | W 2/22 | Multivariate pattern analysis (MVPA) | [`Slides`](https://docs.google.com/presentation/d/1_BjJRgrtiWmdYMjb57YusPXah2q6aMb4lVp2m70tAzQ/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/comp-00/comp-00-mvpa.ipynb) | | [`Haxby et al., 2001`](https://doi.org/10.1126/science.1063736) [`Norman et al., 2006`](https://doi.org/10.1016/j.tics.2006.07.005) [`Tong & Pratte, 2012`](https://doi.org/10.1146/annurev-psych-120710-100412) |
 | M 2/27 | Representational similarity analysis<br>_Homework 2 (due 3/8)_ | [`Slides`](https://docs.google.com/presentation/d/1ks_cn-s1qK-nw6_LTxBo3M3azdcdealQG9ofoeMNI68/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/comp-01/comp-01-rsa.ipynb) | [`Homework 2`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/homework/homework-2.ipynb) | [`Edelman, 1998`](https://doi.org/10.1017/S0140525X98001253) [`Kriegeskorte et al., 2008`](https://doi.org/10.3389/neuro.06.004.2008) |
 | W 3/1 | Searchlight analysis | [`Slides`](https://docs.google.com/presentation/d/1Fh0gdj_b65p3KcVviJyup-ewajzV4oPSLhyncln9LEM/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/comp-02/comp-02-searchlight.ipynb) | | [`Kriegeskorte et al., 2006`](https://doi.org/10.1073/pnas.0600244103) |
-| W 3/6 | Voxelwise encoding models | [`Slides`](https://docs.google.com/presentation/d/1hb0XHSGrb2RvTLw_59TLU-RQwZFzZ6DarjSl9NJQKfw/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/comp-03/comp-03-encoding.ipynb) | | [`Mitchell et al., 2008`](https://doi.org/10.1126/science.1152876) [`Naselaris et al., 2011`](https://doi.org/10.1016/j.neuroimage.2010.07.073) [`Huth et al., 2016`](https://doi.org/10.1038/nature17637) |
-| M 3/8 | Naturalistic design, intersubject correlation, hyperalignment | [`Slides`](https://docs.google.com/presentation/d/1r-nq0oTEOyE9Psg4v9kazrTv-aKV-lPfsT0nhRsjuNw/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/tree/master/comp-04) | | [`Hasson et al., 2004`](https://doi.org/10.1126/science.1089506) [`Nastase et al., 2019`](https://doi.org/10.1093/scan/nsz037) [`Haxby et al., 2020`](https://doi.org/10.7554/eLife.56601) |
+| M 3/6 | Voxelwise encoding models | [`Slides`](https://docs.google.com/presentation/d/1hb0XHSGrb2RvTLw_59TLU-RQwZFzZ6DarjSl9NJQKfw/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/comp-03/comp-03-encoding.ipynb) | | [`Mitchell et al., 2008`](https://doi.org/10.1126/science.1152876) [`Naselaris et al., 2011`](https://doi.org/10.1016/j.neuroimage.2010.07.073) [`Huth et al., 2016`](https://doi.org/10.1038/nature17637) |
+| W 3/8 | Naturalistic design, intersubject correlation, hyperalignment | [`Slides`](https://docs.google.com/presentation/d/1r-nq0oTEOyE9Psg4v9kazrTv-aKV-lPfsT0nhRsjuNw/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/tree/master/comp-04) | | [`Hasson et al., 2004`](https://doi.org/10.1126/science.1089506) [`Nastase et al., 2019`](https://doi.org/10.1093/scan/nsz037) [`Haxby et al., 2020`](https://doi.org/10.7554/eLife.56601) |
 | M 3/13 | _No class (spring recess)_ | | | |
 | W 3/15 | _No class (spring recess)_ | | | |
 | M 3/20 | Structural and functional connectivity | [`Slides`](https://docs.google.com/presentation/d/1MUfBWoiBDZmzbANsiiTKaP7xCkhK-IGVZsy9K7pDP9o/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-06/fmri-06-fc.ipynb) | | [`Bullmore & Sporns`](https://doi.org/10.1038/nrn2575) [`Biswal et al., 2010`](https://doi.org/10.1073/pnas.0911855107) [`Yeo et al., 2011`](https://doi.org/10.1152/jn.00338.2011) |
@@ -49,18 +49,18 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 | M 3/27 | ~~Experimental design in PsychoPy~~<br>_Class canceled_ | | | [`Peirce et al., 2019`](https://doi.org/10.3758/s13428-018-01193-y) |
 | W 3/29 | EEG facility demonstration | | | |
 | M 4/3 | fMRI data collection | | | |
-| M 4/5 | fMRI data collection | | | |
+| W 4/5 | fMRI data collection | | | |
 | M 4/10 | ~~EEG ERP analysis~~<br>fMRI data collection | | | [`Hillyard & Kutas, 1983`](https://doi.org/10.1146/annurev.ps.34.020183.000341) [`Kutas & Federmeier, 2010`](https://doi.org/10.1146/annurev.psych.093008.131123) |
 | W 4/12  | EEG ERP and time-frequency analysis | [`Slides`](https://docs.google.com/presentation/d/1GnkggLjvGLTJxtiF6ZOW435Lbtq9pyq8n9QDvuHhJb0/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/tree/master/elec-01) | | [`Fries, 2015`](https://doi.org/10.1016/j.neuron.2015.09.034) [`Cohen, 2017`](https://doi.org/10.1016/j.tins.2017.02.004) |
 | M 4/17 | ECoG preprocessing and analysis | [`Slides`](https://docs.google.com/presentation/d/1EUHqt7_IOJU1rLtHWF1ggq9gneOXE1aOr4eUZ0jsjH4/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/elec-02/elec-02-ecog.ipynb) | | [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner, 2018`](https://doi.org/10.1038/s41593-018-0108-2) |
-| W 4/19 | Progress report presentations | | | |
-| M 4/24 | Convolutional neural networks | | | [`Krizhevsky et al., 2012`](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) |
-| W 4/26 | Recurrent neural networks, transformers | | | [`Vaswani et al., 2017`](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) [`Goldstein et al., 2022`](https://doi.org/10.1038/s41593-022-01026-4) |
+| W 4/19 | Parallel distributed processing | [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/anns-00/anns-00-pdp.ipynb) | | [`Rumelhart et al., 1986`](https://doi.org/10.1038/323533a0) [`McClelland et al., 2010`](https://doi.org/10.1016/j.tics.2010.06.002) |
+| M 4/24 | Progress report presentations | | | |
+| W 4/26 | Deep learning | | | [`Richards et al., 2019`](https://doi.org/10.1038/s41593-019-0520-2) [`Hasson et al., 2020`](https://doi.org/10.1016/j.neuron.2019.12.002) |
 | M 5/8 | _No class (final written report due)_
 
 ---
 
-The content of this course is inspired by related courses designed by Leigh Nystrom, Jody Culham, and Jim Haxby.
+The content of this course is inspired by related courses designed by Leigh Nystrom, Jonathan Cohen, Jody Culham, and Jim Haxby.
 
 ---
 
