@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### April 24, 2023 &mdash; Open review of preprint by Vigliocco and colleagues: [`review`](https://snastase.github.io/reviews/2023-04-24-vigliocco) [`PubPeer`](https://pubpeer.com/publications/A9AF1176B2F49FDD345DF80BD4BE20#1)
+Vigliocco, G., Conventino, L., De Felice, S., Gregorians, L., Kewenig, V., Mueller, M. A., Veselic, S., Musolesi, M., Hudson-Smith, A., Tyler, N., Flouri, E., & Spiers, H. (2023). Ecological brain: reframing the study of human behaviour and cognition. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/zr4nm)
+
+---
+
 ### December 11, 2022 &mdash; Open review of preprint by Samara and colleagues: [`review`](https://snastase.github.io/reviews/2022-12-11-samara) [`PubPeer`](https://pubpeer.com/publications/57B0DA1EB3C7CDF981385FA137E166#1)
 Samara, A., Eilbott, J., Margulies, D. S., Xu, T., & Vanderwal, T. (2022). Cortical gradients during naturalistic processing are hierarchical and modality-specific. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.10.15.512379)
 
