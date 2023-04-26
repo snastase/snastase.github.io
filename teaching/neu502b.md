@@ -55,7 +55,7 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 | M 4/17 | ECoG preprocessing and analysis | [`Slides`](https://docs.google.com/presentation/d/1EUHqt7_IOJU1rLtHWF1ggq9gneOXE1aOr4eUZ0jsjH4/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/elec-02/elec-02-ecog.ipynb) | | [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner, 2018`](https://doi.org/10.1038/s41593-018-0108-2) |
 | W 4/19 | Parallel distributed processing | [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/anns-00/anns-00-pdp.ipynb) | | [`Rumelhart et al., 1986`](https://doi.org/10.1038/323533a0) [`McClelland et al., 2010`](https://doi.org/10.1016/j.tics.2010.06.002) |
 | M 4/24 | Progress report presentations | | | |
-| W 4/26 | Deep learning | | | [`Richards et al., 2019`](https://doi.org/10.1038/s41593-019-0520-2) [`Hasson et al., 2020`](https://doi.org/10.1016/j.neuron.2019.12.002) |
+| W 4/26 | Deep learning | [`Slides`](https://docs.google.com/presentation/d/1vi3fxUd2BEdvjk8aeby_r9E2XTl9w9UzukAl0n6jTUM/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/anns-01/anns-01-deep.ipynb) | | [`Richards et al., 2019`](https://doi.org/10.1038/s41593-019-0520-2) [`Hasson et al., 2020`](https://doi.org/10.1016/j.neuron.2019.12.002) |
 | M 5/8 | _No class (final written report due)_
 
 ---
