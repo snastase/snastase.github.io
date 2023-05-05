@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### May 5, 2023 &mdash; Open review of preprint by Fitzpatrick and colleagues: [`review`](https://snastase.github.io/reviews/2023-05-05-fitzpatrick) [`PubPeer`](https://pubpeer.com/publications/73073F91FF17BAB4D0A853375CDEFC#1)
+Fitzpatrick, P. C., Heusser, A. C., & Manning, J. R. (2023). Text embedding models yield high-resolution insights into conceptual knowledge from short multiple-choice quizzes. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/dh3q2)
+
+---
+
 ### April 24, 2023 &mdash; Open review of preprint by Vigliocco and colleagues: [`review`](https://snastase.github.io/reviews/2023-04-24-vigliocco) [`PubPeer`](https://pubpeer.com/publications/A9AF1176B2F49FDD345DF80BD4BE20#1)
 Vigliocco, G., Conventino, L., De Felice, S., Gregorians, L., Kewenig, V., Mueller, M. A., Veselic, S., Musolesi, M., Hudson-Smith, A., Tyler, N., Flouri, E., & Spiers, H. (2023). Ecological brain: reframing the study of human behaviour and cognition. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/zr4nm)
 
