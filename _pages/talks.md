@@ -12,9 +12,7 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
-**Nastase, S. A.** (2023, June). *Learning a shared linguistic space for transmitting our thoughts to others*. Talk presented at the annual meeting of the International Multisensory Research Forum (IMRF), University of Louvain, Brussels, Belgium.
-
-**Nastase, S. A.** (2023, March). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Pennsylvania, Philadelphia, PA.
+**Nastase, S. A.** (2023, March). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Pennsylvania, Philadelphia, PA. [`slides`](https://docs.google.com/presentation/d/1eqwbq-6LXI7MdAYizQyBnNe9ocr9I3dYZnF7tHb_4is/edit?usp=sharing)
 
 **Nastase, S. A.** (2022, December). *Putting peer review in the public record*. Invited talk at the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB) "MRI Together" workshop. [`slides`](https://docs.google.com/presentation/d/14zpN4A3_j33ClAZzwqQ0Rs3RCZ_i_eEpi7ScBgsv3_k/edit?usp=sharing)
 
@@ -64,6 +62,8 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 
 ---
 ## Conference presentations
+
+**Nastase, S. A.** (2023, June). *Learning a shared linguistic space for transmitting our thoughts to others*. Talk presented at the annual meeting of the International Multisensory Research Forum (IMRF), Brussels, Belgium. [`slides`](https://docs.google.com/presentation/d/1kh784bogGGg6f_pulupFJDe7sUHLbKLuCGh1K0KlOYA/edit?usp=sharing)
 
 Han, J., **Nastase, S. A.**, & Haxby, J. V. (2023, March). *Neural representational geometry of action in naturalistic stimuli*. Poster presented at the annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
 
