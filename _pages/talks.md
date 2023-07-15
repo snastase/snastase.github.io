@@ -63,6 +63,8 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 ---
 ## Conference presentations
 
+Samara, A., **Nastase, S. A.**, & Vanderwal, T. (2023, July). *No rest for the wicked: gradients derived solely from time-locked, stimulus-driven connectivity patterns*. Poster presented at the Gradients of Brain Organization workshop, Montreal Neurological Institute, Montreal, Canada.
+
 **Nastase, S. A.** (2023, June). *Learning a shared linguistic space for transmitting our thoughts to others*. Talk presented at the annual meeting of the International Multisensory Research Forum (IMRF), Brussels, Belgium. [`slides`](https://docs.google.com/presentation/d/1kh784bogGGg6f_pulupFJDe7sUHLbKLuCGh1K0KlOYA/edit?usp=sharing)
 
 Han, J., **Nastase, S. A.**, & Haxby, J. V. (2023, March). *Neural representational geometry of action in naturalistic stimuli*. Poster presented at the annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
