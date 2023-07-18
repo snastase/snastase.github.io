@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### July 18, 2023 &mdash; Open review of preprint by Zimmerman and colleagues: [`review`](https://snastase.github.io/reviews/2023-07-18-zimmerman) [`PubPeer`](https://pubpeer.com/publications/0F0148B0A487CA7E8F8DD3850EB160#1)
+Zimmermann, M., Cusack, R., Bedny, M., Szwed, M. (2023) Auditory areas are recruited for naturalistic visual meaning in early deaf people. *Research Square*. [`DOI`](https://doi.org/10.21203/rs.3.rs-2683286/v1)
+
+---
+
 ### May 5, 2023 &mdash; Open review of preprint by Fitzpatrick and colleagues: [`review`](https://snastase.github.io/reviews/2023-05-05-fitzpatrick) [`PubPeer`](https://pubpeer.com/publications/73073F91FF17BAB4D0A853375CDEFC#1)
 Fitzpatrick, P. C., Heusser, A. C., & Manning, J. R. (2023). Text embedding models yield high-resolution insights into conceptual knowledge from short multiple-choice quizzes. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/dh3q2)
 
