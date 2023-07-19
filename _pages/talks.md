@@ -63,6 +63,10 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 ---
 ## Conference presentations
 
+Zada, Z., Goldstein, A., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U\*, & **Nastase, S. A.**\*. (2023, July). *Speaker-listener neural alignment in linguistic embedding space during spontaneous conversations*. Poster presented at the annual meeting of the Organization for Human Brain Mapping, Montreal, Canada.
+
+Chen, Y., Zada, Z., Ashby, F. G., & **Nastase, S. A.** (2023, July). *Belief-dependent narrative features reconfigure cortical network dynamics*. Poster presented at the annual meeting of the Organization for Human Brain Mapping, Montreal, Canada.
+
 Samara, A., **Nastase, S. A.**, & Vanderwal, T. (2023, July). *No rest for the wicked: gradients derived solely from time-locked, stimulus-driven connectivity patterns*. Poster presented at the Gradients of Brain Organization workshop, Montreal Neurological Institute, Montreal, Canada.
 
 **Nastase, S. A.** (2023, June). *Learning a shared linguistic space for transmitting our thoughts to others*. Talk presented at the annual meeting of the International Multisensory Research Forum (IMRF), Brussels, Belgium. [`slides`](https://docs.google.com/presentation/d/1kh784bogGGg6f_pulupFJDe7sUHLbKLuCGh1K0KlOYA/edit?usp=sharing)
