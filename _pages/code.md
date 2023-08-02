@@ -13,6 +13,12 @@ I contribute software to several open source projects, particularly the [BrainIA
 
 ---
 
+## Predicting brain activity from word embeddings during natural language comprehension [`GitHub`](https://github.com/snastase/encling-tutorial) [`Colab`](https://colab.research.google.com/drive/1L565z54Oth7oNIbzZDt1pLG-l4iOmRaD?usp=sharing)
+
+This tutorial introduces a typical **enc**oding framework for mapping **ling**uistic embeddings onto human brain activity during natural language comprehension. The tutorial includes worked examples for both fMRI and ECoG datasets collected while subjects listened to naturalistic spoken narratives. Two types of word embeddings are obtained based on the stimulus transcripts: static word embeddings from word2vec and contextual word embeddings from GPT-2. Encoding models are estimated using banded ridge regression—this allows us to predict brain activity from word embeddings for left-out segments of data. The tutorial can be retrieved from [GitHub](https://github.com/snastase/encling-tutorial) or run interactively on [Colab](https://colab.research.google.com/drive/1L565z54Oth7oNIbzZDt1pLG-l4iOmRaD?usp=sharing).
+
+---
+
 ## BrainIAK: The Brain Imaging Analysis Kit [`website`](https://brainiak.org/) [`GitHub`](https://github.com/brainiak/brainiak)
 
 The Brain Imaging Analysis Kit (BrainIAK) is a free and open source Python package for computationally-optimized advanced fMRI analysis. BrainIAK supports a variety of methods including intersubject correlation (ISC) and intersubject functional connectivity (ISFC), the shared response model (SRM), full correlation matrix analysis (FCMA), Bayesian representational similarity analysis (BRSA), event segmentation using hidden Markov models, topographic factor analysis (TFA), inverted encoding models (IEM), fMRI data simulation (fmrisim), and real-time fMRI neurofeedback.
