@@ -12,6 +12,10 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.**, Zaid Zada, & Hasson, U. (2023, August). *Predicting brain activity from word embeddings during natural language comprehension*. Invited workshop at Jiangsu Normal University, Xuzhou, China. [`GitHub`](https://github.com/snastase/encling-tutorial)
+
+**Nastase, S. A.** (2023, August). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk Jiangsu Normal University, Xuzhou, China. [`slides`](https://docs.google.com/presentation/d/1EGhuV-ulnrVrMxSoRxx7hJyAOsPeN-4gMxVe51wPW3A/edit?usp=sharing)
+
 **Nastase, S. A.** (2023, March). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Pennsylvania, Philadelphia, PA. [`slides`](https://docs.google.com/presentation/d/1eqwbq-6LXI7MdAYizQyBnNe9ocr9I3dYZnF7tHb_4is/edit?usp=sharing)
 
 **Nastase, S. A.** (2022, December). *Putting peer review in the public record*. Invited talk at the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB) "MRI Together" workshop. [`slides`](https://docs.google.com/presentation/d/14zpN4A3_j33ClAZzwqQ0Rs3RCZ_i_eEpi7ScBgsv3_k/edit?usp=sharing)

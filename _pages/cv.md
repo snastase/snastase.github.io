@@ -41,7 +41,7 @@ Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L
 
 Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Aubrey, B.\*, Sheffer, T.\*, Gazula, H., Schain, M., Singh, A., Rao, A., Choe, G., Kim, C., Doyle, W., Friedman, D., Devore, S., Dugan, P., Hassidim, A., Brenner, M., Matias, Y., Devinsky, O., Flinker, A., & Hasson, U. (2023). Deep speech-to-text models capture the neural basis of spontaneous speech in everyday conversations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.06.26.546557) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2023.pdf) 
 
-Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022). Reconstructing the cascade of language processing in the brain using the internal computations of a transformer-based language model. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.06.08.495348) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2022.pdf)
+Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022). Shared functional specialization in transformer-based language models and the human brain. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.06.08.495348) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2022.pdf)
 
 Zadbood, A., **Nastase, S. A.**, Chen, J., Norman, K. A., & Hasson, U. (2022). Neural representations of naturalistic events are updated as our understanding of the past changes. *eLife*, *11*, e79045. [`DOI`](https://doi.org/10.7554/eLife.79045) [`PDF`](https://snastase.github.io/files/Zadbood_eLife_2022.pdf)
 
