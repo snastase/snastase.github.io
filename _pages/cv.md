@@ -122,6 +122,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 ## Invited talks
 ---
 
+**Nastase, S. A.** (2023, August). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at Fudan University, Shanghai, China.
+
 **Nastase, S. A.**, Zaid Zada, & Hasson, U. (2023, August). *Predicting brain activity from word embeddings during natural language comprehension*. Invited workshop at Jiangsu Normal University, Xuzhou, China.
 
 **Nastase, S. A.** (2023, August). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at Jiangsu Normal University, Xuzhou, China.
