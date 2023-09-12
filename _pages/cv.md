@@ -283,6 +283,14 @@ Cara E. Van Uden, undergraduate research assistant, Haxby Lab, Dartmouth College
 Rebecca E. Philip, undergraduate research assistant, Gobbini Lab, Dartmouth College<br>
 Anwesh Dash, undergraduate honors thesis, Gobbini Lab, Dartmouth College<br>
 
+**Collaboration**<br>
+Prof. M. Ida Gobbini, University of Bologna, Department of Medical and Surgical Sciences<br>
+Prof. Ping Li, Hong Kong Polytechnic University, Department of Chinese and Bilingual Studies<br>
+Prof. Michael S. A. Graziano, Princeton University, Department of Psychology<br>
+Prof. Thomas L. Griffiths, Princeton University, Department of Psychology<br>
+Prof. Yaroslav O. Halchenko, Dartmouth College, Department of Psychological and Brain Sciences<br>
+Prof. James V. Haxby, Dartmouth College, Department of Psychological and Brain Sciences<br>
+
 **Events**<br>
 Brainhack Princeton 2020, Princeton University&mdash;organizer (December, 2020)<br>
 Neuroimaging Analysis Methods (NIAM) seminar series, Princeton University&mdash;organizer (2019–present)<br>
