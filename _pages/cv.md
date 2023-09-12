@@ -283,7 +283,7 @@ Cara E. Van Uden, undergraduate research assistant, Haxby Lab, Dartmouth College
 Rebecca E. Philip, undergraduate research assistant, Gobbini Lab, Dartmouth College<br>
 Anwesh Dash, undergraduate honors thesis, Gobbini Lab, Dartmouth College<br>
 
-**Collaboration**<br>
+**Collaborations**<br>
 Prof. M. Ida Gobbini, University of Bologna, Department of Medical and Surgical Sciences<br>
 Prof. Ping Li, Hong Kong Polytechnic University, Department of Chinese and Bilingual Studies<br>
 Prof. Michael S. A. Graziano, Princeton University, Department of Psychology<br>
