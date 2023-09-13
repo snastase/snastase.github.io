@@ -284,12 +284,13 @@ Rebecca E. Philip, undergraduate research assistant, Gobbini Lab, Dartmouth Coll
 Anwesh Dash, undergraduate honors thesis, Gobbini Lab, Dartmouth College<br>
 
 **Collaborations**<br>
-Prof. M. Ida Gobbini, University of Bologna, Department of Medical and Surgical Sciences<br>
-Prof. Ping Li, Hong Kong Polytechnic University, Department of Chinese and Bilingual Studies<br>
-Prof. Michael S. A. Graziano, Princeton University, Department of Psychology<br>
-Prof. Thomas L. Griffiths, Princeton University, Department of Psychology<br>
-Prof. Yaroslav O. Halchenko, Dartmouth College, Department of Psychological and Brain Sciences<br>
-Prof. James V. Haxby, Dartmouth College, Department of Psychological and Brain Sciences<br>
+Prof. M. Ida Gobbini, Department of Medical and Surgical Sciences, University of Bologna<br>
+Prof. Ping Li, Department of Chinese and Bilingual Studies, Hong Kong Polytechnic University<br>
+Prof. Tamara Vanderwal, Department of Psychiatry, University of British Columbia<br>
+Prof. Michael S. A. Graziano, Department of Psychology, Princeton University<br>
+Prof. Thomas L. Griffiths, Department of Psychology, Princeton University<br>
+Prof. Yaroslav O. Halchenko, Department of Psychological and Brain Sciences, Dartmouth College<br>
+Prof. James V. Haxby, Department of Psychological and Brain Sciences, Dartmouth College<br>
 
 **Events**<br>
 Brainhack Princeton 2020, Princeton University&mdash;organizer (December, 2020)<br>
