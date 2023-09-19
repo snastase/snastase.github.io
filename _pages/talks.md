@@ -73,6 +73,8 @@ Zada, Z., Goldstein, A., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., 
 
 Chen, Y., Zada, Z., Ashby, F. G., & **Nastase, S. A.** (2023, July). *Belief-dependent narrative features reconfigure cortical network dynamics*. Poster presented at the annual meeting of the Organization for Human Brain Mapping, Montreal, Canada.
 
+Kennedy, D. N., Bates, J. F., Ghosh, S., Grethe, J. S., Haselgrove, C., Hodge, S. M., Jarecka, D., Keator, D. B., MacDonald, A., Martone, M. E., **Nastase, S. A.**, Preuss, N., Poline, J.-B., Halchenko, Y. O. (2023, July). *The ReproCenter: a community of support for facilitating reproducible neuroimaging research*. Poster presented at the annual meeting of the Organization for Human Brain Mapping, Montreal, Canada.
+
 Samara, A., **Nastase, S. A.**, & Vanderwal, T. (2023, July). *No rest for the wicked: gradients derived solely from time-locked, stimulus-driven connectivity patterns*. Poster presented at the Gradients of Brain Organization workshop, Montreal Neurological Institute, Montreal, Canada.
 
 **Nastase, S. A.** (2023, June). *Learning a shared linguistic space for transmitting our thoughts to others*. Talk presented at the annual meeting of the International Multisensory Research Forum (IMRF), Brussels, Belgium. [`slides`](https://docs.google.com/presentation/d/1kh784bogGGg6f_pulupFJDe7sUHLbKLuCGh1K0KlOYA/edit?usp=sharing)
