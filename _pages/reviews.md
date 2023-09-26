@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### September 25, 2023 &mdash; Open review of preprint by Kewenig and colleagues: [`review`](https://snastase.github.io/reviews/2023-09-25-kewenig) [`PubPeer`](https://pubpeer.com/publications/77BB8AAF6A7F1D958300B5CE14D695#1)
+Kewenig, V., Edwards, C., DEstalenx, Q. L., Rechardt, A., Skipper, J. I., & Vigliocco, G. (2023). Evidence of human-like visual-linguistic integration in multimodal large language models during predictive language processing. *arXiv*. [`link`](https://arxiv.org/abs/2308.06035)
+
+---
+
 ### July 18, 2023 &mdash; Open review of preprint by Zimmerman and colleagues: [`review`](https://snastase.github.io/reviews/2023-07-18-zimmerman) [`PubPeer`](https://pubpeer.com/publications/0F0148B0A487CA7E8F8DD3850EB160#1)
 Zimmermann, M., Cusack, R., Bedny, M., Szwed, M. (2023) Auditory areas are recruited for naturalistic visual meaning in early deaf people. *Research Square*. [`DOI`](https://doi.org/10.21203/rs.3.rs-2683286/v1)
 
