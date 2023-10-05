@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### October 5, 2023 &mdash; Open review of preprint by Vo, Jain and colleagues: [`review`](https://snastase.github.io/reviews/2023-10-05-vo) [`PubPeer`](https://pubpeer.com/publications/C85230FD7895218EAAA34F6C675726#1)
+Vo, V. A.\*, Jain, S.\*, Beckage, N., Chien, H. Y. S., Obinwa, C., & Huth, A. G. (2023). A unifying computational account of temporal context effects in language across the human cortex. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.08.03.551886)
+
+---
+
 ### September 25, 2023 &mdash; Open review of preprint by Kewenig and colleagues: [`review`](https://snastase.github.io/reviews/2023-09-25-kewenig) [`PubPeer`](https://pubpeer.com/publications/77BB8AAF6A7F1D958300B5CE14D695#1)
 Kewenig, V., Edwards, C., DEstalenx, Q. L., Rechardt, A., Skipper, J. I., & Vigliocco, G. (2023). Evidence of human-like visual-linguistic integration in multimodal large language models during predictive language processing. *arXiv*. [`link`](https://arxiv.org/abs/2308.06035)
 
