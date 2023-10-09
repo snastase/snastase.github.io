@@ -43,6 +43,8 @@ Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Au
 
 Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (in press). Modeling naturalistic face processing in humans with deep convolutional neural networks. *Proceedings of the National Academy of Sciences*. [`DOI`](https://doi.org/10.1101/2021.11.17.469009) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2021.pdf)
 
+Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (in press). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *Imaging Neuroscience*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
+
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022). Shared functional specialization in transformer-based language models and the human brain. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.06.08.495348) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2022.pdf)
 
 Zadbood, A., **Nastase, S. A.**, Chen, J., Norman, K. A., & Hasson, U. (2022). Neural representations of naturalistic events are updated as our understanding of the past changes. *eLife*, *11*, e79045. [`DOI`](https://doi.org/10.7554/eLife.79045) [`PDF`](https://snastase.github.io/files/Zadbood_eLife_2022.pdf)
@@ -52,8 +54,6 @@ Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (2022). Information flow acros
 Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2022). Cross-movie prediction of individualized functional topography. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.11.21.517253) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2022.pdf)
 
 Goldstein, A.\*, Ham, E.\*, **Nastase, S. A.**, Zada, Z., Dabush, A., Aubrey, B., Schain, M., Gazula, H., Feder, A., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Devinsky, O., Flinker, A., Levy, O., & Hasson, U. Correspondence between the layered structure of deep language models and temporal structure of natural language processing in the human brain. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.07.11.499562) [`PDF`](https://snastase.github.io/files/GoldsteinHam_bioRxiv_2022.pdf)
-
-Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2022). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
 
 Goldstein, A., Dabush, A., Aubrey, B., Schain, M., **Nastase, S. A.**, Zada, Z., Ham, E., Hong, Z., Feder, A., Gazula, H., Buchnik, E., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Devinsky, O., Flinker, A., & Hasson, U. (2022). Brain embeddings and artificial contextual embeddings converge on a shared geometry for natural language. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.03.01.482586) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2022.pdf)
 
