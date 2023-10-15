@@ -41,6 +41,8 @@ Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L
 
 Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Aubrey, B.\*, Sheffer, T.\*, Gazula, H., Schain, M., Singh, A., Rao, A., Choe, G., Kim, C., Doyle, W., Friedman, D., Devore, S., Dugan, P., Hassidim, A., Brenner, M., Matias, Y., Devinsky, O., Flinker, A., & Hasson, U. (2023). Deep speech-to-text models capture the neural basis of spontaneous speech in everyday conversations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.06.26.546557) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2023.pdf) 
 
+Chang, C. H., **Nastase, S. A.**, & Hasson, U. (2023). How a speaker herds the audience: multi-brain neural convergence over time during naturalistic storytelling. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.10.10.561803) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2023.pdf)
+
 Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (in press). Modeling naturalistic face processing in humans with deep convolutional neural networks. *Proceedings of the National Academy of Sciences*. [`DOI`](https://doi.org/10.1101/2021.11.17.469009) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2021.pdf)
 
 Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (in press). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *Imaging Neuroscience*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
