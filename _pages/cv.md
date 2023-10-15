@@ -190,6 +190,9 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 
 ## Open code
 ---
+**Predicting brain activity from word embeddings during natural language comprehension**<br>
+Nastase, S. A., Zada, Z., & Hasson, U. (2023). Predicting brain activity from word embeddings during natural language comprehension. [`GitHub`](https://github.com/snastase/encling-tutorial)
+
 **Brain Imaging Analysis Kit (BrainIAK)**<br>
 Kumar, M., Anderson, M. J., Antony, J. W., Baldassano, C., Brooks, P. P., Cai, M. B., Chen, P.-H. C., Ellis, C. T., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J. B., Li, P. Y., Lu, Q., Manning, J. R., Mennen, A. C., **Nastase, S. A.**, Richard, H., Schapiro, A. C., Schuck, N. W., Shvartsman, M., Sundaraman, N., Suo, D., Turek, J. S., Vo, V. A., Wallace, G., Wang, Y., Zhang, H., Zhu, X., Capota, M., Cohen, J. D., Hasson, U., Li, K., Ramadge, P. J., Turk-Browne, N. B., Willke, T. L., & Norman, K. A. (2020) BrainIAK: The Brain Imaging Analysis Kit. [`DOI`](https://doi.org/10.31219/osf.io/db2ev) [`website`]( https://brainiak.org/) [`GitHub`](https://github.com/brainiak/brainiak)
 
@@ -260,9 +263,9 @@ Psychology & Cognitive Sciences Department, University of Trento
 
 ## Community
 ---
-**Peer review:** *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *Current Biology*, *European Journal of Neuroscience*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Human Behaviour*, *NeuroImage*, *NeuroImage: Reports*, *Neuron*, *Neuropsychologia*, *Neuroscience & Biobehavioral Reviews*, *Organization for Human Brain Mapping*, *PLOS One*, *PLOS Computational Biology*, *Princeton University Press*, *Proceedings of the National Academy of Sciences*, *Psychological Review*, *Psychophysiology*, *Science*, *Science Advances*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Cognitive Sciences*, *Trends in Neurosciences*
+**Peer review:** *Acta Psychologica*, *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *Current Biology*, *European Journal of Neuroscience*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Human Behaviour*, *NeuroImage*, *NeuroImage: Reports*, *Neuron*, *Neuropsychologia*, *Neuroscience & Biobehavioral Reviews*, *Organization for Human Brain Mapping*, *PLOS One*, *PLOS Computational Biology*, *Princeton University Press*, *Proceedings of the National Academy of Sciences*, *Psychological Review*, *Psychophysiology*, *Science*, *Science Advances*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Cognitive Sciences*, *Trends in Neurosciences*
 
-**Society membership:** Organization for Human Brain Mapping, Society for Neuroscience, Vision Sciences Society, Cognitive Neuroscience Society
+**Society membership:** Organization for Human Brain Mapping (OHBM), Society for Neuroscience (SfN), Society for the Neurobiology of Language (SNL), Computational Cognitive Neuroscience (CCN), Vision Sciences Society (VSS), Cognitive Neuroscience Society (CNS)
 
 **Mentorship**<br>
 Yibei Chen, graduate student, Media Neuroscience Lab, UC Santa Barbara<br>
@@ -319,9 +322,11 @@ fMRI Brown Bag symposium series, Dartmouth College&mdash;organizer (2013–2017)
 [ORCID](https://orcid.org/0000-0001-7013-5275),
 [Google Scholar](https://scholar.google.com/citations?user=tjLH8mQAAAAJ&hl=en),
 [GitHub](https://github.com/snastase),
-[Publons](https://publons.com/researcher/1348227/sam-nastase),
 [ResearchGate](https://www.researchgate.net/profile/Samuel_Nastase),
 [Twitter](https://twitter.com/samnastase)
+[Bluesky](https://bsky.app/profile/samnastase.bsky.social)
+
+[*Nature Human Behaviour*&mdash;Hierarchical organization of language predictions in the brain](https://doi.org/10.1038/s41562-023-01534-8)
 
 [*The Scientist*&mdash;Researchers report decoding thoughts from fMRI data](https://www.the-scientist.com/news-opinion/researchers-report-decoding-thoughts-from-fmri-data-70661)
 
