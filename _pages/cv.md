@@ -43,7 +43,7 @@ Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Au
 
 Chang, C. H., **Nastase, S. A.**, & Hasson, U. (2023). How a speaker herds the audience: multi-brain neural convergence over time during naturalistic storytelling. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.10.10.561803) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2023.pdf)
 
-Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (in press). Modeling naturalistic face processing in humans with deep convolutional neural networks. *Proceedings of the National Academy of Sciences*. [`DOI`](https://doi.org/10.1101/2021.11.17.469009) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2021.pdf)
+Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023). Modeling naturalistic face processing in humans with deep convolutional neural networks. *Proceedings of the National Academy of Sciences*, *120*(43), e2304085120. [`DOI`](https://doi.org/10.1073/pnas.2304085120) [`PDF`](https://snastase.github.io/files/Jiahui_PNAS_2023.pdf)
 
 Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (in press). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *Imaging Neuroscience*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
 
