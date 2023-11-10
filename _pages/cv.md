@@ -43,6 +43,8 @@ Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Au
 
 Chang, C. H., **Nastase, S. A.**, & Hasson, U. (2023). How a speaker herds the audience: multi-brain neural convergence over time during naturalistic storytelling. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.10.10.561803) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2023.pdf)
 
+Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (in press). Cross-movie prediction of individualized functional topography. *eLife*. [`DOI`](https://doi.org/10.1101/2022.11.21.517253) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2022.pdf)
+
 Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023). Modeling naturalistic face processing in humans with deep convolutional neural networks. *Proceedings of the National Academy of Sciences*, *120*(43), e2304085120. [`DOI`](https://doi.org/10.1073/pnas.2304085120) [`PDF`](https://snastase.github.io/files/Jiahui_PNAS_2023.pdf)
 
 Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (in press). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *Imaging Neuroscience*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
@@ -52,8 +54,6 @@ Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, 
 Zadbood, A., **Nastase, S. A.**, Chen, J., Norman, K. A., & Hasson, U. (2022). Neural representations of naturalistic events are updated as our understanding of the past changes. *eLife*, *11*, e79045. [`DOI`](https://doi.org/10.7554/eLife.79045) [`PDF`](https://snastase.github.io/files/Zadbood_eLife_2022.pdf)
 
 Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (2022). Information flow across the cortical timescales hierarchy during narrative construction. *Proceedings of the National Academy of Sciences*, *119*(51), e2209307119. [`DOI`](https://doi.org/10.1073/pnas.2209307119) [`PDF`](https://snastase.github.io/files/Chang_PNAS_2022.pdf)
-
-Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2022). Cross-movie prediction of individualized functional topography. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.11.21.517253) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2022.pdf)
 
 Goldstein, A.\*, Ham, E.\*, **Nastase, S. A.**, Zada, Z., Dabush, A., Aubrey, B., Schain, M., Gazula, H., Feder, A., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Devinsky, O., Flinker, A., Levy, O., & Hasson, U. Correspondence between the layered structure of deep language models and temporal structure of natural language processing in the human brain. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.07.11.499562) [`PDF`](https://snastase.github.io/files/GoldsteinHam_bioRxiv_2022.pdf)
 
