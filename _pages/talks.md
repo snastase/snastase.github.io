@@ -69,6 +69,18 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 ---
 ## Conference presentations
 
+Chen, Y., Zada, Z., Mentch, J., Rice, R., & **Nastase, S. A.** (2023, November). *Modeling the content of event representations along the cortical hierarchy during natural vision*. Poster presented at the annual meeting of the Society for Neuroscience, Washington, DC.
+
+Han, J., Gobbini, M. I., Haxby, J. V., & **Nastase, S. A.** (2023, November). *Representational geometries supporting social action understanding in natural vision*. Poster presented at the annual meeting of the Society for Neuroscience, Washington, DC.
+
+Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambew-Tshilobo, L., Tsoi, L., Burns, S., Hasson, U., & Tamir, D. (2023, November). *Mapping cortical language representation during real-time natural dialogues*. Poster presented at the annual meeting of the Society for Neuroscience, Washington, DC.
+
+Goldstein, A., Niekerken, L., Wang, H., Aubrey, B., Zada, Z., Sheffer, T., **Nastase, S. A.**, Singh, A., Gazula, H., Schain, M., Rao, A., Choe, G., Kim, C., Doyle, W., Friedman, D., Devore, S., Dugan, P., Hassidim, A., Brenner, M., Matias, Y., Devinsky, O., Flinker, A., & Hasson, U. (2023, November). *Unraveling the neural basis of everyday conversations through deep speech-to-text models*. Poster presented at the annual meeting of the Society for Neuroscience, Washington, DC.
+
+Zada, Z., Goldstein, A., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\* & **Nastase, S. A.**\* (2023, October). *Speaker-listener neural coupling in a shared linguistic embedding space during natural conversations*. Talk presented at the annual meeting of the Society for the Neurobiology of Language, Marseille, France.
+
+Gu, C., **Nastase, S. A.**, & Li, P. (2023, October). *From shared representations to individual variations in non-native speakers: shared activity patterns predict naturalistic reading performance*. Poster presented at the annual meeting of the Society for the Neurobiology of Language, Marseille, France.
+
 Zada, Z., Goldstein, A., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U\*, & **Nastase, S. A.**\*. (2023, July). *Speaker-listener neural alignment in linguistic embedding space during spontaneous conversations*. Poster presented at the annual meeting of the Organization for Human Brain Mapping, Montreal, Canada.
 
 Chen, Y., Zada, Z., Ashby, F. G., & **Nastase, S. A.** (2023, July). *Belief-dependent narrative features reconfigure cortical network dynamics*. Poster presented at the annual meeting of the Organization for Human Brain Mapping, Montreal, Canada.
