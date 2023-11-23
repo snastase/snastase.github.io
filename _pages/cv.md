@@ -43,7 +43,7 @@ Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Au
 
 Chang, C. H., **Nastase, S. A.**, & Hasson, U. (2023). How a speaker herds the audience: multi-brain neural convergence over time during naturalistic storytelling. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.10.10.561803) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2023.pdf)
 
-Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (in press). Cross-movie prediction of individualized functional topography. *eLife*. [`DOI`](https://doi.org/10.1101/2022.11.21.517253) [`PDF`](https://snastase.github.io/files/Jiahui_bioRxiv_2022.pdf)
+Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023). Cross-movie prediction of individualized functional topography. *eLife*, *12*, e86037. [`DOI`](https://doi.org/10.7554/eLife.86037) [`PDF`](https://snastase.github.io/files/Jiahui_eLife_2023.pdf)
 
 Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023). Modeling naturalistic face processing in humans with deep convolutional neural networks. *Proceedings of the National Academy of Sciences*, *120*(43), e2304085120. [`DOI`](https://doi.org/10.1073/pnas.2304085120) [`PDF`](https://snastase.github.io/files/Jiahui_PNAS_2023.pdf)
 
