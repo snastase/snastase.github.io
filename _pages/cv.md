@@ -47,7 +47,7 @@ Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (202
 
 Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023). Modeling naturalistic face processing in humans with deep convolutional neural networks. *Proceedings of the National Academy of Sciences*, *120*(43), e2304085120. [`DOI`](https://doi.org/10.1073/pnas.2304085120) [`PDF`](https://snastase.github.io/files/Jiahui_PNAS_2023.pdf)
 
-Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (in press). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *Imaging Neuroscience*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_bioRxiv_2022.pdf)
+Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (in press). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *Imaging Neuroscience*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_ImagingNeurosci_2023.pdf)
 
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022). Shared functional specialization in transformer-based language models and the human brain. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.06.08.495348) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2022.pdf)
 
