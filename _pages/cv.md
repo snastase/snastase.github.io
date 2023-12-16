@@ -43,11 +43,13 @@ Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Au
 
 Chang, C. H., **Nastase, S. A.**, & Hasson, U. (2023). How a speaker herds the audience: multi-brain neural convergence over time during naturalistic storytelling. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.10.10.561803) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2023.pdf)
 
+Xu, Q., Peng, Y., **Nastase, S. A.**, Chodorow, M., Wu, M., & Li, P. (2023). Does conceptual representation require embodiment? Insights from large language models. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2305.19103) [`PDF`](https://snastase.github.io/files/Xu_arXiv_2023.pdf)
+
 Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023). Cross-movie prediction of individualized functional topography. *eLife*, *12*, e86037. [`DOI`](https://doi.org/10.7554/eLife.86037) [`PDF`](https://snastase.github.io/files/Jiahui_eLife_2023.pdf)
 
 Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023). Modeling naturalistic face processing in humans with deep convolutional neural networks. *Proceedings of the National Academy of Sciences*, *120*(43), e2304085120. [`DOI`](https://doi.org/10.1073/pnas.2304085120) [`PDF`](https://snastase.github.io/files/Jiahui_PNAS_2023.pdf)
 
-Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (in press). The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains. *Imaging Neuroscience*. [`DOI`](https://doi.org/10.1101/2022.05.15.492022) [`PDF`](https://snastase.github.io/files/Feilong_ImagingNeurosci_2023.pdf)
+Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2023). The individualized neural tuning model: precise and generalizable cartography of functional architecture in individual brains. *Imaging Neuroscience*. [`DOI`](https://doi.org/10.1162/imag_a_00032) [`PDF`](https://snastase.github.io/files/Feilong_ImagingNeurosci_2023.pdf)
 
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022). Shared functional specialization in transformer-based language models and the human brain. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.06.08.495348) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2022.pdf)
 
@@ -99,7 +101,7 @@ Haxby, J. V., Gobbini, M. I., & **Nastase, S. A.** (2020). Naturalistic stimuli 
 
 **Nastase, S. A.**, Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared responses across subjects using intersubject correlation. *Social Cognitive and Affective Neuroscience*, *14*(6), 667–685. [`DOI`](https://doi.org/10.1093/scan/nsz037) [`PDF`](https://snastase.github.io/files/Nastase_SCAN_2019.pdf)
 
-Lin, X., Sur, I., **Nastase, S. A.**, Divakaran, A., Hasson, U., & Amer, M. R. (2019). Data-efficient mutual information neural estimator. *arXiv*, arXiv:1905.03319. [`DOI`](https://arxiv.org/abs/1905.03319) [`PDF`](https://snastase.github.io/files/Lin_arXiv_2019.pdf)
+Lin, X., Sur, I., **Nastase, S. A.**, Divakaran, A., Hasson, U., & Amer, M. R. (2019). Data-efficient mutual information neural estimator. *arXiv*, arXiv:1905.03319. [`DOI`](https://doi.org/10.48550/arXiv.1905.03319) [`PDF`](https://snastase.github.io/files/Lin_arXiv_2019.pdf)
 
 Feilong, M., **Nastase, S. A.**, Guntupalli, J. S., Haxby, J. V. (2018). Reliable individual difference in fine-grained cortical functional architecture. *NeuroImage*, *138*, 375–386. [`DOI`](https://doi.org/10.1016/j.neuroimage.2018.08.029) [`PDF`](https://snastase.github.io/files/Feilong_NIMG_2018.pdf)
 
