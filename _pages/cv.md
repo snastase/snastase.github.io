@@ -43,6 +43,8 @@ Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Au
 
 Chang, C. H., **Nastase, S. A.**, & Hasson, U. (2023). How a speaker herds the audience: multi-brain neural convergence over time during naturalistic storytelling. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.10.10.561803) [`PDF`](https://snastase.github.io/files/Chang_bioRxiv_2023.pdf)
 
+Kewenig, V., Lampinen, A., **Nastase, S. A.**, Edwards, C., D’Elascombe, Q., Richardt, A., Skipper, J. I., & Vigliocco, G. (2023). Multimodality and attention increase alignment in natural language prediction between humans and computational models. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2308.06035) [`PDF`](https://snastase.github.io/files/Kewenig_arXiv_2023.pdf)
+
 Xu, Q., Peng, Y., **Nastase, S. A.**, Chodorow, M., Wu, M., & Li, P. (2023). Does conceptual representation require embodiment? Insights from large language models. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2305.19103) [`PDF`](https://snastase.github.io/files/Xu_arXiv_2023.pdf)
 
 Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023). Cross-movie prediction of individualized functional topography. *eLife*, *12*, e86037. [`DOI`](https://doi.org/10.7554/eLife.86037) [`PDF`](https://snastase.github.io/files/Jiahui_eLife_2023.pdf)
@@ -300,6 +302,7 @@ Prof. Yaroslav O. Halchenko, Department of Psychological and Brain Sciences, Dar
 Prof. James V. Haxby, Department of Psychological and Brain Sciences, Dartmouth College<br>
 
 **Events**<br>
+Princeton University Responsible Conduct of Research Guide&mdash;contributor (2023)<br>
 Brainhack Princeton 2020, Princeton University&mdash;organizer (December, 2020)<br>
 Neuroimaging Analysis Methods (NIAM) seminar series, Princeton University&mdash;organizer (2019–present)<br>
 Brainhack Princeton 2019, Princeton University&mdash;organizer (November, 2019)<br>
