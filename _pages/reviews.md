@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### January 16, 2023 &mdash; Open review of Im and colleagues: [`review`](https://snastase.github.io/reviews/2024-01-16-im) [`PubPeer`](https://pubpeer.com/publications/1BD61089EE9FD93D40B17044D670F1#1)
+Im, E. J., Shirahatti, A., & Isik, L. (2023). Early neural development of social perception: evidence from voxel-wise encoding in young children and adults. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/aqryd)
+
+---
+
 ### December 28, 2023 &mdash; Open review of Lin & Kriegeskorte: [`review`](https://snastase.github.io/reviews/2023-12-28-lin) [`PubPeer`](https://pubpeer.com/publications/5219C8002D68D3943B1BF70FA78E78#1)
 Lin, B., & Kriegeskorte, N. (2023). The topology and geometry of neural representations. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2309.11028)
 
