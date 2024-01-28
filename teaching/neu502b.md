@@ -10,14 +10,14 @@ redirect from:
 
 ---
 # Neuroscience: From Molecules to Systems to Behavior
-Princeton University, NEU 502B, Spring 2023<br>
+Princeton University, NEU 502B, Spring 2024<br>
 **Time:** M/W 1:00–4:00 pm<br>
 **Location:** PNI A03<br>
 **Instructor:** Sam Nastase ([snastase@princeton.edu](snastase@princeton.edu))<br>
-**AI:** Gili Karni ([gili@princeton.edu](gili@princeton.edu))<br>
-**Syllabus:** [`Syllabus`](https://docs.google.com/document/d/1JRjKDrGgjRPv-Fzc43NnibtK02tIoXBdEJIqEYeyLN0/edit?usp=sharing)<br>
-**GitHub:** [`GitHub`](https://github.com/2023-NEU502b)<br>
-**Scratch:** [`Scratch`](https://docs.google.com/document/d/1M1lTMpmpQ3u8yGUHTuNSHkBbMV1smjHTDjb3NFVkLew/edit?usp=sharing)
+**AI:** Declan Campbell ([idcampbell@princeton.edu](idcampbell@princeton.edu))<br>
+**Syllabus:** [`Syllabus`](https://docs.google.com/document/d/16RAUEHIpq1X_S3GnfHbpQrVCqEunOiURF73KJy7xCv0/edit?usp=sharing)<br>
+**GitHub:** [`GitHub`](https://github.com/NEU502B/neu502b-2024)<br>
+**Scratch:** [`Scratch`](https://docs.google.com/document/d/1S9JRnUrNKRSGqgRRz1QnZIP2LKOsgmJvn4EjkYvs_ek/edit?usp=sharing)
 
 {% include base_path %}
 
@@ -30,33 +30,33 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 
 | Date | Topic | Slides/code | Homework | Optional reading |
 | --- | --- | --- | --- | --- |
-| M 1/30 | Introduction and computing tools; MR physics | [`Slides`](https://docs.google.com/presentation/d/1-z-MqUW27vwozxMoEQ8TCV6yht_TK1Bpu-JTmsORBoA/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-00/fmri-00-introduction.ipynb) | | [`Logothetis et al., 2001`](https://doi.org/10.1038/35084005) [`Buxton, 2013`](https://doi.org/10.1088/0034-4885/76/9/096601) |
-| W 2/1 | Biological basis of BOLD | [`Slides`](https://docs.google.com/presentation/d/16vDMc79pclwT4rrTZZYsL904xbFy9BovE_Jvr0b6mwk/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-01/fmri-01-visualization.ipynb) | | [`Ogawa et al., 1992`](https://doi.org/10.1073/pnas.89.13.5951) [`Bandettini et al., 1992`](https://doi.org/10.1002/mrm.1910250220) [`Kwong et al., 1992`](https://doi.org/10.1073/pnas.89.12.5675) |
-| M 2/6 | fMRI experimental design | [`Slides`](https://docs.google.com/presentation/d/1ezBwjRqTgxPCW60dQ6ZmTRDKlkIOWbuI_iO-FmB5e34/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-02/fmri-02-design.ipynb) | | [`Boynton et al., 1996`](https://doi.org/10.1523/JNEUROSCI.16-13-04207.1996) [`Dale & Buckner, 1997`](https://doi.org/10.1002/(SICI)1097-0193(1997)5:5%3C329::AID-HBM1%3E3.0.CO;2-5) |
-| W 2/8 | fMRI confounds and preprocessing | [`Slides`](https://docs.google.com/presentation/d/1UrtcxPKfP_MyUkQFCcBmRHH2H4RyRoS5FjGCgszGS2k/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-03/fmri-03-preprocessing.ipynb) | | [`Esteban et al., 2019`](https://doi.org/10.1038/s41592-018-0235-4) [`Power et al., 2012`](https://doi.org/10.1016/j.neuroimage.2011.10.018) |
-| M 2/13 | Subject-level modeling (GLM)<br>_Homework 1 (due 2/22)_ | [`Slides`](https://docs.google.com/presentation/d/1202a-QWDFQ6LSnYsVLykpJ2O16A4LwnNoAs9nAWzTTM/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-04/fmri-04-glm.ipynb) | [`Homework 1`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/homework/homework-1.ipynb) | [`Friston et al., 1994`](https://doi.org/10.1002/hbm.460020402) [`Lindquist, 2008`](https://doi.org/10.1214/09-STS282) |
-| W 2/15 | Group-level analysis and correction for multiple tests | [`Slides`](https://docs.google.com/presentation/d/1j8FfJ9nYZdqNgPujfvPQSJd49AsZaGGv1-xgGIm8ai0/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-05/fmri-05-group.ipynb) | | [`Nichols & Holmes, 2002`](https://doi.org/10.1002/hbm.1058) [`Eklund et al., 2016`](https://doi.org/10.1073/pnas.1602413113) |
-| M 2/20 | Best practices in reproducible neuroimaging | [`Slides`](https://docs.google.com/presentation/d/1twohz2ASBGAHiL6Gm40QCpmIqwwc-Sv3WxUccvQCv5Q/edit?usp=sharing) [`Code`](https://docs.google.com/document/d/1e2EOzLgoWBtczbPj2GmIhWViEHTuIXAyvK-1LsPb-D4/edit?usp=sharing) | | [`Carp, 2012`](https://doi.org/10.1016/j.neuroimage.2012.07.004) [`Nichols et al., 2017`](https://doi.org/10.1038/nn.4500) [`Poldrack et al., 2019`](https://doi.org/10.1038/nrn.2016.167) |
-| W 2/22 | Multivariate pattern analysis (MVPA) | [`Slides`](https://docs.google.com/presentation/d/1_BjJRgrtiWmdYMjb57YusPXah2q6aMb4lVp2m70tAzQ/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/comp-00/comp-00-mvpa.ipynb) | | [`Haxby et al., 2001`](https://doi.org/10.1126/science.1063736) [`Norman et al., 2006`](https://doi.org/10.1016/j.tics.2006.07.005) [`Tong & Pratte, 2012`](https://doi.org/10.1146/annurev-psych-120710-100412) |
-| M 2/27 | Representational similarity analysis<br>_Homework 2 (due 3/8)_ | [`Slides`](https://docs.google.com/presentation/d/1ks_cn-s1qK-nw6_LTxBo3M3azdcdealQG9ofoeMNI68/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/comp-01/comp-01-rsa.ipynb) | [`Homework 2`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/homework/homework-2.ipynb) | [`Edelman, 1998`](https://doi.org/10.1017/S0140525X98001253) [`Kriegeskorte et al., 2008`](https://doi.org/10.3389/neuro.06.004.2008) |
-| W 3/1 | Searchlight analysis | [`Slides`](https://docs.google.com/presentation/d/1Fh0gdj_b65p3KcVviJyup-ewajzV4oPSLhyncln9LEM/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/comp-02/comp-02-searchlight.ipynb) | | [`Kriegeskorte et al., 2006`](https://doi.org/10.1073/pnas.0600244103) |
-| M 3/6 | Voxelwise encoding models | [`Slides`](https://docs.google.com/presentation/d/1hb0XHSGrb2RvTLw_59TLU-RQwZFzZ6DarjSl9NJQKfw/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/comp-03/comp-03-encoding.ipynb) | | [`Mitchell et al., 2008`](https://doi.org/10.1126/science.1152876) [`Naselaris et al., 2011`](https://doi.org/10.1016/j.neuroimage.2010.07.073) [`Huth et al., 2016`](https://doi.org/10.1038/nature17637) |
-| W 3/8 | Naturalistic design, intersubject correlation, hyperalignment | [`Slides`](https://docs.google.com/presentation/d/1r-nq0oTEOyE9Psg4v9kazrTv-aKV-lPfsT0nhRsjuNw/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/tree/master/comp-04) | | [`Hasson et al., 2004`](https://doi.org/10.1126/science.1089506) [`Nastase et al., 2019`](https://doi.org/10.1093/scan/nsz037) [`Haxby et al., 2020`](https://doi.org/10.7554/eLife.56601) |
-| M 3/13 | _No class (spring recess)_ | | | |
-| W 3/15 | _No class (spring recess)_ | | | |
-| M 3/20 | Structural and functional connectivity | [`Slides`](https://docs.google.com/presentation/d/1MUfBWoiBDZmzbANsiiTKaP7xCkhK-IGVZsy9K7pDP9o/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-06/fmri-06-fc.ipynb) | | [`Bullmore & Sporns`](https://doi.org/10.1038/nrn2575) [`Biswal et al., 2010`](https://doi.org/10.1073/pnas.0911855107) [`Yeo et al., 2011`](https://doi.org/10.1152/jn.00338.2011) |
-| W 3/22 | EEG preprocessing; project proposal presentations | [`Slides`](https://docs.google.com/presentation/d/1wZOcnEH2wveMO--kIeRwv0Z05kQaLfNHjG7xDbSaDP0/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/elec-00/elec-00-preprocessing.ipynb) | | [`Buzsáki et al., 2012`](https://doi.org/10.1038/nrn3241) [`Gramfort et al., 2013`](https://doi.org/10.3389/fnins.2013.00267) |
-| M 3/27 | ~~Experimental design in PsychoPy~~<br>_Class canceled_ | | | [`Peirce et al., 2019`](https://doi.org/10.3758/s13428-018-01193-y) |
-| W 3/29 | EEG facility demonstration | | | |
-| M 4/3 | fMRI data collection | | | |
-| W 4/5 | fMRI data collection | | | |
-| M 4/10 | ~~EEG ERP analysis~~<br>fMRI data collection | | | [`Hillyard & Kutas, 1983`](https://doi.org/10.1146/annurev.ps.34.020183.000341) [`Kutas & Federmeier, 2010`](https://doi.org/10.1146/annurev.psych.093008.131123) |
-| W 4/12  | EEG ERP and time-frequency analysis | [`Slides`](https://docs.google.com/presentation/d/1GnkggLjvGLTJxtiF6ZOW435Lbtq9pyq8n9QDvuHhJb0/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/tree/master/elec-01) | | [`Fries, 2015`](https://doi.org/10.1016/j.neuron.2015.09.034) [`Cohen, 2017`](https://doi.org/10.1016/j.tins.2017.02.004) |
-| M 4/17 | ECoG preprocessing and analysis | [`Slides`](https://docs.google.com/presentation/d/1EUHqt7_IOJU1rLtHWF1ggq9gneOXE1aOr4eUZ0jsjH4/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/elec-02/elec-02-ecog.ipynb) | | [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner, 2018`](https://doi.org/10.1038/s41593-018-0108-2) |
-| W 4/19 | Parallel distributed processing | [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/anns-00/anns-00-pdp.ipynb) | | [`Rumelhart et al., 1986`](https://doi.org/10.1038/323533a0) [`McClelland et al., 2010`](https://doi.org/10.1016/j.tics.2010.06.002) |
-| M 4/24 | Progress report presentations | | | |
-| W 4/26 | Deep learning | [`Slides`](https://docs.google.com/presentation/d/1vi3fxUd2BEdvjk8aeby_r9E2XTl9w9UzukAl0n6jTUM/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/anns-01/anns-01-deep.ipynb) | | [`Richards et al., 2019`](https://doi.org/10.1038/s41593-019-0520-2) [`Hasson et al., 2020`](https://doi.org/10.1016/j.neuron.2019.12.002) |
-| M 5/8 | _No class (final written report due)_
+| M 1/29 | Introduction and computing tools; MR physics | [`Slides`](https://docs.google.com/presentation/d/1-z-MqUW27vwozxMoEQ8TCV6yht_TK1Bpu-JTmsORBoA/edit?usp=sharing) [`Code`](https://github.com/2023-NEU502B/neu502b-lab/blob/master/fmri-00/fmri-00-introduction.ipynb) | | [`Logothetis et al., 2001`](https://doi.org/10.1038/35084005) [`Buxton, 2013`](https://doi.org/10.1088/0034-4885/76/9/096601) |
+| W 1/31 | Biological basis of BOLD | | | [`Ogawa et al., 1992`](https://doi.org/10.1073/pnas.89.13.5951) [`Bandettini et al., 1992`](https://doi.org/10.1002/mrm.1910250220) [`Kwong et al., 1992`](https://doi.org/10.1073/pnas.89.12.5675) |
+| M 2/5 | fMRI experimental design and confounds<br>_Homework 1 (due 2/14)_ | | | [`Boynton et al., 1996`](https://doi.org/10.1523/JNEUROSCI.16-13-04207.1996) [`Dale & Buckner, 1997`](https://doi.org/10.1002/%28SICI%291097-0193%281997%295:5%3C329::AID-HBM1%3E3.0.CO;2-5) [`Power et al., 2012`](https://doi.org/10.1016/j.neuroimage.2011.10.018) |
+| W 2/5 | fMRI preprocessing and subject-level modeling (GLM) | | | [`Friston et al., 1994`](https://doi.org/10.1002/hbm.460020402) [`Lindquist, 2008`](https://doi.org/10.1214/09-STS282) [`Esteban et al., 2019`](https://doi.org/10.1038/s41592-018-0235-4) |
+| M 2/12 | Group-level analysis and correction for multiple tests | | | [`Nichols & Holmes, 2002`](https://doi.org/10.1002/hbm.1058) [`Eklund et al., 2016`](https://doi.org/10.1073/pnas.1602413113) |
+| W 2/14 | Best practices in reproducible neuroimaging<br>_Homework 2 (due 2/26)_ | | | [`Carp, 2012`](https://doi.org/10.1016/j.neuroimage.2012.07.004) [`Nichols et al., 2017`](https://doi.org/10.1038/nn.4500) [`Poldrack et al., 2019`](https://doi.org/10.1038/nrn.2016.167) |
+| M 2/19 | Multivariate pattern analysis (MVPA) | | | [`Haxby et al., 2001`](https://doi.org/10.1126/science.1063736) [`Norman et al., 2006`](https://doi.org/10.1016/j.tics.2006.07.005) [`Tong & Pratte, 2012`](https://doi.org/10.1146/annurev-psych-120710-100412) |
+| W 2/21 | Representational similarity analysis (RSA) and searchlights | | | [`Edelman, 1998`](https://doi.org/10.1017/S0140525X98001253) [`Kriegeskorte et al., 2006`](https://doi.org/10.1073/pnas.0600244103) [`Kriegeskorte et al., 2008`](https://doi.org/10.3389/neuro.06.004.2008) |
+| M 2/26 | Voxelwise encoding models<br>_Homework 3 (due 3/6)_ | | | [`Mitchell et al., 2008`](https://doi.org/10.1126/science.1152876) [`Naselaris et al., 2011`](https://doi.org/10.1016/j.neuroimage.2010.07.073) [`Huth et al., 2016`](https://doi.org/10.1038/nature17637) |
+| W 2/28 | _Class canceled_ | | | |
+| M 3/4 | Naturalistic design, intersubject correlation, hyperalignment | | | [`Hasson et al., 2004`](https://doi.org/10.1126/science.1089506) [`Nastase et al., 2019`](https://doi.org/10.1093/scan/nsz037) [`Nastase et al., 2020`](https://doi.org/10.1016/j.neuroimage.2020.117254) [`Haxby et al., 2020`](https://doi.org/10.7554/eLife.56601) |
+| W 3/6 | Structural and functional connectivity | | | [`Bullmore & Sporns, 2009`](https://doi.org/10.1038/nrn2575) [`Biswal et al., 2010`](https://doi.org/10.1073/pnas.0911855107) [`Yeo et al., 2011`](https://doi.org/10.1152/jn.00338.2011) |
+| M 3/11 | _No class (spring recess)_ | | | |
+| W 3/13 | _No class (spring recess)_ | | | |
+| W 3/18 | EEG preprocessing; project proposal presentations<br>_Homework 4 (due 3/27)_ | | | [`Buzsáki et al., 2012`](https://doi.org/10.1038/nrn3241) [`Gramfort et al., 2013`](https://doi.org/10.3389/fnins.2013.00267) |
+| M 3/20 | EEG facility demonstration | | | |
+| M 3/25 | Experimental design in PsychoPy | | | [`Peirce et al., 2019`](https://doi.org/10.3758/s13428-018-01193-y) |
+| W 3/27 | fMRI data collection<br>_Homework 5 (due 4/8)_ | | | |
+| M 4/1 | fMRI data collection | | | |
+| W 4/3 | fMRI data collection | | | |
+| M 4/8 | EEG ERP and time-frequency analysis<br>_Homework 6 (due 4/17)_ | | | [`Hillyard & Kutas, 1983`](https://doi.org/10.1146/annurev.ps.34.020183.000341) [`Kutas & Federmeier, 2010`](https://doi.org/10.1146/annurev.psych.093008.131123) [`Fries, 2015`](https://doi.org/10.1016/j.neuron.2015.09.034) [`Cohen, 2017`](https://doi.org/10.1016/j.tins.2017.02.004) |
+| W 4/10  | ECoG preprocessing and analysis | | | [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner, 2018`](https://doi.org/10.1038/s41593-018-0108-2) |
+| M 4/15 | Parallel distributed processing | | | [`Rumelhart et al., 1986`](https://doi.org/10.1038/323533a0) [`McClelland et al., 2010`](https://doi.org/10.1016/j.tics.2010.06.002) [`Richards et al., 2019`](https://doi.org/10.1038/s41593-019-0520-2) [`Hasson et al., 2020`](https://doi.org/10.1016/j.neuron.2019.12.002) |
+| W 4/17 | Progress report presentations | | | |
+| M 4/22 | Deep learning: vision | | | [`Kriegeskorte et al., 2015`](https://doi.org/10.1146/annurev-vision-082114-035447) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) [`Lindsay, 2021`](https://doi.org/10.1162/jocn_a_01544) |
+| W 4/24 | Deep learning: language | | | [`Manning et al., 2020`](https://doi.org/10.1073/pnas.1907367117) [`Schrimpf et al., 2021`](https://doi.org/10.1073/pnas.2105646118) [`Goldstein et al., 2022`](https://doi.org/10.1038/s41593-022-01026-4) |
+| M 5/6 | _No class (final written report due)_
 
 ---
 
@@ -65,6 +65,8 @@ The content of this course is inspired by related courses designed by Leigh Nyst
 ---
 
 ### Supplementary reading
+
+Rokem, A., & Yarkoni, T. (2024). _Data Science for Neuroimaging: An Introduction_. Princeton University Press.
 
 Huettel, S. A., Song, A. W., & McCarthy, G. (2014). _Functional Magnetic Resonance Imaging_ (3rd Ed.). Sinauer Associates. [`link`](https://global.oup.com/academic/product/functional-magnetic-resonance-imaging-9780878936274)
 
@@ -77,3 +79,4 @@ Luck, S. J. (2014). _An Introduction to the Event-Related Potential Technique_ (
 McClelland, J. L. (2015). _Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises_ (2nd ed.). MIT Press. [`PDF`](https://web.stanford.edu/group/pdplab/pdphandbook/handbook.pdf)
 
 Duvernoy, H. M. (1999). _The Human Brain: Surface, Three-Dimensional Sectional Anatomy with MRI, and Blood Supply_ (2nd ed.). Springer. [`DOI`](https://doi.org/10.1007/978-3-7091-6792-2)
+
