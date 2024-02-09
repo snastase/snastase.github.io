@@ -12,7 +12,9 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
-**Nastase, S. A.** (2024, January). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of California, San Diego. [`slides`](https://docs.google.com/presentation/d/1dZtDY02wcmND7YyrV5r8A7NLe-EWObYy5g-ya4OgcrI/edit?usp=sharing)
+**Nastase, S. A.** (2024, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Brain and Cognitive Sciences at the University of Rochester, Rochester, NY. [`slides`](https://docs.google.com/presentation/d/1juDaDGu29dW8JKiOcBr-dD6nmAKftIlNUQHKWj-k5HY/edit?usp=sharing)
+
+**Nastase, S. A.** (2024, January). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of California, San Diego, CA. [`slides`](https://docs.google.com/presentation/d/1dZtDY02wcmND7YyrV5r8A7NLe-EWObYy5g-ya4OgcrI/edit?usp=sharing)
 
 **Nastase, S. A.** (2023, August). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at Fudan University, Shanghai, China. [`slides`](https://docs.google.com/presentation/d/113I2mAsN-97aI3kinxxEIgDbUHqYIsj7EyMx_Yn_5Zc/edit?usp=sharing)
 
