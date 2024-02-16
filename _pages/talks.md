@@ -73,6 +73,8 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 ---
 ## Conference presentations
 
+**Nastase, S. A.** (2024, February). *Learning a shared linguistic space for transmitting our thoughts to others.* Talk presented at the annual meeting of the American Association for the Advancement of Science (AAAS), Denver, CO.
+
 Chen, Y., Zada, Z., Mentch, J., Rice, R., & **Nastase, S. A.** (2023, November). *Modeling the content of event representations along the cortical hierarchy during natural vision*. Poster presented at the annual meeting of the Society for Neuroscience, Washington, DC.
 
 Han, J., Gobbini, M. I., Haxby, J. V., & **Nastase, S. A.** (2023, November). *Representational geometries supporting social action understanding in natural vision*. Poster presented at the annual meeting of the Society for Neuroscience, Washington, DC.
