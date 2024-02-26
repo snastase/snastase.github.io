@@ -13,7 +13,7 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
-### January 16, 2023 &mdash; Open review of Im and colleagues: [`review`](https://snastase.github.io/reviews/2024-01-16-im) [`PubPeer`](https://pubpeer.com/publications/1BD61089EE9FD93D40B17044D670F1#1)
+### January 16, 2024 &mdash; Open review of Im and colleagues: [`review`](https://snastase.github.io/reviews/2024-01-16-im) [`PubPeer`](https://pubpeer.com/publications/1BD61089EE9FD93D40B17044D670F1#1)
 Im, E. J., Shirahatti, A., & Isik, L. (2023). Early neural development of social perception: evidence from voxel-wise encoding in young children and adults. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/aqryd)
 
 ---
