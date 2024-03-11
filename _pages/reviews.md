@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### March 11, 2024 &mdash; Open review of Zhang and colleagues: [`review`](https://snastase.github.io/reviews/2024-03-11-zhang) [`PubPeer`](https://pubpeer.com/publications/E492F97C8A2F42F29FFEE9ED7B3041#1)
+Zhang, Y., Fan, L., Jiang, T., Dagher, A., & Bellec, P. (2024). Connectome-constrained neural decoding reveals a representational hierarchy from perception to cognition to action. *bioRxiv*. https://doi.org/10.1101/2022.09.30.510241
+
+---
+
 ### January 16, 2024 &mdash; Open review of Im and colleagues: [`review`](https://snastase.github.io/reviews/2024-01-16-im) [`PubPeer`](https://pubpeer.com/publications/1BD61089EE9FD93D40B17044D670F1#1)
 Im, E. J., Shirahatti, A., & Isik, L. (2023). Early neural development of social perception: evidence from voxel-wise encoding in young children and adults. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/aqryd)
 
