@@ -37,6 +37,8 @@ redirect_from:
 ## Publications
 ---
 
+Gu, C., Peng, Y., **Nastase, S. A.**, Mayer, R. E., & Li, P. (2024). Onscreen presence of instructors in video lectures affects learners’ neural synchrony and visual attention during multimedia learning. *Proceedings of the National Academy of Sciences*, *121*(12), e2309054121. [`DOI`](https://doi.org/10.1073/pnas.2309054121) [`PDF`](https://snastase.github.io/files/Gu_PNAS_2024.pdf)
+
 Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (2023). A shared linguistic space for transmitting our thoughts from brain to brain in natural conversations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.06.27.546708) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2023.pdf)
 
 Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Aubrey, B.\*, Sheffer, T.\*, Gazula, H., Schain, M., Singh, A., Rao, A., Choe, G., Kim, C., Doyle, W., Friedman, D., Devore, S., Dugan, P., Hassidim, A., Brenner, M., Matias, Y., Devinsky, O., Flinker, A., & Hasson, U. (2023). Deep speech-to-text models capture the neural basis of spontaneous speech in everyday conversations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.06.26.546557) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2023.pdf) 
