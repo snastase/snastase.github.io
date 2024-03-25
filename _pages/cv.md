@@ -59,6 +59,8 @@ Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby
 
 Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2023). The individualized neural tuning model: precise and generalizable cartography of functional architecture in individual brains. *Imaging Neuroscience*. [`DOI`](https://doi.org/10.1162/imag_a_00032) [`PDF`](https://snastase.github.io/files/Feilong_ImagingNeurosci_2023.pdf)
 
+Xie, E., Liu, M., Li, K., **Nastase, S. A.**, Gao, X., & Li, X. (2023). The single-and dual-brain mechanisms underlying the adviser’s confidence expression strategy switching during influence management. *NeuroImage*, *270*, 119957. [`DOI`](https://doi.org/10.1016/j.neuroimage.2023.119957) [`PDF`](https://snastase.github.io/files/Xie_NIMG_2023.pdf)
+
 Zadbood, A., **Nastase, S. A.**, Chen, J., Norman, K. A., & Hasson, U. (2022). Neural representations of naturalistic events are updated as our understanding of the past changes. *eLife*, *11*, e79045. [`DOI`](https://doi.org/10.7554/eLife.79045) [`PDF`](https://snastase.github.io/files/Zadbood_eLife_2022.pdf)
 
 Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (2022). Information flow across the cortical timescales hierarchy during narrative construction. *Proceedings of the National Academy of Sciences*, *119*(51), e2209307119. [`DOI`](https://doi.org/10.1073/pnas.2209307119) [`PDF`](https://snastase.github.io/files/Chang_PNAS_2022.pdf)
