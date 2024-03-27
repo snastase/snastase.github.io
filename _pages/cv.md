@@ -244,13 +244,22 @@ Harvard University (instructor: George Alvarez)
 **Teaching fellow&mdash;Hormones, Brain & Behavior**  Summer, 2011<br>
 Harvard University (instructor: Marc Tetel)
 
-## Awards
+## Funding and awards
 ---
+**Neurobiology of Language Workshop Travel Award**  May, 2024<br>
+National Science Foundation, MIT Press
+
+**NIH R01MH112566** (PI: Uri Hasson)  2019–2022<br>
+Brain-to-brain dynamical coupling: a new framework for the communication of social knowledge
+
 **ReproNim/INCF Fellow**  2019<br>
 ReproNim: A Center for Reproducible Neuroimaging Computation<br>
 International Neuroinformatics Coordinating Facility (INCF)
 
-**Merit Abstract Award**  May, 2015<br>
+**DARPA FA8750-18-C-0213** (PI: Mohamed Amer)  2018<br>
+Brain-to-brain coupling using temporal representation learning
+
+**OHBM Merit Abstract Award**  May, 2015<br>
 Organization for Human Brain Mapping
 
 **Neukom Travel Grant**  May, 2015<br>
@@ -259,13 +268,13 @@ The William H. Neukom Institute for Computational Science
 **Marie A. Center 1982 Graduate Award for Excellence in Teaching**  June, 2014<br>
 Department of Psychological & Brain Sciences, Dartmouth College
 
-**Student Council Conference Travel Grant**  April, 2014<br>
+**Student Council Conference Travel Grant**  April, 2014<br>
 Graduate Student Council, Dartmouth College
 
-**Graduate Travel Award**  April, 2014<br>
+**Graduate Travel Award**  April, 2014<br>
 Dartmouth Graduate Studies, Dartmouth College
 
-**Trainee Abstract Travel Award**  March, 2014<br>
+**OHBM Trainee Abstract Travel Award**  March, 2014<br>
 Organization for Human Brain Mapping
 
 **Merit Award**  December, 2012<br>
@@ -273,7 +282,7 @@ Psychology & Cognitive Sciences Department, University of Trento
 
 ## Community
 ---
-**Peer review:** *Acta Psychologica*, *Behavior Research Methods*, *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *Current Biology*, *European Journal of Neuroscience*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Imaging Neuroscience*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Human Behaviour*, *Nature Reviews Neuroscience*, *NeuroImage*, *NeuroImage: Reports*, *Neuron*, *Neuropsychologia*, *Neuroscience & Biobehavioral Reviews*, *Organization for Human Brain Mapping*, *PLOS One*, *PLOS Computational Biology*, *Princeton University Press*, *Proceedings of the National Academy of Sciences*, *Psychological Review*, *Psychophysiology*, *Science*, *Science Advances*, *Science Bulletin*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Cognitive Sciences*, *Trends in Neurosciences*
+**Peer review:** *Acta Psychologica*, *Behavior Research Methods*, *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *Current Biology*, *European Journal of Neuroscience*, *Frontiers in Neuroscience*, *Human Brain Mapping*, *Imaging Neuroscience*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Human Behaviour*, *Nature Machine Intelligence*, *Nature Reviews Neuroscience*, *NeuroImage*, *NeuroImage: Reports*, *Neuron*, *Neuropsychologia*, *Neuroscience & Biobehavioral Reviews*, *Organization for Human Brain Mapping*, *PLOS One*, *PLOS Computational Biology*, *Princeton University Press*, *Proceedings of the National Academy of Sciences*, *Psychological Review*, *Psychophysiology*, *Science*, *Science Advances*, *Science Bulletin*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Cognitive Sciences*, *Trends in Neurosciences*
 
 **Action editor:** *Cognitive Science Society*, *Proceedings of the National Academy of Sciences*
 
