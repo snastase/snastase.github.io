@@ -249,7 +249,10 @@ Harvard University (instructor: Marc Tetel)
 **Neurobiology of Language Workshop Travel Award**  May, 2024<br>
 National Science Foundation, MIT Press
 
-**NIH R01MH112566** (PI: Uri Hasson)  2019–2022<br>
+**NIH DP1-HD091948** (PI: Uri Hasson)  2023–2024<br>
+Speaker-listener coupling: a novel neural approach for assessing communication
+
+**NIH R01-MH112566** (PI: Uri Hasson)  2019–2022<br>
 Brain-to-brain dynamical coupling: a new framework for the communication of social knowledge
 
 **ReproNim/INCF Fellow**  2019<br>
@@ -319,6 +322,7 @@ Prof. Yaroslav O. Halchenko, Department of Psychological and Brain Sciences, Dar
 Prof. James V. Haxby, Department of Psychological and Brain Sciences, Dartmouth College<br>
 
 **Events**<br>
+NSF Cognitive Neuroscience Program Review Panel&mdash;panelist (May, 2024)<br>
 Princeton University Responsible Conduct of Research Guide&mdash;contributor (2023)<br>
 Brainhack Princeton 2020, Princeton University&mdash;organizer (December, 2020)<br>
 Neuroimaging Analysis Methods (NIAM) seminar series, Princeton University&mdash;organizer (2019–present)<br>
