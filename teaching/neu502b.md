@@ -47,12 +47,12 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 | M 3/18 | EEG preprocessing<br>_Homework 4 (due 3/27)_ | [`Slides`](https://docs.google.com/presentation/d/1wZOcnEH2wveMO--kIeRwv0Z05kQaLfNHjG7xDbSaDP0/edit?usp=sharing) [`Code`](https://github.com/NEU502B/neu502b-2024/tree/master/elec-00) | [`Homework 4`](https://github.com/NEU502B/neu502b-2024/blob/master/homework/homework-4.ipynb) | [`Buzsáki et al., 2012`](https://doi.org/10.1038/nrn3241) [`Gramfort et al., 2013`](https://doi.org/10.3389/fnins.2013.00267) |
 | W 3/20 | EEG ERP and time-frequency analysis;<br>Project proposal presentations | [`Slides`](https://docs.google.com/presentation/d/1GnkggLjvGLTJxtiF6ZOW435Lbtq9pyq8n9QDvuHhJb0/edit?usp=sharing) [`Code`](https://github.com/NEU502B/neu502b-2024/tree/master/elec-01) | | [`Hillyard & Kutas, 1983`](https://doi.org/10.1146/annurev.ps.34.020183.000341) [`Kutas & Federmeier, 2010`](https://doi.org/10.1146/annurev.psych.093008.131123) [`Fries, 2015`](https://doi.org/10.1016/j.neuron.2015.09.034) [`Cohen, 2017`](https://doi.org/10.1016/j.tins.2017.02.004) |
 | M 3/25 | Experimental design in PsychoPy | | | [`Peirce et al., 2019`](https://doi.org/10.3758/s13428-018-01193-y) |
-| W 3/27 | fMRI data collection<br>_Homework 5 (due 4/8)_ | | | |
+| W 3/27 | fMRI data collection | | | |
 | M 4/1 | fMRI data collection | | | |
-| W 4/3 | fMRI data collection | | | |
-| M 4/8 | EEG facility demonstration<br>_Homework 6 (due 4/17)_ | | | |
+| W 4/3 | fMRI data collection<br>_Homework 5 (due 4/15)_ | | [`Homework 5`](https://github.com/NEU502B/neu502b-2024/blob/master/homework/homework-5.ipynb) | |
+| M 4/8 | EEG facility demonstration | | | |
 | W 4/10  | ECoG preprocessing and analysis | | | [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner, 2018`](https://doi.org/10.1038/s41593-018-0108-2) |
-| M 4/15 | Parallel distributed processing | | | [`Rumelhart et al., 1986`](https://doi.org/10.1038/323533a0) [`McClelland et al., 2010`](https://doi.org/10.1016/j.tics.2010.06.002) [`Richards et al., 2019`](https://doi.org/10.1038/s41593-019-0520-2) [`Hasson et al., 2020`](https://doi.org/10.1016/j.neuron.2019.12.002) |
+| M 4/15 | Parallel distributed processing<br>_Homework 6 (due 4/24)_ | | | [`Rumelhart et al., 1986`](https://doi.org/10.1038/323533a0) [`McClelland et al., 2010`](https://doi.org/10.1016/j.tics.2010.06.002) [`Richards et al., 2019`](https://doi.org/10.1038/s41593-019-0520-2) [`Hasson et al., 2020`](https://doi.org/10.1016/j.neuron.2019.12.002) |
 | W 4/17 | Progress report presentations | | | |
 | M 4/22 | Deep learning: vision | | | [`Kriegeskorte et al., 2015`](https://doi.org/10.1146/annurev-vision-082114-035447) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) [`Lindsay, 2021`](https://doi.org/10.1162/jocn_a_01544) |
 | W 4/24 | Deep learning: language | | | [`Manning et al., 2020`](https://doi.org/10.1073/pnas.1907367117) [`Schrimpf et al., 2021`](https://doi.org/10.1073/pnas.2105646118) [`Goldstein et al., 2022`](https://doi.org/10.1038/s41593-022-01026-4) |
