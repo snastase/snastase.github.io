@@ -51,7 +51,7 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 | M 4/1 | fMRI data collection | | | |
 | W 4/3 | fMRI data collection<br>_Homework 5 (due 4/15)_ | | [`Homework 5`](https://github.com/NEU502B/neu502b-2024/blob/master/homework/homework-5.ipynb) | |
 | M 4/8 | EEG facility demonstration | | | |
-| W 4/10  | ECoG preprocessing and analysis | | | [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner, 2018`](https://doi.org/10.1038/s41593-018-0108-2) |
+| W 4/10  | ECoG preprocessing and analysis | [`Slides`](https://docs.google.com/presentation/d/1EUHqt7_IOJU1rLtHWF1ggq9gneOXE1aOr4eUZ0jsjH4/edit?usp=sharing) [`Code`](https://github.com/NEU502B/neu502b-2024/tree/master/elec-02) | | [`Mukamel et al., 2012`](https://doi.org/10.1146/annurev-psych-120709-145401) [`Parvizi & Kastner, 2018`](https://doi.org/10.1038/s41593-018-0108-2) |
 | M 4/15 | Parallel distributed processing<br>_Homework 6 (due 4/24)_ | | | [`Rumelhart et al., 1986`](https://doi.org/10.1038/323533a0) [`McClelland et al., 2010`](https://doi.org/10.1016/j.tics.2010.06.002) [`Richards et al., 2019`](https://doi.org/10.1038/s41593-019-0520-2) [`Hasson et al., 2020`](https://doi.org/10.1016/j.neuron.2019.12.002) |
 | W 4/17 | Progress report presentations | | | |
 | M 4/22 | Deep learning: vision | | | [`Kriegeskorte et al., 2015`](https://doi.org/10.1146/annurev-vision-082114-035447) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) [`Lindsay, 2021`](https://doi.org/10.1162/jocn_a_01544) |
@@ -66,7 +66,7 @@ The content of this course is inspired by related courses designed by Leigh Nyst
 
 ### Supplementary reading
 
-Rokem, A., & Yarkoni, T. (2024). _Data Science for Neuroimaging: An Introduction_. Princeton University Press.
+Rokem, A., & Yarkoni, T. (2024). _Data Science for Neuroimaging: An Introduction_. Princeton University Press. [`link`](https://press.princeton.edu/books/hardcover/9780691222738/data-science-for-neuroimaging)
 
 Huettel, S. A., Song, A. W., & McCarthy, G. (2014). _Functional Magnetic Resonance Imaging_ (3rd Ed.). Sinauer Associates. [`link`](https://global.oup.com/academic/product/functional-magnetic-resonance-imaging-9780878936274)
 
