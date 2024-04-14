@@ -9,12 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-When solicited for peer review by academic journals&mdash;*if the authors have posted a public preprint*&mdash;I try to post an open review (here, and on [PubPeer](https://pubpeer.com/)). I send the same review to the journal (usually signed) at the same time as posting the public review.
+When solicited for peer review by academic journals&mdash;*if the authors have posted a public preprint*&mdash;I try to post an open review. I send the same review to the journal (usually signed) at the same time as posting the public review.
+
+---
+
+### April 13, 2024 &mdash; Open review of Borovska & de Haas: [`review`](https://snastase.github.io/reviews/2024-04-13-borovska) [`PubPeer`](https://pubpeer.com/publications/51EA563A01A3C716B24A15D4EA0E5E#1)
+Borovska, P., & de Haas, B. Individual gaze shapes diverging representations in inferior temporal cortex. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/ju5cd)
 
 ---
 
 ### March 11, 2024 &mdash; Open review of Zhang and colleagues: [`review`](https://snastase.github.io/reviews/2024-03-11-zhang) [`PubPeer`](https://pubpeer.com/publications/E492F97C8A2F42F29FFEE9ED7B3041#1)
-Zhang, Y., Fan, L., Jiang, T., Dagher, A., & Bellec, P. (2024). Connectome-constrained neural decoding reveals a representational hierarchy from perception to cognition to action. *bioRxiv*. https://doi.org/10.1101/2022.09.30.510241
+Zhang, Y., Fan, L., Jiang, T., Dagher, A., & Bellec, P. (2024). Connectome-constrained neural decoding reveals a representational hierarchy from perception to cognition to action. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.09.30.510241)
 
 ---
 
