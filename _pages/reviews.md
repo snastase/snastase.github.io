@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### April 22, 2024 &mdash; Open review of Mischler, Li and colleagues: [`review`](https://snastase.github.io/reviews/2024-04-22-mischler) [`PubPeer`](https://pubpeer.com/publications/C3D9060B4AB13B49DF70348042D191#1)
+Mischler, G., Li, Y. A., Bickel, S., Mehta, A. D., & Mesgarani, N. (2024). Contextual feature extraction hierarchies converge in large language models and the brain. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2401.17671)
+
+---
+
 ### April 13, 2024 &mdash; Open review of Borovska & de Haas: [`review`](https://snastase.github.io/reviews/2024-04-13-borovska) [`PubPeer`](https://pubpeer.com/publications/51EA563A01A3C716B24A15D4EA0E5E#1)
 Borovska, P., & de Haas, B. Individual gaze shapes diverging representations in inferior temporal cortex. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/ju5cd)
 
