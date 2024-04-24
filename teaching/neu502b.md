@@ -55,7 +55,7 @@ This lab course covers the methodological landscape of human cognitive neuroscie
 | M 4/15 | Parallel distributed processing<br>~~_Homework 6 (due 4/24)_~~ | [`Code`](https://github.com/NEU502B/neu502b-2024/tree/master/anns-00) | | [`Rumelhart et al., 1986`](https://doi.org/10.1038/323533a0) [`McClelland et al., 2010`](https://doi.org/10.1016/j.tics.2010.06.002) [`Richards et al., 2019`](https://doi.org/10.1038/s41593-019-0520-2) [`Hasson et al., 2020`](https://doi.org/10.1016/j.neuron.2019.12.002) |
 | W 4/17 | Deep learning: vision | [`Slides`](https://docs.google.com/presentation/d/1vi3fxUd2BEdvjk8aeby_r9E2XTl9w9UzukAl0n6jTUM/edit?usp=sharing) [`Code`](https://github.com/NEU502B/neu502b-2024/tree/master/anns-01) | | [`Kriegeskorte et al., 2015`](https://doi.org/10.1146/annurev-vision-082114-035447) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) [`Lindsay, 2021`](https://doi.org/10.1162/jocn_a_01544) |
 | M 4/22 | Progress report presentations | | | |
-| W 4/24 | Deep learning: language | | | [`Manning et al., 2020`](https://doi.org/10.1073/pnas.1907367117) [`Schrimpf et al., 2021`](https://doi.org/10.1073/pnas.2105646118) [`Goldstein et al., 2022`](https://doi.org/10.1038/s41593-022-01026-4) |
+| W 4/24 | Deep learning: language | [`Slides`](https://docs.google.com/presentation/d/1O5KXNJCuJyg15fNNZ02jeFrGI5qrO-FXKj2nD0e8mXw/edit?usp=sharing) [`Code`](https://github.com/snastase/encling-tutorial) | | [`Manning et al., 2020`](https://doi.org/10.1073/pnas.1907367117) [`Schrimpf et al., 2021`](https://doi.org/10.1073/pnas.2105646118) [`Goldstein et al., 2022`](https://doi.org/10.1038/s41593-022-01026-4) |
 | M 5/6 | _No class (final written report due)_
 
 ---
