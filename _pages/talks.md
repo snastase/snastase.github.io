@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.**, & Zada, Z. (2024, May). *Language as a vehicle for interactively navigating a shared meaning space*. Invited talk and panel at the Neurobiology of Language Workshop at the Massachusetts Institute of Technology, Cambridge, MA. [`slides`](https://docs.google.com/presentation/d/1gyfpX-j06zu0PEoZih7cF-KCs2eT5MorC8G7HtaMqe0/edit?usp=sharing)
+
 **Nastase, S. A.** (2024, March). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the University of Trento, Italy. [`slides`](https://docs.google.com/presentation/d/1SMpSFN_6iJ0fnRnP_7wtmyeATl2L7JS6lvOjGjmATIs/edit?usp=sharing)
 
 **Nastase, S. A.** (2024, February). *Emergent brain-to-brain coupling and coordinated behavior in an artificial gameplay ecosystem*. Invited talk at the Google DeepMind NeuroLab Workshop, London, UK.
