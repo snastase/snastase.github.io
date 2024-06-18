@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### June 19, 2024 &mdash; Open review of He & Toyoizumi: [`review`](https://snastase.github.io/reviews/2024-06-19-he) [`PubPeer`](https://pubpeer.com/publications/87AA5DE17D83FA1A676CCE6B927CA0#1)
+He, Z., & Toyoizumi, T. (2023). Causal graph in language model rediscovers cortical hierarchy in human narrative processing. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2311.10431)
+
+---
+
 ### April 22, 2024 &mdash; Open review of Mischler, Li and colleagues: [`review`](https://snastase.github.io/reviews/2024-04-22-mischler) [`PubPeer`](https://pubpeer.com/publications/C3D9060B4AB13B49DF70348042D191#1)
 Mischler, G., Li, Y. A., Bickel, S., Mehta, A. D., & Mesgarani, N. (2024). Contextual feature extraction hierarchies converge in large language models and the brain. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2401.17671)
 

@@ -11,7 +11,7 @@ You can find my full list of publications on my CV or on my Google Scholar profi
 
 ---
 
-Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (2023). A shared linguistic space for transmitting our thoughts from brain to brain in natural conversations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.06.27.546708) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2023.pdf)
+Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (in press). A shared linguistic space for transmitting our thoughts from brain to brain in natural conversations. *Neuron*. [`DOI`](https://doi.org/10.1101/2023.06.27.546708) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2023.pdf)
 
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (in press). Shared functional specialization in transformer-based language models and the human brain. *Nature Communications*. [`DOI`](https://doi.org/10.1101/2022.06.08.495348) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2022.pdf)
 
