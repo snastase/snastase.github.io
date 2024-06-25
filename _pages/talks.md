@@ -79,6 +79,14 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 ---
 ## Conference presentations
 
+Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Hasson, U., & Tamir, D. (2024, June). *Mapping individual and shared cortical language representations during real-time natural dialogues*. Talk presented at the annual meeting of the Organization for Human Brain Mapping, Seoul, South Korea. [`slides`](https://docs.google.com/presentation/d/1QUXdEm0KVF-AsfEgq0TQBoK6uXqsKkG05N6y4NRDIv8/edit?usp=sharing)
+
+**Nastase, S. A.** & Hasson, U. (2024, June). *Confound regression models for intersubject correlation analysis with naturalistic stimuli*. Poster presented at the annual meeting of the Organization for Human Brain Mapping, Seoul, South Korea. [`poster`](https://docs.google.com/presentation/d/1V2ZUN3QgV_whc2ZrVCxQ0LT-dbZ0IcjRLKz04R-UrrU/edit?usp=sharing)
+
+Samara, A., **Nastase, S. A.**, & Vanderwal, T. (2024, June). *Clocks or clouds: movie functional connectivity as a combination of intrinsic and evoked components*. Poster presented at the annual meeting of the Organization for Human Brain Mapping, Seoul, South Korea.
+
+Goldstein, A., Wang, H., Niekerken, L., Zada, Z., Aubrey, B., Sheffer, T., **Nastase, S. A.**, Schain, M., Gazula, H., Singh, A., Rao, A., Choe, G., Kim, C., Doyle, W., Friedman, D., Devore, S., Dugan, P., Hassidim, A., Brenner, M., Matias, Y., Devinsky, O., Flinker, A., & Hasson, U. (2024, June). *Deep speech-to-text models capture the neural basis of spontaneous speech in everyday conversations*. Poster presented at the annual meeting of the Organization for Human Brain Mapping, Seoul, South Korea.
+
 **Nastase, S. A.** (2024, April). *Learning a shared linguistic space for transmitting our thoughts to others in natural conversations*. Talk presented at the annual meeting of the Social & Affective Neuroscience Society, Toronto, Canada.
 
 **Nastase, S. A.** (2024, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Talk presented at the annual meeting of the American Association for the Advancement of Science (AAAS), Denver, CO.
