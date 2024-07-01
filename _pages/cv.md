@@ -39,7 +39,7 @@ redirect_from:
 
 Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (in press). A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations. *Neuron*. [`DOI`](https://doi.org/10.1101/2023.06.27.546708) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2023.pdf)
 
-Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (in press). Shared functional specialization in transformer-based language models and the human brain. *Nature Communications*. [`DOI`](https://doi.org/10.1101/2022.06.08.495348) [`PDF`](https://snastase.github.io/files/Kumar_bioRxiv_2022.pdf)
+Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2024). Shared functional specialization in transformer-based language models and the human brain. *Nature Communications*, *15*, 5523. [`DOI`](https://doi.org/10.1038/s41467-024-49173-5) [`PDF`](https://snastase.github.io/files/Kumar_NatCommun_2024.pdf)
 
 Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & **Nastase, S. A.**\* (2024). Aligning brains into a shared space improves their alignment to large language models. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2024.06.04.597448) [`PDF`](https://snastase.github.io/files/Bhattacharjee_bioRxiv_2024.pdf)
 
