@@ -37,7 +37,7 @@ redirect_from:
 ## Publications
 ---
 
-Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (in press). A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations. *Neuron*. [`DOI`](https://doi.org/10.1101/2023.06.27.546708) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2023.pdf)
+Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (2024). A shared linguistic space for transmitting our thoughts from brain to brain in natural conversations. *Neuron*, *112*. [`DOI`](https://doi.org/10.1016/j.neuron.2024.06.025) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2024.pdf)
 
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2024). Shared functional specialization in transformer-based language models and the human brain. *Nature Communications*, *15*, 5523. [`DOI`](https://doi.org/10.1038/s41467-024-49173-5) [`PDF`](https://snastase.github.io/files/Kumar_NatCommun_2024.pdf)
 
@@ -296,6 +296,7 @@ Psychology & Cognitive Sciences Department, University of Trento
 **Society membership:** Organization for Human Brain Mapping (OHBM), Society for Neuroscience (SfN), Society for the Neurobiology of Language (SNL), Computational Cognitive Neuroscience (CCN), Vision Sciences Society (VSS), Cognitive Neuroscience Society (CNS)
 
 **Mentorship**<br>
+Ahmad Samara, graduate student, Vanderwal Lab, University of British Columbia<br>
 Yibei Chen, graduate student, Media Neuroscience Lab, UC Santa Barbara<br>
 Isaac Christian, graduate student, Graziano Lab, Princeton University<br>
 Yingying Peng, graduate student, Li Lab, Hong Kong Polytechnic University<br>
