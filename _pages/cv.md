@@ -357,6 +357,8 @@ fMRI Brown Bag symposium series, Dartmouth College&mdash;organizer (2013–2017)
 [Twitter](https://twitter.com/samnastase)
 [Bluesky](https://bsky.app/profile/samnastase.bsky.social)
 
+[*The Naked Scientists*&mdash;Brain waves sync up when two people talk](https://www.thenakedscientists.com/articles/interviews/brain-waves-sync-when-two-people-talk)
+
 [*Nature Human Behaviour*&mdash;Hierarchical organization of language predictions in the brain](https://doi.org/10.1038/s41562-023-01534-8)
 
 [*The Scientist*&mdash;Researchers report decoding thoughts from fMRI data](https://www.the-scientist.com/news-opinion/researchers-report-decoding-thoughts-from-fmri-data-70661)
