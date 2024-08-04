@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### August 4, 2024 &mdash; Open review of Raccah and colleagues: [`review`](https://snastase.github.io/reviews/2024-08-04-raccah) [`PubPeer`](https://pubpeer.com/publications/E754084934F1ABD0EFF12FC958C26B#1)
+Raccah, O., Chen, P., Gureckis, T. M., Poeppel, D., & Vo, V. (2024). The Naturalistic Free Recall Dataset: four stories, hundreds of participants, and high-fidelity transcriptions. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/rxwqh)
+
+---
+
 ### June 19, 2024 &mdash; Open review of He & Toyoizumi: [`review`](https://snastase.github.io/reviews/2024-06-19-he) [`PubPeer`](https://pubpeer.com/publications/87AA5DE17D83FA1A676CCE6B927CA0#1)
 He, Z., & Toyoizumi, T. (2023). Causal graph in language model rediscovers cortical hierarchy in human narrative processing. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2311.10431)
 
