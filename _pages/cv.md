@@ -138,6 +138,16 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 ## Invited talks
 ---
 
+**Nastase, S. A.**, & Zada, Z. (2024, May). *Language as a vehicle for interactively navigating a shared meaning space*. Invited talk and panel at the Neurobiology of Language Workshop at the Massachusetts Institute of Technology, Cambridge, MA.
+
+**Nastase, S. A.** (2024, March). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the University of Trento, Italy.
+
+**Nastase, S. A.** (2024, February). *Emergent brain-to-brain coupling and coordinated behavior in an artificial gameplay ecosystem*. Invited talk at the Google DeepMind NeuroLab Workshop, London, UK.
+
+**Nastase, S. A.** (2024, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Brain and Cognitive Sciences at the University of Rochester, Rochester, NY.
+
+**Nastase, S. A.** (2024, January). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of California, San Diego, CA.
+
 **Nastase, S. A.** (2023, August). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at Fudan University, Shanghai, China.
 
 **Nastase, S. A.**, Zaid Zada, & Hasson, U. (2023, August). *Predicting brain activity from word embeddings during natural language comprehension*. Invited workshop at Jiangsu Normal University, Xuzhou, China.
@@ -148,9 +158,9 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 
 **Nastase, S. A.** (2023, March). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Pennsylvania, Philadelphia, PA.
 
-**Nastase, S. A.** (2022, December). *Putting peer review in the public record*. Invited talk at the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB) "MRI Together" workshop. [`slides`](https://docs.google.com/presentation/d/14zpN4A3_j33ClAZzwqQ0Rs3RCZ_i_eEpi7ScBgsv3_k/edit?usp=sharing)
+**Nastase, S. A.** (2022, December). *Putting peer review in the public record*. Invited talk at the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB) "MRI Together" workshop.
 
-**Nastase, S. A.**. (2022, October). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited colloquium for the Cognitive Science program at Indiana University, Bloomington, IN. [`DOI`](https://doi.org/10.5281/zenodo.7259318) [`slides`](https://docs.google.com/presentation/d/1eMoYVt5ZNbP7yPmhqdW6Xwhx_W_Pg9B7L1FiZ1TwIrA/edit?usp=sharing)
+**Nastase, S. A.**. (2022, October). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited colloquium for the Cognitive Science program at Indiana University, Bloomington, IN.
 
 Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., & Vazire, S. (2022, June). *Open Science Room Panel: Open Publishing*. Invited panel discussion at the annual meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
 
@@ -162,35 +172,35 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 
 **Nastase, S. A.** (2021, August). *Ecological perspectives on the neural machinery for communication and cooperation*. Invited talk at University of Western Ontario, London, ON, Canada.
 
-**Nastase, S. A.** (2021, April). *Developing a community resource for natural language neuroimaging*. Invited talk at University of Michigan, Ann Arbor, MI. [`DOI`](https://doi.org/10.5281/zenodo.4677495) [`slides`](https://docs.google.com/presentation/d/1D7uikh4FsqeQrcrIgZsVABoESa5o2JHnHZEBVdBRxEY/edit?usp=sharing)
+**Nastase, S. A.** (2021, April). *Developing a community resource for natural language neuroimaging*. Invited talk at University of Michigan, Ann Arbor, MI.
 
-**Nastase, S. A.** (2021, March). *The neuroscience of storytelling*. Invited talk at the Council on Science and Technology "Voices of STEM" virtual workshop at Princeton University, Princeton, NJ. [`slides`](https://docs.google.com/presentation/d/1Qv_CEZI4rGlXMhbI5VhIAyNdH_jwyk8rDEbdiMBoYtA/edit?usp=sharing)
+**Nastase, S. A.** (2021, March). *The neuroscience of storytelling*. Invited talk at the Council on Science and Technology "Voices of STEM" virtual workshop at Princeton University, Princeton, NJ.
 
-**Nastase, S. A.** (2021, March). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at the Courtois Project on Neuronal Modelling (CNeuromod), Montreal, QC, Canada. [`DOI`](https://doi.org/10.5281/zenodo.4579746) [`slides`](https://docs.google.com/presentation/d/18vM4ITkQlsv8CkcN-s2KTd2cOL46JWzQBi0dmBotak4/edit?usp=sharing)
+**Nastase, S. A.** (2021, March). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at the Courtois Project on Neuronal Modelling (CNeuromod), Montreal, QC, Canada.
 
-**Nastase, S. A.** (2021, February). *Developing community resources for reproducible neuroimaging*. Invited talk at the Princeton University Library "Research Inside-Out: Shifting the conversation to research-as-process" panel discussion at Princeton University, Princeton, NJ. [`DOI`](https://doi.org/10.5281/zenodo.4563048) [`slides`](https://docs.google.com/presentation/d/1XUP8lquCzlj25zlDSFy_Pw8YQCdbHqfaBL0mMEN2W4g/edit?usp=sharing)
+**Nastase, S. A.** (2021, February). *Developing community resources for reproducible neuroimaging*. Invited talk at the Princeton University Library "Research Inside-Out: Shifting the conversation to research-as-process" panel discussion at Princeton University, Princeton, NJ.
 
-**Nastase, S. A.** (2020, December). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at Johns Hopkins University, Baltimore, MD. [`DOI`](https://doi.org/10.5281/zenodo.4302630) [`slides`](https://docs.google.com/presentation/d/1cI-ck2EEz1FfSop5KjehLJcWehuJkYe2m6Uw25CQoMI/edit?usp=sharing)
+**Nastase, S. A.** (2020, December). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at Johns Hopkins University, Baltimore, MD.
 
-**Nastase, S. A.** (2020, November). *Rethinking the primacy of experimental control in cognitive neuroscience*. Invited talk at the Donders Session on "Narratives for Neuroscience" at the Donders Institute for Brain, Cognition and Behaviour, Nijmegen, the Netherlands. [`DOI`](https://doi.org/10.5281/zenodo.4292514) [`slides`](https://docs.google.com/presentation/d/1MOzVKbhmPrAPxN0T5NcbJRF8DQvgt-QI_NIX1XHqMko/edit?usp=sharing) [`Crowdcast`](https://www.crowdcast.io/e/geztctmd)
+**Nastase, S. A.** (2020, November). *Rethinking the primacy of experimental control in cognitive neuroscience*. Invited talk at the Donders Session on "Narratives for Neuroscience" at the Donders Institute for Brain, Cognition and Behaviour, Nijmegen, the Netherlands.
 
-**Nastase, S. A.** (2020, November). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at the Nathan Kline Institute for Psychiatric Research, Orangeburg, NY. [`DOI`](https://doi.org/10.5281/zenodo.4200147) [`slides`](https://docs.google.com/presentation/d/1d0_16R5mdvlP1SMLfdNrz0IccYHvZrxXemCp6U_8aYc/edit?usp=sharing)
+**Nastase, S. A.** (2020, November). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at the Nathan Kline Institute for Psychiatric Research, Orangeburg, NY.
 
-**Nastase, S. A.** (2020, June). *The benefits of BIDS*. Invited talk for the TrainTrack educational series at OHBM Brainhack 2020. [`DOI`](https://doi.org/10.5281/zenodo.3895409) [`slides`](https://docs.google.com/presentation/d/11MeS72TRLTiEwX4EbjWj84IFCTAmMJIawZF3VCLWLjA/edit?usp=sharing) [`OSF`](https://osf.io/ycrjq/) [`YouTube`](https://youtu.be/K9hVAr5fvJg)
+**Nastase, S. A.** (2020, June). *The benefits of BIDS*. Invited talk for the TrainTrack educational series at OHBM Brainhack 2020. 
 
-**Nastase, S. A.** (2020, May). *Direct fit: an ecological perspective on biological and artificial neural networks*. Invited talk at the Neural-AI Reading Group at Mila, Montreal, Canada. [`DOI`](https://doi.org/10.5281/zenodo.4016403) [`slides`](https://docs.google.com/presentation/d/1BD8s90D9QidmJkKEk1MIAApQmoC7VwKvqdDXpQKWlYM/edit?usp=sharing)
+**Nastase, S. A.** (2020, May). *Direct fit: an ecological perspective on biological and artificial neural networks*. Invited talk at the Neural-AI Reading Group at Mila, Montreal, Canada. 
 
-**Nastase, S. A.** (2020, February). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at Columbia University, New York, NY. [`DOI`](https://doi.org/10.5281/zenodo.4016407) [`slides`](https://docs.google.com/presentation/d/1pERQXZhCb5obRee6K2-J9JOGSM1dDlOICsw574f-SG8/edit?usp=sharing)
+**Nastase, S. A.** (2020, February). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at Columbia University, New York, NY. 
 
-**Nastase, S. A.** (2019, August). *Estimating a shared response space across heterogeneous naturalistic story-listening data sets.* Invited talk at the Center for Cognitive Neuroscience workshop on "Semantic processing and semantic knowledge" at Dartmouth College, Hanover, NH. [`DOI`](https://doi.org/10.5281/zenodo.4016413) [`slides`](https://docs.google.com/presentation/d/1h8cS6aELS7uCFuOP6kWjUsEvJQRQPCExSD1QI7ssQ0I/edit?usp=sharing) [`YouTube`](https://youtu.be/YSLbu63_M70)
+**Nastase, S. A.** (2019, August). *Estimating a shared response space across heterogeneous naturalistic story-listening data sets.* Invited talk at the Center for Cognitive Neuroscience workshop on "Semantic processing and semantic knowledge" at Dartmouth College, Hanover, NH.
 
 **Nastase, S. A.** (2019, January). *Expanding on intersubject correlation analysis*. Tutorial workshop for "MURI: A computational cognitive neuroscience approach to understanding event representation and episodic memory", Princeton, NJ.
 
 **Nastase, S. A.** (2017, November). *Aligning fine-grained functional topographies across individuals*. Invited talk at Brainhack DC, Washington, DC.
 
-**Nastase, S. A.** (2017, August) *Primacy of observed action representation during natural vision*. Invited talk at the Center for Cognitive Neuroscience workshop on "Action understanding: from kinematics to mind" at Dartmouth College, Hanover, NH. [`DOI`](https://doi.org/10.5281/zenodo.4016415) [`YouTube`](https://youtu.be/fI3u1TwMFPM)
+**Nastase, S. A.** (2017, August) *Primacy of observed action representation during natural vision*. Invited talk at the Center for Cognitive Neuroscience workshop on "Action understanding: from kinematics to mind" at Dartmouth College, Hanover, NH. 
 
-**Nastase, S. A.** & Haxby, J. V. (2016, November). *Constructing a representational atlas for human cerebral cortex*. Invited talk at the Neurocog 2016 workshop at Katholieke Universiteit Leuven, Leuven, Belgium. [`DOI`](https://doi.org/10.5281/zenodo.4016445)
+**Nastase, S. A.** & Haxby, J. V. (2016, November). *Constructing a representational atlas for human cerebral cortex*. Invited talk at the Neurocog 2016 workshop at Katholieke Universiteit Leuven, Leuven, Belgium.
 
 **Nastase, S. A.** (2015, June). *Multivariate pattern analysis for neuroscience*. Invited talk at the Dartmouth-Hitchcock Medical Center, Lebanon, NH.
 
