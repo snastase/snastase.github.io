@@ -10,7 +10,7 @@ redirect from:
 
 ---
 # Methods in Cognitive Neuroscience
-NEU 502B &emdash; Neuroscience: From Molecules to Systems to Behavior
+NEU 502B &mdash; Neuroscience: From Molecules to Systems to Behavior<br>
 Princeton University, Spring 2024<br>
 **Time:** M/W 1:00–4:00 pm<br>
 **Location:** PNI A03<br>
