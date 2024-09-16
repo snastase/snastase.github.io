@@ -9,8 +9,9 @@ redirect from:
   - /courses/neu_502b
 
 ---
-# Neuroscience: From Molecules to Systems to Behavior
-Princeton University, NEU 502B, Spring 2024<br>
+# Methods in Cognitive Neuroscience
+NEU 502B &emdash; Neuroscience: From Molecules to Systems to Behavior
+Princeton University, Spring 2024<br>
 **Time:** M/W 1:00–4:00 pm<br>
 **Location:** PNI A03<br>
 **Instructor:** Sam Nastase ([snastase@princeton.edu](snastase@princeton.edu))<br>
