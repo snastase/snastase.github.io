@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### September 18, 2024 &mdash; Open review of Reddan and colleagues: [`review`](https://snastase.github.io/reviews/2024-09-18-reddan) [`PubPeer`](https://pubpeer.com/publications/B18EE289E2E889B3060ED09318ED5E#1)
+Reddan, M., Ong, D., Wager, T., Mattek, S., Kahhale, I., & Zaki, J. (2023). Neural signatures of emotional inference and experience align during social consensus. *Research Square*. [`DOI`](https://doi.org/10.21203/rs.3.rs-3487248/v1)
+
+---
+
 ### August 4, 2024 &mdash; Open review of Raccah and colleagues: [`review`](https://snastase.github.io/reviews/2024-08-04-raccah) [`PubPeer`](https://pubpeer.com/publications/E754084934F1ABD0EFF12FC958C26B#1)
 Raccah, O., Chen, P., Gureckis, T. M., Poeppel, D., & Vo, V. (2024). The Naturalistic Free Recall Dataset: four stories, hundreds of participants, and high-fidelity transcriptions. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/rxwqh)
 
