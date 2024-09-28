@@ -10,5 +10,13 @@ redirect_from:
 
 I'm currently a research scholar and lecturer working with [Uri Hasson](https://www.hassonlab.com/) and [Ken Norman](https://compmem.princeton.edu/) at the Princeton Neuroscience Institute. I completed my PhD with [Jim Haxby](http://haxbylab.dartmouth.edu/) at Dartmouth College.
 
-In my research, we use machine learning models to better understand the neural machinery supporting human communication and cooperation in real-world contexts. I'm currently working on three related topics: (_a_) using large language models to capture how information is transmitted from brain to brain via spoken narratives, (_b_) using deep reinforcement learning to study emergent cooperative behavior and "brain-to-brain" coupling in fully synthetic ecosystems, and (_c_) developing resources for a more community-driven cognitive neuroscience.
+The core questions driving my research are "What is shared between individual brains?" and "How do we share our thoughts with one another?"—using language and other coordinated actions. My core expertise is in developing naturalistic experimental paradigms—using fMRI and ECoG—to better answer these questions in real-world contexts. My current work uses deep learning to better understand the neural computations driving social cognition.
 
+### Recent work
+
+![Alt text]("https://live.staticflickr.com/1566/24481316546_3ae93a3436_3k.jpg"?raw=true&s=100 "The Desctruction of the Old Order")  
+<sub><sup>José Clemente Orozco, "La destruccion del Viejo Orden" (1926) ([flickr](https://flic.kr/p/Dik9uA))</sup></sub>
+
+For an example of our most recent work, check out this paper by Zaid Zada recently published in *Neuron*: [`link`](https://doi.org/10.1016/j.neuron.2024.06.025).  We use embeddings from a large language model to track the flow of linguistic information from one brain to another in face-to-face conversations between pairs of ECoG patients.
+
+Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (2024). A shared linguistic space for transmitting our thoughts from brain to brain in natural conversations. *Neuron*, *112*(18), 3211–3222. [`DOI`](https://doi.org/10.1016/j.neuron.2024.06.025) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2024.pdf)
