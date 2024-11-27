@@ -41,6 +41,8 @@ Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L
 
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2024). Shared functional specialization in transformer-based language models and the human brain. *Nature Communications*, *15*, 5523. [`DOI`](https://doi.org/10.1038/s41467-024-49173-5) [`PDF`](https://snastase.github.io/files/Kumar_NatCommun_2024.pdf)
 
+Han, J., Chauhan, V., Philip, R., Taylor, M. K., Jung, H., Halchenko, Y. O., Gobbini, M. I., Haxby, J. V.\*, & **Nastase, S. A.**\* (2024). Behaviorally-relevant features of observed actions dominate cortical representational geometry in natural vision. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2024.11.26.624178) [`PDF`](https://snastase.github.io/files/Han_bioRxiv_2024.pdf)
+
 Chang, C. H. C., **Nastase, S. A.**, & Hasson, U. (2024). How a speaker herds the audience: multi-brain neural convergence over time during naturalistic storytelling. *Social Cognitive and Affective Neuroscience*, *19*(1), nsae059. [`DOI`](https://doi.org/10.1093/scan/nsae059) [`PDF`](https://snastase.github.io/files/Chang_SCAN_2024.pdf)
 
 Goldstein, A., Wang, H., Sheffer, T., Schain, M., Zada, Z., Niekerken, L., Aubrey, B., **Nastase, S. A.**, Gazula, H., Casto, C., Doyle, W. K., Friedman, D., Devore, S., Dugan, P., Hassidim, A., Brenner, M., Matias, Y., Devinsky, O., Flinker, A., & Hasson, U. (2024). Information-making processes in the speaker’s brain drive human conversations forward. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2024.08.27.609946) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2024.pdf)
