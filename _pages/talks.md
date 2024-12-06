@@ -81,6 +81,8 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 ---
 ## Conference presentations
 
+**Nastase, S. A.** (2024, December). *Emergent brain-to-brain coupling and cooperative behavior in an artificial gameplay ecosystem*. Talk presented at the ARTificial Intelligence in Collectives (ARTIC) Workshop at Princeton University, Princeton, NJ. [`slides`](https://docs.google.com/presentation/d/1_I6ASIBVmehJSm-vZZhhRVwlWm4ggqU08TqygxjzGV4/edit?usp=sharing)
+
 Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Hasson, U., & Tamir, D. (2024, June). *Mapping individual and shared cortical language representations during real-time natural dialogues*. Talk presented at the annual meeting of the Organization for Human Brain Mapping, Seoul, South Korea. [`slides`](https://docs.google.com/presentation/d/1QUXdEm0KVF-AsfEgq0TQBoK6uXqsKkG05N6y4NRDIv8/edit?usp=sharing)
 
 **Nastase, S. A.** & Hasson, U. (2024, June). *Confound regression models for intersubject correlation analysis with naturalistic stimuli*. Poster presented at the annual meeting of the Organization for Human Brain Mapping, Seoul, South Korea. [`poster`](https://docs.google.com/presentation/d/1V2ZUN3QgV_whc2ZrVCxQ0LT-dbZ0IcjRLKz04R-UrrU/edit?usp=sharing)
