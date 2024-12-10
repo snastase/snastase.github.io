@@ -144,6 +144,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 ## Invited talks
 ---
 
+**Nastase, S. A.** (2024, December). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Southern California, Los Angeles, CA.
+
 **Nastase, S. A.** (2024, December). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Maryland, College Park, MD.
 
 **Nastase, S. A.**, & Zada, Z. (2024, May). *Language as a vehicle for interactively navigating a shared meaning space*. Invited talk and panel at the Neurobiology of Language Workshop at the Massachusetts Institute of Technology, Cambridge, MA.
