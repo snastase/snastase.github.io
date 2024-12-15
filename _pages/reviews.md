@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### December 15, 2024 &mdash; Open review of Ke and colleagues: [`review`](https://snastase.github.io/reviews/2024-12-15-ke) [`PubPeer`](https://pubpeer.com/publications/58F255614CF5C4DB7F0A92C3E4152F#1)
+Ke, J., Song, H., Bai, Z., Rosenberg, M. D., & Leong, Y. C. (2023). Predicting emotional arousal during naturalistic movie-watching from whole-brain dynamic connectivity across individuals and movie stimuli. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.11.14.566767)
+
+---
+
 ### September 18, 2024 &mdash; Open review of Reddan and colleagues: [`review`](https://snastase.github.io/reviews/2024-09-18-reddan) [`PubPeer`](https://pubpeer.com/publications/B18EE289E2E889B3060ED09318ED5E#1)
 Reddan, M., Ong, D., Wager, T., Mattek, S., Kahhale, I., & Zaki, J. (2023). Neural signatures of emotional inference and experience align during social consensus. *Research Square*. [`DOI`](https://doi.org/10.21203/rs.3.rs-3487248/v1)
 
