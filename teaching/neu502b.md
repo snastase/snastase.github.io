@@ -15,7 +15,7 @@ Princeton University, Spring 2025<br>
 **Time:** Tu/W 2:00–5:00 pm<br>
 **Location:** PNI A03<br>
 **Instructor:** Sam Nastase ([snastase@princeton.edu](snastase@princeton.edu))<br>
-**AIs:** Kirsten Ziman ([kz0108@princeton.edu](kz0108@princeton.edu)), Ariadne Letrou ([ariadne@princeton.edu](ariadne@princeton.edu)<br>
+**AIs:** Kirsten Ziman ([kz0108@princeton.edu](kz0108@princeton.edu)), Ariadne Letrou ([ariadne@princeton.edu](ariadne@princeton.edu))<br>
 **Syllabus:** [`Syllabus`](https://docs.google.com/document/d/1l-3O_eeZp_msTFY76TnRhKqZ37gdc1U860aRqd41988/edit?usp=sharing)<br>
 **GitHub:** [`GitHub`](https://github.com/NEU502B/neu502b-2025)<br>
 **Scratch:** [`Scratch`](https://docs.google.com/document/d/1q_i1X60_9cj2wMTuAFuuP6raWhcAJ_cwRK4qkR0IZAk/edit?usp=sharing)
