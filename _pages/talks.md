@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.** (2025, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Clinical Cognitive Computational Neuroscience Center with the York State Psychiatric Institute and Columbia University, New York, NY. [`slides`](https://docs.google.com/presentation/d/133tx10FZ-tGAbWcvb8haCKPQspN-8uOsAzWSp9-u_68/edit?usp=sharing)
+
 **Nastase, S. A.** (2025, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at Rutgers University, Newark, NJ. [`slides`](https://docs.google.com/presentation/d/1-weQhFKLhFQksKjMKnUDPuoFIACEGC8XFLOIOFZYexc/edit?usp=sharing)
 
 **Nastase, S. A.** (2025, January). *Models that "do" and models that don't*. Invited talk at the Department of Brain and Cognitive Sciences, University of Rochester, Rochester, NY. [`slides`](https://docs.google.com/presentation/d/1gLoJwbxaQWSirJxOesugmr0iY832L3firRS0-f6kfhE/edit?usp=sharing)

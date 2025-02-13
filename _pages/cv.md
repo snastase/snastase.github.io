@@ -144,6 +144,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 ## Invited talks
 ---
 
+**Nastase, S. A.** (2025, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Clinical Cognitive Computational Neuroscience Center with the York State Psychiatric Institute and Columbia University, New York, NY.
+
 **Nastase, S. A.** (2025, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at Rutgers University, Newark, NJ.
 
 **Nastase, S. A.** (2025, January). *Models that "do" and models that don't*. Invited talk at the Department of Brain and Cognitive Sciences, University of Rochester, Rochester, NY.
