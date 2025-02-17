@@ -37,6 +37,12 @@ redirect_from:
 ## Publications
 ---
 
+Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2025). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.02.14.638276) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025a.pdf)
+
+Zada, Z., **Nastase, S. A.**, Aubrey, B., Jalon, I., Michelmann, S., Wang, H., Hasenfratz, L., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Goldstein, A., & Hasson, U. (2025). The “Podcast” ECoG dataset for modeling neural activity during natural language comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.02.14.638352) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025b.pdf)
+
+Jung, H., Han, X., Feilong, M., Han, J., Shokeen, D., Van Uden, C., Hanson, I., Connolly, A. C., Haxby, J. V., & **Nastase, S. A.** (2025). Action features dominate cortical representation during natural vision. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.01.30.635800) [`PDF`](https://snastase.github.io/files/Jung_bioRxiv_2025.pdf)
+
 Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (2024). A shared linguistic space for transmitting our thoughts from brain to brain in natural conversations. *Neuron*, *112*(18), 3211–3222. [`DOI`](https://doi.org/10.1016/j.neuron.2024.06.025) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2024.pdf)
 
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2024). Shared functional specialization in transformer-based language models and the human brain. *Nature Communications*, *15*, 5523. [`DOI`](https://doi.org/10.1038/s41467-024-49173-5) [`PDF`](https://snastase.github.io/files/Kumar_NatCommun_2024.pdf)
