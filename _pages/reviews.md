@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### February 23, 2025 &mdash; Open review of Gruskin and colleagues: [`review`](https://snastase.github.io/reviews/2025-02-23-gruskin) [`PubPeer`](https://pubpeer.com/publications/660EC33BD20F27FC1857C3E6724456#1)
+Gruskin, D. C., Vieira, D. J., Lee, J. K., & Patel, G. H. (2024). Heritability of movie-evoked brain activity and connectivity. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2024.09.16.612469)
+
+---
+
 ### December 15, 2024 &mdash; Open review of Ke and colleagues: [`review`](https://snastase.github.io/reviews/2024-12-15-ke) [`PubPeer`](https://pubpeer.com/publications/58F255614CF5C4DB7F0A92C3E4152F#1)
 Ke, J., Song, H., Bai, Z., Rosenberg, M. D., & Leong, Y. C. (2023). Predicting emotional arousal during naturalistic movie-watching from whole-brain dynamic connectivity across individuals and movie stimuli. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2023.11.14.566767)
 
