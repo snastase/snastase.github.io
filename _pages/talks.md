@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.** (2025, March). *Making your data open “by design”*. Invited talk for the Sharing Science: Data Management Best Practices webinar panel, Society for Neuroscience. [`slides`](https://docs.google.com/presentation/d/1vVvVggW4IiKsnUoSZddxGvQX7F5yvajSybI_qCV3P9M/edit?usp=sharing)
+
 **Nastase, S. A.** (2025, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Clinical Cognitive Computational Neuroscience Center with the York State Psychiatric Institute and Columbia University, New York, NY. [`slides`](https://docs.google.com/presentation/d/133tx10FZ-tGAbWcvb8haCKPQspN-8uOsAzWSp9-u_68/edit?usp=sharing)
 
 **Nastase, S. A.** (2025, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at Rutgers University, Newark, NJ. [`slides`](https://docs.google.com/presentation/d/1-weQhFKLhFQksKjMKnUDPuoFIACEGC8XFLOIOFZYexc/edit?usp=sharing)

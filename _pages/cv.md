@@ -150,6 +150,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 ## Invited talks
 ---
 
+**Nastase, S. A.** (2025, March). *Making your data open “by design”*. Invited talk for the Sharing Science: Data Management Best Practices webinar panel, Society for Neuroscience.
+
 **Nastase, S. A.** (2025, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Clinical Cognitive Computational Neuroscience Center with the York State Psychiatric Institute and Columbia University, New York, NY.
 
 **Nastase, S. A.** (2025, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at Rutgers University, Newark, NJ.
