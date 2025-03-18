@@ -45,8 +45,8 @@ This lab course closely accompanies NEU 502A and surveys the methodological land
 | W 3/5 (*E*) | fMRI project data collection | | |
 | Tu 3/11 | _No class (spring recess)_ | | |
 | W 3/12 | _No class (spring recess)_ | | |
-| Tu 3/18 (*E*) | fMRI project data analysis | | |
-| W 3/19 (*C*) | Statistical learning and language processing | | [`Manning et al., 2020`](https://doi.org/10.1073/pnas.1907367117) |
+| Tu 3/18 (*E*) | fMRI project data analysis | [`Handbook`](https://brainhack-princeton.github.io/handbook/) | |
+| W 3/19 (*C*) | ~~Statistical learning and language processing~~<br>Episodic memory | [`Code`](https://princetonuniversity.github.io/NEU-PSY-502/content/502B/Computation/Episodic%20Memory/intro.html) | [`Manning et al., 2020`](https://doi.org/10.1073/pnas.1907367117) |
 | Tu 3/25 (*E*) | EEG/MEG signal, preprocessing, and modeling | | [`Buzsáki et al., 2012`](https://doi.org/10.1038/nrn3241) [`Fries, 2015`](https://doi.org/10.1016/j.neuron.2015.09.034) |
 | W 3/26 (*C*) | Selective attention, automaticity, and control | | [`Cohen et al., 1990`](https://doi.org/10.1037/0033-295X.97.3.332) |
 | Tu 4/1 (*E*) | MEG project proposals and experimental design | | [`Baillet, 2017`](https://doi.org/10.1038/nn.4504) [`Brooks et al., 2022`](https://doi.org/10.1016/j.tins.2022.05.008) |
