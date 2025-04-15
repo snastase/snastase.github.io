@@ -53,7 +53,7 @@ This lab course closely accompanies NEU 502A and surveys the methodological land
 | W 4/2 (*C*) | Conflict monitoring, effort, and control | [`Code`](https://princetonuniversity.github.io/NEU-PSY-502/content/502B/Computation/Conflict%20Monitoring%20Effort%20and%20Control/intro.html) | [`Shenhav et al., 2017`](https://doi.org/10.1146/annurev-neuro-072116-031526) |
 | Tu 4/8 (*E*) | MEG project data collection | | |
 | W 4/9 (*E*) | MEG project data analysis | [`Code`](https://github.com/harrisonritz/mne-opm/tree/main) | |
-| Tu 4/15 (*E*) | Deep learning models for vision | | [`Kriegeskorte et al., 2015`](https://doi.org/10.1146/annurev-vision-082114-035447) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) [`Lindsay, 2021`](https://doi.org/10.1162/jocn_a_01544) |
+| Tu 4/15 (*E*) | Deep learning models for vision | [`Slides`](https://docs.google.com/presentation/d/1d4_scCT7QRJCGuT51jXJxPbwz3fgMlXzsazvG_eRDc0/edit?usp=sharing) | [`Kriegeskorte et al., 2015`](https://doi.org/10.1146/annurev-vision-082114-035447) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) [`Lindsay, 2021`](https://doi.org/10.1162/jocn_a_01544) |
 | W 4/16 (*E*) | Integration, attention, context, and control<br>Progress report presentations | | |
 | Tu 4/22 (*E*) | Deep learning models for language | | [`Schrimpf et al., 2021`](https://doi.org/10.1073/pnas.2105646118) [`Goldstein et al., 2022`](https://doi.org/10.1038/s41593-022-01026-4) [`Zada et al., 2024`](https://doi.org/10.1016/j.neuron.2024.06.025) |
 | W 4/23 (*E*) | fMRI and MEG project presentations | | |
