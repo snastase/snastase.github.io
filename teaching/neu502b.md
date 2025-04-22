@@ -55,7 +55,7 @@ This lab course closely accompanies NEU 502A and surveys the methodological land
 | W 4/9 (*E*) | MEG project data analysis | [`Code`](https://github.com/harrisonritz/mne-opm/tree/main) | |
 | Tu 4/15 (*E*) | Deep learning models for vision | [`Slides`](https://docs.google.com/presentation/d/1d4_scCT7QRJCGuT51jXJxPbwz3fgMlXzsazvG_eRDc0/edit?usp=sharing) [`Code`](https://github.com/NEU502B/neu502b-2025/tree/master/anns-1) | [`Kriegeskorte et al., 2015`](https://doi.org/10.1146/annurev-vision-082114-035447) [`Yamins & DiCarlo, 2016`](https://doi.org/10.1038/nn.4244) [`Lindsay, 2021`](https://doi.org/10.1162/jocn_a_01544) |
 | W 4/16 (*E*) | Integration, attention, context, and control<br>Progress report presentations | | |
-| Tu 4/22 (*E*) | Deep learning models for language | | [`Schrimpf et al., 2021`](https://doi.org/10.1073/pnas.2105646118) [`Goldstein et al., 2022`](https://doi.org/10.1038/s41593-022-01026-4) [`Zada et al., 2024`](https://doi.org/10.1016/j.neuron.2024.06.025) |
+| Tu 4/22 (*E*) | Deep learning models for language | [`Slides`](https://docs.google.com/presentation/d/1IOdeMSFc7S21DxbOkurz9OapR9i6_tSNZz2wtFrGhes/edit?usp=sharing) [`Code`](https://github.com/snastase/encling-tutorial) | [`Schrimpf et al., 2021`](https://doi.org/10.1073/pnas.2105646118) [`Goldstein et al., 2022`](https://doi.org/10.1038/s41593-022-01026-4) [`Zada et al., 2024`](https://doi.org/10.1016/j.neuron.2024.06.025) |
 | W 4/23 (*E*) | fMRI and MEG project presentations | | |
 | M 5/6 | _No class (final written reports due)_ | | |
 
