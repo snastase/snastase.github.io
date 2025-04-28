@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### April 28, 2025 &mdash; Open review of de Varda and colleagues: [`review`](https://snastase.github.io/reviews/2025-04-28-devarda) [`PubPeer`](https://pubpeer.com/publications/69C0DB176C07FC3F0A94ABACD9D409#1)
+de Varda, A. G., Malik-Moraleda, S., Tuckute, G., & Fedorenko, E. (2025). Multilingual computational models reveal shared brain responses to 21 languages. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.02.01.636044)
+
+---
+
 ### February 23, 2025 &mdash; Open review of Gruskin and colleagues: [`review`](https://snastase.github.io/reviews/2025-02-23-gruskin) [`PubPeer`](https://pubpeer.com/publications/660EC33BD20F27FC1857C3E6724456#1)
 Gruskin, D. C., Vieira, D. J., Lee, J. K., & Patel, G. H. (2024). Heritability of movie-evoked brain activity and connectivity. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2024.09.16.612469)
 
