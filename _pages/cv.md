@@ -37,6 +37,8 @@ redirect_from:
 ## Publications
 ---
 
+Samara, A., Zada, Z., Vanderwal, T., Hasson, U., & **Nastase, S. A.** (2025). Cortical language areas are coupled via a soft hierarchy of model-based linguistic features. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.06.02.657491) [`PDF`](https://snastase.github.io/files/Samara_bioRxiv_2025.pdf)
+
 Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2025). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.02.14.638276) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025a.pdf)
 
 Zada, Z., **Nastase, S. A.**, Aubrey, B., Jalon, I., Michelmann, S., Wang, H., Hasenfratz, L., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Goldstein, A., & Hasson, U. (2025). The “Podcast” ECoG dataset for modeling neural activity during natural language comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.02.14.638352) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025b.pdf)
@@ -153,6 +155,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 
 ## Invited talks
 ---
+
+**Nastase, S. A.**. (2025, June). *Unifying the structures of language in a neural population code*. Invited talk at the Department of Psychological & Brain Sciences at Johns Hopkins University, Baltimore, MD.
 
 **Nastase, S. A.** (2025, March). *Making your data open “by design”*. Invited talk for the Sharing Science: Data Management Best Practices webinar panel, Society for Neuroscience.
 
