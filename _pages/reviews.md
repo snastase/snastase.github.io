@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### June 7, 2025 &mdash; Open review of Hadidi, Feghhi and colleagues: [`review`](https://snastase.github.io/reviews/2025-06-07-hadidi) [`PubPeer`](https://pubpeer.com/publications/D7524825A33579871B35A8A24B2699#1)
+Hadidi, N.\*, Feghhi, E.\*, Song, B. H., Blank, I. A., & Kao, J. C. (2025). Illusions of alignment between large language models and brains emerge from fragile methods and overlooked confounds. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.03.09.642245)
+
+---
+
 ### April 28, 2025 &mdash; Open review of de Varda and colleagues: [`review`](https://snastase.github.io/reviews/2025-04-28-devarda) [`PubPeer`](https://pubpeer.com/publications/69C0DB176C07FC3F0A94ABACD9D409#1)
 de Varda, A. G., Malik-Moraleda, S., Tuckute, G., & Fedorenko, E. (2025). Multilingual computational models reveal shared brain responses to 21 languages. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.02.01.636044)
 
