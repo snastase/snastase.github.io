@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.** & DuPre, E. (2025, June). *Data sharing in naturalistic neuroimaging*. Talk at the Best Practices in Naturalistic Neuroimaging educational course at the annual meeting of the Organization for Human Brain Mapping, Brisbane, Australia. [`slides`](https://docs.google.com/presentation/d/1vryApt2C7c9UL0QhDzNCztrz2JDnaqaiQFM_602899k/edit?usp=sharing)
+
 **Nastase, S. A.**. (2025, June). *Unifying the structures of language in a neural population code*. Invited talk at the Department of Psychological & Brain Sciences at Johns Hopkins University, Baltimore, MD. [`slides`](https://docs.google.com/presentation/d/13gDwUUXMf3sG8NjXj4KwkvYg9smLnm4_YU_AXlz82QA/edit?usp=sharing)
 
 **Nastase, S. A.** (2025, March). *Making your data open “by design”*. Invited talk for the Sharing Science: Data Management Best Practices webinar panel, Society for Neuroscience. [`slides`](https://docs.google.com/presentation/d/1vVvVggW4IiKsnUoSZddxGvQX7F5yvajSybI_qCV3P9M/edit?usp=sharing)
