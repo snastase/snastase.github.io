@@ -77,8 +77,6 @@ Moia, S., Wang, H. T., Heinsfeld, A. S., Jarecka, D., Yang, Y. F., Heunis, S., S
 
 Kewenig, V., Lampinen, A., **Nastase, S. A.**, Edwards, C., D’Elascombe, Q., Richardt, A., Skipper, J. I., & Vigliocco, G. (2023). Multimodality and attention increase alignment in natural language prediction between humans and computational models. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2308.06035) [`PDF`](https://snastase.github.io/files/Kewenig_arXiv_2023.pdf)
 
-Xu, Q., Peng, Y., **Nastase, S. A.**, Chodorow, M., Wu, M., & Li, P. (2023). Does conceptual representation require embodiment? Insights from large language models. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2305.19103) [`PDF`](https://snastase.github.io/files/Xu_arXiv_2023.pdf)
-
 Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023). Cross-movie prediction of individualized functional topography. *eLife*, *12*, e86037. [`DOI`](https://doi.org/10.7554/eLife.86037) [`PDF`](https://snastase.github.io/files/Jiahui_eLife_2023.pdf)
 
 Jiahui, G., Feilong, M., Visconti di Oleggio Castello, **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2023). Modeling naturalistic face processing in humans with deep convolutional neural networks. *Proceedings of the National Academy of Sciences*, *120*(43), e2304085120. [`DOI`](https://doi.org/10.1073/pnas.2304085120) [`PDF`](https://snastase.github.io/files/Jiahui_PNAS_2023.pdf)
