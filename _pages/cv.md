@@ -39,6 +39,8 @@ redirect_from:
 
 Samara, A., Zada, Z., Vanderwal, T., Hasson, U., & **Nastase, S. A.** (2025). Cortical language areas are coupled via a soft hierarchy of model-based linguistic features. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.06.02.657491) [`PDF`](https://snastase.github.io/files/Samara_bioRxiv_2025.pdf)
 
+Zada, Z., **Nastase, S. A.**, Li, J., & Hasson, U. (2025). Brains and language models converge on a shared conceptual space across different languages. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2506.20489) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025c.pdf)
+
 Xu, Q., Peng, Y., **Nastase, S. A.**, Chodorow, M., Wu, M., & Li, P. (2025). Large language models without grounding recover non-sensorimotor but not sensorimotor features of human concepts. *Nature Human Behaviour*. [`DOI`](https://doi.org/10.1038/s41562-025-02203-8) [`PDF`](https://snastase.github.io/files/Xu_NatHumBehav_2025.pdf)
 
 Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2025). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.02.14.638276) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025a.pdf)
