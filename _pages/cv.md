@@ -41,11 +41,11 @@ Samara, A., Zada, Z., Vanderwal, T., Hasson, U., & **Nastase, S. A.** (2025). Co
 
 Zada, Z., **Nastase, S. A.**, Li, J., & Hasson, U. (2025). Brains and language models converge on a shared conceptual space across different languages. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2506.20489) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025c.pdf)
 
+Zada, Z., **Nastase, S. A.**, Aubrey, B., Jalon, I., Michelmann, S., Wang, H., Hasenfratz, L., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Goldstein, A., & Hasson, U. (2025). The “Podcast” ECoG dataset for modeling neural activity during natural language comprehension. *Scientific Data*, *12*, 1135. [`DOI`](https://doi.org/10.1038/s41597-025-05462-2) [`PDF`](https://snastase.github.io/files/Zada_SciData_2025.pdf)
+
 Xu, Q., Peng, Y., **Nastase, S. A.**, Chodorow, M., Wu, M., & Li, P. (2025). Large language models without grounding recover non-sensorimotor but not sensorimotor features of human concepts. *Nature Human Behaviour*. [`DOI`](https://doi.org/10.1038/s41562-025-02203-8) [`PDF`](https://snastase.github.io/files/Xu_NatHumBehav_2025.pdf)
 
 Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2025). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.02.14.638276) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025a.pdf)
-
-Zada, Z., **Nastase, S. A.**, Aubrey, B., Jalon, I., Michelmann, S., Wang, H., Hasenfratz, L., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Goldstein, A., & Hasson, U. (2025). The “Podcast” ECoG dataset for modeling neural activity during natural language comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.02.14.638352) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025b.pdf)
 
 Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Aubrey, B.\*, Sheffer, T.\*, Gazula, H., Schain, M., Singh, A., Rao, A., Choe, G., Kim, C., Doyle, W., Friedman, D., Devore, S., Dugan, P., Hassidim, A., Brenner, M., Matias, Y., Devinsky, O., Flinker, A., & Hasson, U. (2025). A unified acoustic-to-speech-to-language embedding space captures the neural basis of natural language processing in everyday conversations. *Nature Human Behaviour*, *9*, 1041–1055. [`DOI`](https://doi.org/10.1038/s41562-025-02105-9) [`PDF`](https://snastase.github.io/files/Goldstein_NatHumBehav_2025.pdf)
 
