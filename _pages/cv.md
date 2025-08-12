@@ -6,8 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+Assistant Professor<br>
+Department of Psychology<br>
+University of Southern California<br>
+Los Angeles, CA
 
 ## Education 
 ---
@@ -22,10 +26,13 @@ redirect_from:
 
 ## Employment
 ---
-**Associate Research Scholar**  2023&ndash;present<br>
+**Assistant Professor of Psychology**  2025&ndash;present<br>
+**University of Southern California**
+
+**Associate Research Scholar**  2023&ndash;2025<br>
 **Princeton University**
 
-**Lecturer**  2021&ndash;present<br>
+**Lecturer**  2021&ndash;2025<br>
 **Princeton University**
 
 **Postdoctoral Research Associate**  2018&ndash;2022<br>

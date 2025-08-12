@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Nastase"
 title_separator          : "-"
 name                     : &name "Sam Nastase"
-description              : &description "Assistant Professor of Psychology at the University of Southern California"
+description              : &description "Assistant Professor at USC"
 url                      : https://snastase.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "snastase/snastase.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sam Nastase"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor of Psychology at the University of Southern California"
+  bio              : "Assistant Professor at the University of Southern California"
   location         : "Los Angeles, CA, USA"
-  employer         :
+  employer         : # "https://dornsife.usc.edu/profile/samuel-nastase/"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tjLH8mQAAAAJ&hl=en"
   email            : "sam.nastase@gmail.com"
@@ -100,9 +100,9 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/samuelnastase/"
+  linkedin         : # "https://www.linkedin.com/in/samuelnastase/"
   orcid            : "https://orcid.org/0000-0001-7013-5275"
   pinterest        :
   soundcloud       :
