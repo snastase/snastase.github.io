@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Nastase"
 title_separator          : "-"
 name                     : &name "Sam Nastase"
-description              : &description "Research scholar at Princeton University"
+description              : &description "Assistant Professor of Psychology at the University of Southern California"
 url                      : https://snastase.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "snastase/snastase.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &samnastase
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sam Nastase"
   avatar           : "profile.jpg"
-  bio              : "Research scholar at Princeton University"
-  location         : "Princeton, NJ, USA"
+  bio              : "Assistant Professor of Psychology at the University of Southern California"
+  location         : "Los Angeles, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tjLH8mQAAAAJ&hl=en"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/samuelnastase/"
   orcid            : "https://orcid.org/0000-0001-7013-5275"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "samnastase"
+  twitter          :
   vine             :
   weibo            :
   xing             :
