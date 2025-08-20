@@ -95,6 +95,8 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 ---
 ## Conference presentations
 
+Christian, I. R. & **Nastase, S. A.** (2025, August). *Hierarchical systems in the default mode network when reasoning about self and other mental states*. Talk presented at the annual conference on Cognitive Computational Neuroscience, Amsterdam, the Netherlands.
+
 **Nastase, S. A.** (2024, December). *Emergent brain-to-brain coupling and cooperative behavior in an artificial gameplay ecosystem*. Talk presented at the ARTificial Intelligence in Collectives (ARTIC) Workshop at Princeton University, Princeton, NJ. [`slides`](https://docs.google.com/presentation/d/1_I6ASIBVmehJSm-vZZhhRVwlWm4ggqU08TqygxjzGV4/edit?usp=sharing)
 
 Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Hasson, U., & Tamir, D. (2024, June). *Mapping individual and shared cortical language representations during real-time natural dialogues*. Talk presented at the annual meeting of the Organization for Human Brain Mapping, Seoul, South Korea. [`slides`](https://docs.google.com/presentation/d/1QUXdEm0KVF-AsfEgq0TQBoK6uXqsKkG05N6y4NRDIv8/edit?usp=sharing)
@@ -137,13 +139,13 @@ Jiahui, G., Feilong, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (202
 
 Peng, Y., Gu, C., **Nastase, S. A.**, Mayer, R. E., & Li, P. (2023, March). *Social cues impact real-time neural synchronization, visual attention, and learning outcome during multimedia learning*. Poster presented at the annual meeting of Cognitive Neuroscience Society, San Francisco, CA.
 
-Zada, Z., **Nastase, S. A.**, Goldstein, A., Hasson, U. (2022, August). *Brain-to-brain linguistic coupling in natural conversations*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1242-0)
+Zada, Z., **Nastase, S. A.**, Goldstein, A., Hasson, U. (2022, August). *Brain-to-brain linguistic coupling in natural conversations*. Poster presented at the annual conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1242-0)
 
-Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022, August). *Reconstructing the cascade of language processing in the brain using the internal computations of a transformer-based language model*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1255-0)
+Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2022, August). *Reconstructing the cascade of language processing in the brain using the internal computations of a transformer-based language model*. Poster presented at the annual conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1255-0)
 
-Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2022, August). *The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1216-0)
+Feilong, M., **Nastase, S. A.**, Jiahui, G., Halchenko, Y. O., Gobbini, M. I., & Haxby, J. V. (2022, August). *The Individualized Neural Tuning Model: precise and generalizable cartography of functional architecture in individual brains*. Poster presented at the annual conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1216-0)
 
-Jiahui, G.\*, Feilong, M.\*, Visconti di Oleggio Castello, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2022, August). *Modeling naturalistic face processing in humans with deep convolutional neural networks*. Poster presented at the annual meeting of the Conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1218-0)
+Jiahui, G.\*, Feilong, M.\*, Visconti di Oleggio Castello, M., **Nastase, S. A.**, Haxby, J. V., & Gobbini, M. I. (2022, August). *Modeling naturalistic face processing in humans with deep convolutional neural networks*. Poster presented at the annual conference on Cognitive Computational Neuroscience, San Francisco, CA. [`DOI`](https://doi.org/10.32470/CCN.2022.1218-0)
 
 Chang, H. C. C., **Nastase, S. A.**, & Hasson, U. (2021, November). *The flow of information transformation across cortical networks during auditory narrative comprehension*. Poster presented at the annual meeting of the Society for Neuroscience, Chicago, IL.
 
