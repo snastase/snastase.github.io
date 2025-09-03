@@ -169,7 +169,9 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 ## Invited talks
 ---
 
-**Nastase, S. A.**. (2025, June). *Unifying the structures of language in a neural population code*. Invited talk at the Department of Psychological & Brain Sciences at Johns Hopkins University, Baltimore, MD.
+**Nastase, S. A.** (2025, September). *Unifying the structures of language in a neural population code*. Keynote talk at the online Cognition and Natural Sensory Processing Initiative (CNSP) Workshop.
+
+**Nastase, S. A.** (2025, June). *Unifying the structures of language in a neural population code*. Invited talk at the Department of Psychological & Brain Sciences at Johns Hopkins University, Baltimore, MD.
 
 **Nastase, S. A.** (2025, March). *Making your data open “by design”*. Invited talk for the Sharing Science: Data Management Best Practices webinar panel, Society for Neuroscience.
 
