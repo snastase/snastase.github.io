@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.** (2025, September). *Cortical language areas are coupled via a soft hierarchy of model-based linguistic features*. Invited talk at the LLMs and the Brain workshop at Rice University, Houston, TX. [`slides`](https://docs.google.com/presentation/d/1UPyNksTVUX5eYwH_wSjz_Aw6nNYCoUbGk4l7PgPqBfo/edit?usp=sharing)
+
 **Nastase, S. A.** (2025, September). *Unifying the structures of language in a neural population code*. Keynote talk at the online Cognition and Natural Sensory Processing Initiative (CNSP) Workshop. [`slides`](https://docs.google.com/presentation/d/1yU2yonhK5rl-B9BQJb2fWMK4fvv72Vyw2W7i6ZkqTkY/edit?usp=sharing)
 
 **Nastase, S. A.** & DuPre, E. (2025, June). *Data sharing in naturalistic neuroimaging*. Talk at the Best Practices in Naturalistic Neuroimaging educational course at the annual meeting of the Organization for Human Brain Mapping, Brisbane, Australia. [`slides`](https://docs.google.com/presentation/d/1vryApt2C7c9UL0QhDzNCztrz2JDnaqaiQFM_602899k/edit?usp=sharing)
