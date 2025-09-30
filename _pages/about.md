@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor in the Department of Psychology and lead the <span style="color: #990000;">[**Shared Minds Lab**](https://shared-minds.github.io/)</span> at the University of Southern California. Previously, I worked as a research scholar with [Uri Hasson](https://www.hassonlab.com/) and [Ken Norman](https://compmem.princeton.edu/) at the Princeton Neuroscience Institute. I completed my PhD with [Jim Haxby](http://haxbylab.dartmouth.edu/) at Dartmouth College.
+I'm an assistant professor in the Department of Psychology and lead the [<span style="color: #990000;">**Shared Minds Lab**</span>](https://shared-minds.github.io/) at the University of Southern California. Previously, I worked as a research scholar with [Uri Hasson](https://www.hassonlab.com/) and [Ken Norman](https://compmem.princeton.edu/) at the Princeton Neuroscience Institute. I completed my PhD with [Jim Haxby](http://haxbylab.dartmouth.edu/) at Dartmouth College.
 
 The core questions driving my research are **"What is shared between individual brains?"** and **"How do we share our thoughts with one another?"**—using language and other coordinated actions. My research combines naturalistic neuroimaging paradigms (fMRI, ECoG) and deep neural networks to better answer these questions in real-world contexts. In current work, we're leveraging large language models to better understand how humans use language to transmit complex thoughts from one brain to another.
 
