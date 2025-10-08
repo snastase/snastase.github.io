@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### October 7, 2025 &mdash; Open review of Peraza and colleagues: [`review`](https://snastase.github.io/reviews/2025-10-07-peraza.html) [`PubPeer`](https://pubpeer.com/publications/8D2F366357DA9145E0200F8CD97CC6#1)
+Peraza, J. A., Kent, J. D., Nichols, T. E., Poline, J. B., de la Vega, A., & Laird, A. R. (2025). NiCLIP: Neuroimaging contrastive language-image pretraining model for predicting text from brain activation images. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.06.14.659706)
+
+---
+
 ### June 7, 2025 &mdash; Open review of Hadidi, Feghhi and colleagues: [`review`](https://snastase.github.io/reviews/2025-06-07-hadidi) [`PubPeer`](https://pubpeer.com/publications/D7524825A33579871B35A8A24B2699#1)
 Hadidi, N.\*, Feghhi, E.\*, Song, B. H., Blank, I. A., & Kao, J. C. (2025). Illusions of alignment between large language models and brains emerge from fragile methods and overlooked confounds. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.03.09.642245)
 
