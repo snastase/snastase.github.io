@@ -169,6 +169,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 ## Invited talks
 ---
 
+**Nastase, S. A.** (2025, October). *Unifying the structures of language in a neural population code*. Invited talk at the Department of Psychology at University of California, Riverside, CA.
+
 **Nastase, S. A.** (2025, September). *Cortical language areas are coupled via a soft hierarchy of model-based linguistic features*. Invited talk at the LLMs and the Brain workshop at Rice University, Houston, TX.
 
 **Nastase, S. A.** (2025, September). *Unifying the structures of language in a neural population code*. Keynote talk at the online Cognition and Natural Sensory Processing Initiative (CNSP) Workshop.

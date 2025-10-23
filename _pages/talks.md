@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.** (2025, October). *Unifying the structures of language in a neural population code*. Invited talk at the Department of Psychology at University of California, Riverside, CA. [`slides`](https://docs.google.com/presentation/d/1W_eW83MeLcSJscz2bQVtjPv8vgJedPx4yWYUqFc_93A/edit?usp=sharing)
+
 **Nastase, S. A.** (2025, September). *Cortical language areas are coupled via a soft hierarchy of model-based linguistic features*. Invited talk at the LLMs and the Brain workshop at Rice University, Houston, TX. [`slides`](https://docs.google.com/presentation/d/1UPyNksTVUX5eYwH_wSjz_Aw6nNYCoUbGk4l7PgPqBfo/edit?usp=sharing)
 
 **Nastase, S. A.** (2025, September). *Unifying the structures of language in a neural population code*. Keynote talk at the online Cognition and Natural Sensory Processing Initiative (CNSP) Workshop. [`slides`](https://docs.google.com/presentation/d/1yU2yonhK5rl-B9BQJb2fWMK4fvv72Vyw2W7i6ZkqTkY/edit?usp=sharing)
