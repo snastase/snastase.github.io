@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### October 24, 2025 &mdash; Open review of Leipold and colleagues: [`review`](https://snastase.github.io/reviews/2025-10-24-leipold.html) [`PubPeer`](https://pubpeer.com/publications/C735BA3DFAE64C75D487EFF4F9610D#1)
+Leipold, S., Ravi Rao, R., Schoffelen, J. M., Bögels, S., & Toni, I. (2024). Between-movie variability severely limits generalizability of “naturalistic” neuroimaging. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2024.12.03.626542)
+
+---
+
 ### October 20, 2025 &mdash; Open review of Ke and colleagues: [`review`](https://snastase.github.io/reviews/2025-10-20-ke.html) [`PubPeer`](https://pubpeer.com/publications/D08AEC0A5004A00C07DDD4CAE8EE74#1)
 Ke, J., Chamberlain, T. A., Song, H., Corriveau, A., Zhang, Z., Martinez, T., Sams, L., Chun, M. M., Leong, Y. C., & Rosenberg, M. D. (2025). Ongoing thoughts at rest reflect functional brain organization and behavior. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.08.18.670664)
 
