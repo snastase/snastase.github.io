@@ -101,6 +101,8 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 ---
 ## Conference presentations
 
+**Nastase, S. A.** (2025, October). *Modeling the linguistic structure of brain-to-brain coupling in natural conversations*. Talk presented at the annual meeting of the Academy of Aphasia, San Diego, CA. [`slides`](https://docs.google.com/presentation/d/1PsacVcJ8hvNU8jaRG8QsZCJgpQrF9ZAVHeQU7lavlzc/edit?usp=sharing)
+
 Christian, I. R. & **Nastase, S. A.** (2025, August). *Hierarchical systems in the default mode network when reasoning about self and other mental states*. Talk presented at the annual conference on Cognitive Computational Neuroscience, Amsterdam, the Netherlands.
 
 **Nastase, S. A.** (2024, December). *Emergent brain-to-brain coupling and cooperative behavior in an artificial gameplay ecosystem*. Talk presented at the ARTificial Intelligence in Collectives (ARTIC) Workshop at Princeton University, Princeton, NJ. [`slides`](https://docs.google.com/presentation/d/1_I6ASIBVmehJSm-vZZhhRVwlWm4ggqU08TqygxjzGV4/edit?usp=sharing)
