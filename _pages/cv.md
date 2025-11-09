@@ -62,7 +62,7 @@ Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Au
 
 Jung, H., Han, X., Feilong, M., Han, J., Shokeen, D., Van Uden, C., Hanson, I., Connolly, A. C., Haxby, J. V., & **Nastase, S. A.** (2025). Action features dominate cortical representation during natural vision. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.01.30.635800) [`PDF`](https://snastase.github.io/files/Jung_bioRxiv_2025.pdf)
 
-Christian, I. R., **Nastase, S. A.**, Yu, M., Ziman, K., & Graziano, M. S. (2025). Monitoring attention in self and others. *Journal of Cognitive Neuroscience*. [`DOI`](https://doi.org/10.1162/jocn.a.51) [`PDF`](https://snastase.github.io/files/Christian_JOCN_2025.pdf)
+Christian, I. R., **Nastase, S. A.**, Yu, M., Ziman, K., & Graziano, M. S. (2025). Monitoring attention in self and others. *Journal of Cognitive Neuroscience*, *37*(11), 2284–2294. [`DOI`](https://doi.org/10.1162/jocn.a.51) [`PDF`](https://snastase.github.io/files/Christian_JOCN_2025.pdf)
 
 Chen, Y., Zada, Z., **Nastase, S. A.**, Ashby, F. G., & Ghosh, S. S. (2025). Context modulates brain state dynamics and behavioral responses during narrative comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.04.05.647323) [`PDF`](https://snastase.github.io/files/Chen_bioRxiv_2025.pdf)
 
