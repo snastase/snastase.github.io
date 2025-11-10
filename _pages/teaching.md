@@ -9,6 +9,8 @@ redirect from:
 
 {% include base_path %}
 
+
+
 ## Previous courses
 
 I was previously a lecturer at Princeton University teaching the 300-level undergraduate course "Mathematical Tools for Neuroscience" (NEU 314) and the graduate-level course "Cognitive Computational Neuroscience" (NEU 502B).
