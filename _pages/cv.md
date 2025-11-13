@@ -48,6 +48,8 @@ Samara, A., Zada, Z., Vanderwal, T., Hasson, U., & **Nastase, S. A.** (2025). Co
 
 Zada, Z., **Nastase, S. A.**, Li, J., & Hasson, U. (2025). Brains and language models converge on a shared conceptual space across different languages. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2506.20489) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025c.pdf)
 
+**Nastase, S. A.** (2025). Larger language models better align with the reading brain. *Nature Computational Science*. [`DOI`](https://doi.org/10.1038/s43588-025-00905-7) [`PDF`](https://snastase.github.io/files/Nastase_NCS_2025.pdf)
+
 Zada, Z., **Nastase, S. A.**, Aubrey, B., Jalon, I., Michelmann, S., Wang, H., Hasenfratz, L., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Goldstein, A., & Hasson, U. (2025). The “Podcast” ECoG dataset for modeling neural activity during natural language comprehension. *Scientific Data*, *12*, 1135. [`DOI`](https://doi.org/10.1038/s41597-025-05462-2) [`PDF`](https://snastase.github.io/files/Zada_SciData_2025.pdf)
 
 Chang, C. H. C., **Nastase, S. A.**, Hasson, U., & Dominey, P. F. (2025). Emergence of a temporal processing gradient from naturalistic inputs and network connectivity. *Proceedings of the National Academy of Sciences of the United States of America*, *122*(28), e2420105122. [`DOI`](https://doi.org/10.1073/pnas.2420105122) [`PDF`](https://snastase.github.io/files/Chang_PNAS_2025.pdf)
