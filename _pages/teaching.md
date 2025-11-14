@@ -9,7 +9,7 @@ redirect from:
 
 {% include base_path %}
 
-
+I'm currently teaching the Neuroscience Honors Seminar and Honors Thesis (NEUR 493/494) courses at USC. I've also recently given guest lectures in Mary Sweeney’s "Creative Consciousness and Cinematic Dreams" (CTWR 441) course in Cinematic Arts and Jon May’s "Advanced Natural Language Processing" (CSCI 662) course in Computer Science.
 
 ## Previous courses
 
