@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.** (2025, November). *Shared language in minds and machines*. Invited talk at the inaugural AI Summit at the University of Southern California, Los Angeles, CA. [`slides`](https://docs.google.com/presentation/d/1uZBJ89JRn6vX7seNkp5tB1rZ7dHPH0u419DT9MruicE/edit?usp=sharing)
+
 **Nastase, S. A.** (2025, October). *Unifying the structures of language in a neural population code*. Invited talk at the Department of Psychology at University of California, Riverside, CA. [`slides`](https://docs.google.com/presentation/d/1W_eW83MeLcSJscz2bQVtjPv8vgJedPx4yWYUqFc_93A/edit?usp=sharing)
 
 **Nastase, S. A.** (2025, September). *Cortical language areas are coupled via a soft hierarchy of model-based linguistic features*. Invited talk at the LLMs and the Brain workshop at Rice University, Houston, TX. [`slides`](https://docs.google.com/presentation/d/1UPyNksTVUX5eYwH_wSjz_Aw6nNYCoUbGk4l7PgPqBfo/edit?usp=sharing)
