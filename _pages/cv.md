@@ -44,6 +44,8 @@ Los Angeles, CA
 ## Publications
 ---
 
+Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & **Nastase, S. A.**\* (2025). Aligning brains into a shared space improves their alignment to large language models. *Nature Computational Science*. [`DOI`](https://doi.org/10.1038/s43588-025-00900-y) [`PDF`](https://snastase.github.io/files/Bhattacharjee_NCS_2025.pdf)
+
 Samara, A., Zada, Z., Vanderwal, T., Hasson, U., & **Nastase, S. A.** (2025). Cortical language areas are coupled via a soft hierarchy of model-based linguistic features. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.06.02.657491) [`PDF`](https://snastase.github.io/files/Samara_bioRxiv_2025.pdf)
 
 Zada, Z., **Nastase, S. A.**, Li, J., & Hasson, U. (2025). Brains and language models converge on a shared conceptual space across different languages. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2506.20489) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025c.pdf)
@@ -77,8 +79,6 @@ Han, J., Chauhan, V., Philip, R., Taylor, M. K., Jung, H., Halchenko, Y. O., Gob
 Chang, C. H. C., **Nastase, S. A.**, & Hasson, U. (2024). How a speaker herds the audience: multi-brain neural convergence over time during naturalistic storytelling. *Social Cognitive and Affective Neuroscience*, *19*(1), nsae059. [`DOI`](https://doi.org/10.1093/scan/nsae059) [`PDF`](https://snastase.github.io/files/Chang_SCAN_2024.pdf)
 
 Goldstein, A., Wang, H., Sheffer, T., Schain, M., Zada, Z., Niekerken, L., Aubrey, B., **Nastase, S. A.**, Gazula, H., Casto, C., Doyle, W. K., Friedman, D., Devore, S., Dugan, P., Hassidim, A., Brenner, M., Matias, Y., Devinsky, O., Flinker, A., & Hasson, U. (2024). Information-making processes in the speaker’s brain drive human conversations forward. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2024.08.27.609946) [`PDF`](https://snastase.github.io/files/Goldstein_bioRxiv_2024.pdf)
-
-Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & **Nastase, S. A.**\* (2024). Aligning brains into a shared space improves their alignment to large language models. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2024.06.04.597448) [`PDF`](https://snastase.github.io/files/Bhattacharjee_bioRxiv_2024.pdf)
 
 Hong, Z.\*, Wang, K.\*, Zada, Z., Gazula, H., Turner, D., Aubrey, B., Niekerken, L., Doyle, W., Devore, S., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Hasson, U.\*, Goldstein, A.\*, & **Nastase, S. A.**\* (2024). Scale matters: large language models with billions (rather than millions) of parameters better match neural representations of natural language. *eLife*, *13*, RP101204. [`DOI`](https://doi.org/10.7554/eLife.101204.1) [`PDF`](https://snastase.github.io/files/Hong_bioRxiv_2024.pdf)
 
