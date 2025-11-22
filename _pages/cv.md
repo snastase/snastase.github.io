@@ -315,7 +315,7 @@ Harvard University (instructor: Marc Tetel)
 
 ## Funding and awards
 ---
-**CRCNS R01-DC022534** (PI: Uri Hasson)  2024–present<br>
+**CRCNS R01-DC022534** (PI: Uri Hasson)  2024–2025<br>
 Building and testing computational models of the neural basis of natural communication
 
 **Neurobiology of Language Workshop Travel Award**  May, 2024<br>

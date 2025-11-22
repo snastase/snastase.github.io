@@ -103,6 +103,12 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 ---
 ## Conference presentations
 
+Bhattacharjee, A., Aubrey, B., Doyle, W. K., Devore, S., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P., Hasson, U., & **Nastase, S. A.** (2025, November). *Aligning individual brains across different contexts via a model-based embedding space*. Poster presented at the annual meeting of the Society for Neuroscience, San Diego, CA.
+
+Zada, Z., **Nastase, S. A.**, Li, J., & Hasson, U. (2025, November). *Brains and language models converge on a shared conceptual space across different languages*. Poster presented at the annual meeting of the Society for Neuroscience, San Diego, CA.
+
+Wang, H., Goldstein, A., Jalon, I., Zada, Z., Aubrey, B., Niekerken, L., Doyle, W. K., Friedman, D., Devore, S., Devinsky, O., Flinker, A., Goldstein, A. Y., **Nastase, S. A.**, & Hasson, U. (2025, November). *Unified speech-to-text-to-speech brain encoding model of naturalistic conversations*. Poster presented at the annual meeting of the Society for Neuroscience, San Diego, CA.
+
 **Nastase, S. A.** (2025, October). *Modeling the linguistic structure of brain-to-brain coupling in natural conversations*. Talk presented at the annual meeting of the Academy of Aphasia, San Diego, CA. [`slides`](https://docs.google.com/presentation/d/1PsacVcJ8hvNU8jaRG8QsZCJgpQrF9ZAVHeQU7lavlzc/edit?usp=sharing)
 
 Christian, I. R. & **Nastase, S. A.** (2025, August). *Hierarchical systems in the default mode network when reasoning about self and other mental states*. Talk presented at the annual conference on Cognitive Computational Neuroscience, Amsterdam, the Netherlands.
