@@ -46,6 +46,8 @@ Los Angeles, CA
 
 Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & **Nastase, S. A.**\* (2025). Aligning brains into a shared space improves their alignment to large language models. *Nature Computational Science*. [`DOI`](https://doi.org/10.1038/s43588-025-00900-y) [`PDF`](https://snastase.github.io/files/Bhattacharjee_NCS_2025.pdf)
 
+Goldstein, A.\*, Ham, E.\*, Schain, M.\*, **Nastase, S. A.**, Aubrey, B., Zada, Z., Grinstein-Dabush, A., Gazula, H., Feder, A., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Matias, Y., Devinsky, O., Siegelman, N., Flinker, A., Levy, O., Reichart, R., & Hasson, U. (2025). Temporal structure of natural language processing in the human brain corresponds to layered hierarchy of large language models. *Nature Communications*, *16*, 10529. [`DOI`](https://doi.org/10.1038/s41467-025-65518-0) [`PDF`](https://snastase.github.io/files/Ham_NatCommun_2025.pdf)
+
 Samara, A., Zada, Z., Vanderwal, T., Hasson, U., & **Nastase, S. A.** (2025). Cortical language areas are coupled via a soft hierarchy of model-based linguistic features. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.06.02.657491) [`PDF`](https://snastase.github.io/files/Samara_bioRxiv_2025.pdf)
 
 Zada, Z., **Nastase, S. A.**, Li, J., & Hasson, U. (2025). Brains and language models converge on a shared conceptual space across different languages. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2506.20489) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025c.pdf)
