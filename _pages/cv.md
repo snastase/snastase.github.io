@@ -173,6 +173,8 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 ## Invited talks
 ---
 
+**Nastase, S. A.** (2025, November). *Unifying the structures of language in a neural population code*. Invited talk in the Machine Learning Seminar Series at the Albert Einstein College of Medicine, New York City, NY.
+
 **Nastase, S. A.** (2025, November). *Shared language in minds and machines*. Invited talk at the inaugural AI Summit at the University of Southern California, Los Angeles, CA.
 
 **Nastase, S. A.** (2025, October). *Unifying the structures of language in a neural population code*. Invited talk at the Department of Psychology at University of California, Riverside, CA.
