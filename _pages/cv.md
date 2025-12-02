@@ -427,8 +427,10 @@ fMRI Brown Bag symposium series, Dartmouth College&mdash;organizer (2013–2017)
 [Google Scholar](https://scholar.google.com/citations?user=tjLH8mQAAAAJ&hl=en),
 [GitHub](https://github.com/snastase),
 [ResearchGate](https://www.researchgate.net/profile/Samuel_Nastase),
-[Twitter](https://twitter.com/samnastase)
+[Twitter](https://twitter.com/samnastase),
 [Bluesky](https://bsky.app/profile/samnastase.bsky.social)
+
+[*Nature Computational Science*&mdash;Viability of using LLMs as models of human language processing](https://doi.org/10.1038/s43588-025-00913-7)
 
 [*Neuron*&mdash;An abstract linguistic space for transmitting information from one mind to another](https://doi.org/10.1016/j.neuron.2024.09.005)
 
