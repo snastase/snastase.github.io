@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### December 1, 2025 &mdash; Open review of Small and colleagues: [`review`](https://snastase.github.io/reviews/2025-12-01-small.html) [`PubPeer`](https://pubpeer.com/publications/74DC33A8CE36E3BBDDAF743E57AE96#1)
+Small, H., Lee Masson, H., Wodka, E., Mostofsky, S., & Isik, L. (2025). Ubiquitous cortical sensitivity to visual information during naturalistic, audiovisual movie viewing. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/b5p4n_v1)
+
+---
+
 ### October 24, 2025 &mdash; Open review of Leipold and colleagues: [`review`](https://snastase.github.io/reviews/2025-10-24-leipold.html) [`PubPeer`](https://pubpeer.com/publications/C735BA3DFAE64C75D487EFF4F9610D#1)
 Leipold, S., Ravi Rao, R., Schoffelen, J. M., Bögels, S., & Toni, I. (2024). Between-movie variability severely limits generalizability of “naturalistic” neuroimaging. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2024.12.03.626542)
 
