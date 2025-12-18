@@ -46,6 +46,8 @@ Los Angeles, CA
 
 Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & **Nastase, S. A.**\* (2025). Aligning brains into a shared space improves their alignment to large language models. *Nature Computational Science*. [`DOI`](https://doi.org/10.1038/s43588-025-00900-y) [`PDF`](https://snastase.github.io/files/Bhattacharjee_NCS_2025.pdf)
 
+Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2025). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *Neuron*. [`DOI`](https://doi.org/10.1016/j.neuron.2025.11.004) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2025.pdf)
+
 Goldstein, A.\*, Ham, E.\*, Schain, M.\*, **Nastase, S. A.**, Aubrey, B., Zada, Z., Grinstein-Dabush, A., Gazula, H., Feder, A., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Matias, Y., Devinsky, O., Siegelman, N., Flinker, A., Levy, O., Reichart, R., & Hasson, U. (2025). Temporal structure of natural language processing in the human brain corresponds to layered hierarchy of large language models. *Nature Communications*, *16*, 10529. [`DOI`](https://doi.org/10.1038/s41467-025-65518-0) [`PDF`](https://snastase.github.io/files/Ham_NatCommun_2025.pdf)
 
 Samara, A., Zada, Z., Vanderwal, T., Hasson, U., & **Nastase, S. A.** (2025). Cortical language areas are coupled via a soft hierarchy of model-based linguistic features. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.06.02.657491) [`PDF`](https://snastase.github.io/files/Samara_bioRxiv_2025.pdf)
@@ -61,8 +63,6 @@ Chang, C. H. C., **Nastase, S. A.**, Hasson, U., & Dominey, P. F. (2025). Emerge
 Xu, Q., Peng, Y., **Nastase, S. A.**, Chodorow, M., Wu, M., & Li, P. (2025). Large language models without grounding recover non-sensorimotor but not sensorimotor features of human concepts. *Nature Human Behaviour*. [`DOI`](https://doi.org/10.1038/s41562-025-02203-8) [`PDF`](https://snastase.github.io/files/Xu_NatHumBehav_2025.pdf)
 
 Gu, C., **Nastase, S. A.**, Zada, Z., & Li, P. (2025). Reading comprehension in L1 and L2 readers: neurocomputational mechanisms revealed through large language models. *npj Science of Learning*, *10*, 46. [`DOI`](https://doi.org/10.1038/s41539-025-00337-y) [`PDF`](https://snastase.github.io/files/Gu_SciLearn_2025.pdf)
-
-Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2025). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.02.14.638276) [`PDF`](https://snastase.github.io/files/Zada_bioRxiv_2025a.pdf)
 
 Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Aubrey, B.\*, Sheffer, T.\*, Gazula, H., Schain, M., Singh, A., Rao, A., Choe, G., Kim, C., Doyle, W., Friedman, D., Devore, S., Dugan, P., Hassidim, A., Brenner, M., Matias, Y., Devinsky, O., Flinker, A., & Hasson, U. (2025). A unified acoustic-to-speech-to-language embedding space captures the neural basis of natural language processing in everyday conversations. *Nature Human Behaviour*, *9*, 1041–1055. [`DOI`](https://doi.org/10.1038/s41562-025-02105-9) [`PDF`](https://snastase.github.io/files/Goldstein_NatHumBehav_2025.pdf)
 
