@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### January 4, 2026 &mdash; Open review of Katlowitz and colleagues: [`review`](https://snastase.github.io/reviews/2026-01-04-katlowitz.html) [`PubPeer`](https://pubpeer.com/publications/8DA573ABAA606922BD4ACA0E8379E4#1)
+Katlowitz, K. A., Belanger, J. L., Ismail, T., Chavez, A. G., Chericoni, A., Franch, M., ... & Hayden, B. Y. (2025). Attention is all you need (in the brain): semantic contextualization in human hippocampus. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.06.23.661103)
+
+---
+
 ### December 1, 2025 &mdash; Open review of Small and colleagues: [`review`](https://snastase.github.io/reviews/2025-12-01-small.html) [`PubPeer`](https://pubpeer.com/publications/74DC33A8CE36E3BBDDAF743E57AE96#1)
 Small, H., Lee Masson, H., Wodka, E., Mostofsky, S., & Isik, L. (2025). Ubiquitous cortical sensitivity to visual information during naturalistic, audiovisual movie viewing. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/b5p4n_v1)
 
