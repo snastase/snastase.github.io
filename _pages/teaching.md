@@ -11,6 +11,12 @@ redirect from:
 
 I'm currently teaching the Neuroscience Honors Seminar and Honors Thesis (NEUR 493/494) courses at USC. I've also recently given guest lectures in Mary Sweeney’s "Creative Consciousness and Cinematic Dreams" (CTWR 441) course in Cinematic Arts and Jon May’s "Advanced Natural Language Processing" (CSCI 662) course in Computer Science.
 
+## Computational Language Neuroscience [`website`](https://snastase.github.io/teaching/psyc599)<br><sup>PSYC 599</sup>
+
+This course explores the computational parallels between deep learning models for language and the human brain. Classes will primarily comprise student-led presentations of the weekly readings and active discussions of different viewpoints in the literature. Early readings are rooted in historical debates surrounding symbolic computation, statistical learning, and connectionism; later readings focus on current developments in the computational neuroscience of language and communication, with a focus on large language models (LLMs). Programming exercises will provide a hands-on introduction to state-of-the-art methods used in computational language neuroscience. The second half of the course will culminate in group projects where students design, implement, and write up novel experiments combining language models (e.g., LLMs) and open neuroscience datasets (e.g., fMRI, ECoG). The intended audience for this course is PhD students in psychology, neuroscience, linguistics, or computer science.
+
+---
+
 ## Previous courses
 
 I was previously a lecturer at Princeton University teaching the 300-level undergraduate course "Mathematical Tools for Neuroscience" (NEU 314) and the graduate-level course "Cognitive Computational Neuroscience" (NEU 502B).
