@@ -399,17 +399,20 @@ Prof. Yaroslav O. Halchenko, Department of Psychological and Brain Sciences, Dar
 Prof. James V. Haxby, Department of Psychological and Brain Sciences, Dartmouth College<br>
 
 **Events**<br>
+Center for Computational Language Sciences at USC&mdash;co-director (2025–present)<br>
+Journal of Neuroscience Journal Club&mdash;mentor (2025)<br>
+Cognitive Computational Neuroscience Proceedings Track&mdash;area chair (2025)<br>
 OHBM Naturalistic Neuroimaging Workgroup&mdash;contributor (June, 2024–present)<br>
 NSF Cognitive Neuroscience FY 2024 Review Panel&mdash;panelist (May, 2024)<br>
 Princeton University Responsible Conduct of Research Guide&mdash;contributor (2023)<br>
 Brainhack Princeton 2020, Princeton University&mdash;organizer (December, 2020)<br>
-Neuroimaging Analysis Methods (NIAM) seminar series, Princeton University&mdash;organizer (2019–present)<br>
+Neuroimaging Analysis Methods (NIAM) seminar series, Princeton University&mdash;organizer (2019–2020)<br>
 Brainhack Princeton 2019, Princeton University&mdash;organizer (November, 2019)<br>
 Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (August, 2019)<br>
 Neurohackademy, University of Washington&mdash;attendee (July, 2019)<br>
 Kavli Summer Institute in Cognitive Neuroscience&mdash;attendee (June, 2019)<br>
 OHBM Brainhack 2019, Rome&mdash;attendee (June, 2019)<br>
-Pygers Reproducible Neuroimaging support group&mdash;organizer (2018—present)<br>
+Pygers Reproducible Neuroimaging support group&mdash;organizer (2018—2022)<br>
 OHBM Brainhack 2018, Singapore&mdash;attendee (June, 2018)<br>
 Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (August, 2017)<br>
 Brainhack Dartmouth 2017, Dartmouth College&mdash;organizer (March, 2017)<br>
