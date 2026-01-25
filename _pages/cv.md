@@ -287,11 +287,17 @@ Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M.,
 
 ## Teaching
 ---
-**Lecturer&mdash;Mathematical Tools for Neuroscience**  Fall, 2022–present<br>
-Princeton University
+**Instructor&mdash;Computational Language Neuroscience**  Spring, 2026–present<br>
+University of Southern California  [`website`](https://snastase.github.io/teaching/psyc599)
 
-**Lecturer&mdash;Neuroscience: From Molecules to Systems to Behavior**  Spring, 2021–present<br>
-Princeton University (co-lecturers: Jonathan Cohen, Leigh Nystrom)
+**Instructor&mdash;Neuroscience Honors Seminar and Honors Thesis**  Fall, 2025–present<br>
+University of Southern California
+
+**Lecturer&mdash;Cognitive Computational Neuroscience**  Spring, 2021–2025<br>
+Princeton University (co-lecturers: Jonathan Cohen, Leigh Nystrom)  [`website`](http://snastase.github.io/teaching/neu502b)
+
+**Lecturer&mdash;Mathematical Tools for Neuroscience**  Fall, 2022<br>
+Princeton University  [`website`](https://snastase.github.io/teaching/neu314)
 
 **Teaching assistant&mdash;Systems Neuroscience with Lab**  Fall, 2015<br>
 Dartmouth College (instructors: Jeffrey Taube, Matthijs van der Meer)
@@ -361,7 +367,7 @@ Psychology & Cognitive Sciences Department, University of Trento
 
 ## Community
 ---
-**Peer review:** *Acta Psychologica*, *Behavior Research Methods*, *Brain and Cognition*, *Brain and Language*, *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Computers in Human Behavior*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *Current Biology*, *eLife*, *European Journal of Neuroscience*, *European Research Council*, *Frontiers in Neuroscience*, *German Research Foundation*, *Human Brain Mapping*, *IEEE Transactions on Medical Imaging*, *Imaging Neuroscience*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Computational Science*, *Nature Human Behaviour*, *Nature Machine Intelligence*, *Nature Neuroscience*, *Nature Reviews Neuroscience*, *NeuroImage*, *NeuroImage: Reports*, *Neuron*, *Neuropsychologia*, *Neuroscience & Biobehavioral Reviews*, *Organization for Human Brain Mapping*, *PLOS Biology*, *PLOS Computational Biology*, *PLOS One*, *Princeton University Press*, *Proceedings of the National Academy of Sciences of the United States of America*, *Psychological Review*, *Psychophysiology*, *Royal Society Open Science*, *Science*, *Science Advances*, *Science Bulletin*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Cognitive Sciences*, *Trends in Neurosciences*, *UK Research and Innovation*
+**Peer review:** *Acta Psychologica*, *Behavior Research Methods*, *Brain and Cognition*, *Brain and Language*, *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Computers in Human Behavior*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *Current Biology*, *eLife*, *European Journal of Neuroscience*, *European Research Council*, *Frontiers in Neuroscience*, *German Research Foundation*, *Human Brain Mapping*, *IEEE Transactions on Medical Imaging*, *Imaging Neuroscience*, *Journal of Cognitive Neuroscience*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Computational Science*, *Nature Human Behaviour*, *Nature Machine Intelligence*, *Nature Neuroscience*, *Nature Reviews Neuroscience*, *NeuroImage*, *NeuroImage: Reports*, *Neuron*, *Neuropsychologia*, *Neuroscience & Biobehavioral Reviews*, *Organization for Human Brain Mapping*, *PLOS Biology*, *PLOS Computational Biology*, *PLOS One*, *Princeton University Press*, *Proceedings of the National Academy of Sciences of the United States of America*, *Psychological Review*, *Psychophysiology*, *Royal Society Open Science*, *Science*, *Science Advances*, *Science Bulletin*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Cognitive Sciences*, *Trends in Neurosciences*, *UK Research and Innovation*
 
 **Action editor:** *Cognitive Science Society*, *Proceedings of the National Academy of Sciences of the United States of America*
 
