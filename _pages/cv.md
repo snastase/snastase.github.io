@@ -406,6 +406,7 @@ Prof. James V. Haxby, Department of Psychological and Brain Sciences, Dartmouth 
 
 **Events**<br>
 Center for Computational Language Sciences at USC&mdash;co-director (2025–present)<br>
+Neuroscience Graduate Program (NGP) at USC&mdash;faculty (2025–present)<br>
 Journal of Neuroscience Journal Club&mdash;mentor (2025)<br>
 Cognitive Computational Neuroscience Proceedings Track&mdash;area chair (2025)<br>
 OHBM Naturalistic Neuroimaging Workgroup&mdash;contributor (June, 2024–present)<br>
