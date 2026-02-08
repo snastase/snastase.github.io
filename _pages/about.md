@@ -12,7 +12,7 @@ I'm an assistant professor in the Department of Psychology and lead the [<span s
 
 The core questions driving my research are **"What is shared between individual brains?"** and **"How do we share our thoughts with one another?"**—using language and other coordinated actions. My research combines naturalistic neuroimaging paradigms (fMRI, ECoG) and deep neural networks to better answer these questions in real-world contexts. In current work, we're leveraging large language models to better understand how humans use language to transmit complex thoughts from one brain to another.
 
-**I'll be recruiting PhD students at USC this year to start in Fall 2026!**
+<!-- **I'll be recruiting PhD students at USC this year to start in Fall 2026!** -->
 
 ---
 ### Recent work
