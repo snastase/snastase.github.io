@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.** (2026, February). *Unifying the structures of language in a neural population code*. Invited talk at the Brain Research Institute at the University of California, Los Angeles, CA. [`slides`](https://docs.google.com/presentation/d/1YpgfQU_efzbyA4_oMcNyc6iZWv3286UW-C8XEedRkj0/edit?usp=sharing)
+
 **Nastase, S. A.** (2026, February). *Unifying the structures of language in a neural population code*. Invited talk in the Otolaryngology and Hearing & Communication Neuroscience Seminar Series at the University of Southern California, Los Angeles, CA. [`slides`](https://docs.google.com/presentation/d/18DbJhMBqUoCwoTtTbVrHynthG2BXfsDN-rRnmm_OGBc/edit?usp=sharing)
 
 **Nastase, S. A.** (2025, November). *Unifying the structures of language in a neural population code*. Invited talk in the Machine Learning Seminar Series at the Albert Einstein College of Medicine, New York City, NY. [`slides`](https://docs.google.com/presentation/d/1TiCHhHtmsLH-4IuXg4o6wSr7dFyoDCQfeQZ8rrvn3GU/edit?usp=sharing)
