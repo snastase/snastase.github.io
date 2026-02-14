@@ -48,6 +48,8 @@ Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedma
 
 Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2025). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *Neuron*. [`DOI`](https://doi.org/10.1016/j.neuron.2025.11.004) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2025.pdf)
 
+Chen, Y., Zada, Z., **Nastase, S. A.**, Ashby, F. G., & Ghosh, S. S. (2026). Context modulates brain state dynamics and behavioral responses during narrative comprehension. *Imaging Neuroscience*, *4*, IMAG.a.1116. [`DOI`](https://doi.org/10.1162/IMAG.a.1116) [`PDF`](https://snastase.github.io/files/Chen_ImagNeurosci_2026.pdf)
+
 Goldstein, A.\*, Ham, E.\*, Schain, M.\*, **Nastase, S. A.**, Aubrey, B., Zada, Z., Grinstein-Dabush, A., Gazula, H., Feder, A., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Matias, Y., Devinsky, O., Siegelman, N., Flinker, A., Levy, O., Reichart, R., & Hasson, U. (2025). Temporal structure of natural language processing in the human brain corresponds to layered hierarchy of large language models. *Nature Communications*, *16*, 10529. [`DOI`](https://doi.org/10.1038/s41467-025-65518-0) [`PDF`](https://snastase.github.io/files/Ham_NatCommun_2025.pdf)
 
 Samara, A., Zada, Z., Vanderwal, T., Hasson, U., & **Nastase, S. A.** (2025). Cortical language areas are coupled via a soft hierarchy of model-based linguistic features. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.06.02.657491) [`PDF`](https://snastase.github.io/files/Samara_bioRxiv_2025.pdf)
@@ -69,8 +71,6 @@ Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Au
 Jung, H., Han, X., Feilong, M., Han, J., Shokeen, D., Van Uden, C., Hanson, I., Connolly, A. C., Haxby, J. V., & **Nastase, S. A.** (2025). Action features dominate cortical representation during natural vision. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.01.30.635800) [`PDF`](https://snastase.github.io/files/Jung_bioRxiv_2025.pdf)
 
 Christian, I. R., **Nastase, S. A.**, Yu, M., Ziman, K., & Graziano, M. S. (2025). Monitoring attention in self and others. *Journal of Cognitive Neuroscience*, *37*(11), 2284–2294. [`DOI`](https://doi.org/10.1162/jocn.a.51) [`PDF`](https://snastase.github.io/files/Christian_JOCN_2025.pdf)
-
-Chen, Y., Zada, Z., **Nastase, S. A.**, Ashby, F. G., & Ghosh, S. S. (2025). Context modulates brain state dynamics and behavioral responses during narrative comprehension. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.04.05.647323) [`PDF`](https://snastase.github.io/files/Chen_bioRxiv_2025.pdf)
 
 Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (2024). A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations. *Neuron*, *112*(18), 3211–3222. [`DOI`](https://doi.org/10.1016/j.neuron.2024.06.025) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2024.pdf)
 
