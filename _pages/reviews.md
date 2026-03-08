@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### March 7, 2026 &mdash; Open review of Chen, Raccah and colleagues: [`review`](https://snastase.github.io/reviews/2026-03-07-chen.html) [`PubPeer`](https://pubpeer.com/publications/3F701F08217752A877E74A04BA6F09#1)
+Chen, P.\*, Raccah, O.\*, Vo, V., Poeppel, D., & Gureckis, T. Distinct paths to false memory revealed in hundreds of narrative recalls. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/sfqea_v2)
+
+---
+
 ### January 4, 2026 &mdash; Open review of Katlowitz and colleagues: [`review`](https://snastase.github.io/reviews/2026-01-04-katlowitz.html) [`PubPeer`](https://pubpeer.com/publications/8DA573ABAA606922BD4ACA0E8379E4#1)
 Katlowitz, K. A., Belanger, J. L., Ismail, T., Chavez, A. G., Chericoni, A., Franch, M., ... & Hayden, B. Y. (2025). Attention is all you need (in the brain): semantic contextualization in human hippocampus. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.06.23.661103)
 
