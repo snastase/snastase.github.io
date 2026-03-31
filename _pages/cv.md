@@ -44,9 +44,9 @@ Los Angeles, CA
 ## Publications
 ---
 
-Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & **Nastase, S. A.**\* (2025). Aligning brains into a shared space improves their alignment to large language models. *Nature Computational Science*. [`DOI`](https://doi.org/10.1038/s43588-025-00900-y) [`PDF`](https://snastase.github.io/files/Bhattacharjee_NCS_2025.pdf)
+Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & **Nastase, S. A.**\* (2026). Aligning brains into a shared space improves their alignment to large language models. *Nature Computational Science*, *6*, 169–178. [`DOI`](https://doi.org/10.1038/s43588-025-00900-y) [`PDF`](https://snastase.github.io/files/Bhattacharjee_NCS_2026.pdf)
 
-Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2025). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *Neuron*. [`DOI`](https://doi.org/10.1016/j.neuron.2025.11.004) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2025.pdf)
+Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2026). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *Neuron*, *114*(4), 774–787. [`DOI`](https://doi.org/10.1016/j.neuron.2025.11.004) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2026.pdf)
 
 Chen, Y., Zada, Z., **Nastase, S. A.**, Ashby, F. G., & Ghosh, S. S. (2026). Context modulates brain state dynamics and behavioral responses during narrative comprehension. *Imaging Neuroscience*, *4*, IMAG.a.1116. [`DOI`](https://doi.org/10.1162/IMAG.a.1116) [`PDF`](https://snastase.github.io/files/Chen_ImagNeurosci_2026.pdf)
 
@@ -105,8 +105,6 @@ Xie, E., Liu, M., Li, K., **Nastase, S. A.**, Gao, X., & Li, X. (2023). The sing
 Zadbood, A., **Nastase, S. A.**, Chen, J., Norman, K. A., & Hasson, U. (2022). Neural representations of naturalistic events are updated as our understanding of the past changes. *eLife*, *11*, e79045. [`DOI`](https://doi.org/10.7554/eLife.79045) [`PDF`](https://snastase.github.io/files/Zadbood_eLife_2022.pdf)
 
 Chang, C. H. C., **Nastase, S. A.**, & Hasson, U. (2022). Information flow across the cortical timescales hierarchy during narrative construction. *Proceedings of the National Academy of Sciences of the United States of America*, *119*(51), e2209307119. [`DOI`](https://doi.org/10.1073/pnas.2209307119) [`PDF`](https://snastase.github.io/files/Chang_PNAS_2022.pdf)
-
-Goldstein, A.\*, Ham, E.\*, **Nastase, S. A.**, Zada, Z., Dabush, A., Aubrey, B., Schain, M., Gazula, H., Feder, A., Doyle, W., Devore, S., Dugan, P., Friedman, D., Brenner, M., Hassidim, A., Devinsky, O., Flinker, A., Levy, O., & Hasson, U. (2022). Correspondence between the layered structure of deep language models and temporal structure of natural language processing in the human brain. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2022.07.11.499562) [`PDF`](https://snastase.github.io/files/GoldsteinHam_bioRxiv_2022.pdf)
 
 Goldstein, A., **Nastase, S. A.**\*, Zada, Z.\*, Buchnik, E.\*, Schain, M.\*, Price, A.\*, Aubrey, B.\*, Feder, A.\*, Emanual D.\*, Cohen, A.\*, Jensen, A.\*, Gazula, H., Choe, G., Rao, A., Kim, C., Casto, C., Lora, F., Flinker, A., Devore, S., Doyle, W., Dugan, P., Friedman, D., Hassidim, A., Brenner, M., Matias, Y., Norman, K. A., Devinsky, O., & Hasson, U. (2022). Shared computational principles for language processing in humans and deep language models. *Nature Neuroscience*, *25*, 369–380. [`DOI`](https://doi.org/10.1038/s41593-022-01026-4) [`PDF`](https://snastase.github.io/files/Goldstein_NatNeurosci_2022.pdf)
 
