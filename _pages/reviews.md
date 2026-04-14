@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### April 14, 2026 &mdash; Open review of Tepfer & Thornton: [`review`](https://snastase.github.io/reviews/2026-04-14-tepfer.html) [`PubPeer`](https://pubpeer.com/publications/012BDF8B0F3B199057FAAD343EB18D#1)
+Tepfer, L., & Thornton, M. (2026). Access to others’ internal monologues aligns neural processing of narratives and trait impressions. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/7v9md_v1)
+
+---
+
 ### March 7, 2026 &mdash; Open review of Chen, Raccah and colleagues: [`review`](https://snastase.github.io/reviews/2026-03-07-chen.html) [`PubPeer`](https://pubpeer.com/publications/3F701F08217752A877E74A04BA6F09#1)
 Chen, P.\*, Raccah, O.\*, Vo, V., Poeppel, D., & Gureckis, T. Distinct paths to false memory revealed in hundreds of narrative recalls. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/sfqea_v2)
 
