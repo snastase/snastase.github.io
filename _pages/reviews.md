@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### April 21, 2026 &mdash; Open review of Singh, Antonello and colleagues: [`review`](https://snastase.github.io/reviews/2026-04-21-singh.html) [`PubPeer`](https://pubpeer.com/publications/B87A31240255DDC5DF1F33A2A7EF01#1)
+Singh, C.\*, Antonello, R. J.\*, Guo, S., Mischler, G., Gao, J., Mesgarani, N., & Huth, A. G. (2025). Evaluating scientific theories as predictive models in language neuroscience. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.08.12.669958)
+
+---
+
 ### April 14, 2026 &mdash; Open review of Tepfer & Thornton: [`review`](https://snastase.github.io/reviews/2026-04-14-tepfer.html) [`PubPeer`](https://pubpeer.com/publications/012BDF8B0F3B199057FAAD343EB18D#1)
 Tepfer, L., & Thornton, M. (2026). Access to others’ internal monologues aligns neural processing of narratives and trait impressions. *PsyArXiv*. [`DOI`](https://doi.org/10.31234/osf.io/7v9md_v1)
 
