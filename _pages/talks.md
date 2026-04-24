@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.** (2026, April). *Unifying the structures of language in a neural population code*. Invited talk at the Chen Institute symposium on Neuroscience and AI in Sensation and Motivation, Los Angeles, CA. [`slides`](https://docs.google.com/presentation/d/1Ys254cuP5eWXMWKqakuBv_a1f3Y5cO3XD716KSeFrIE/edit?usp=sharing)
+
 **Nastase, S. A.** (2026, February). *Unifying the structures of language in a neural population code*. Invited talk at the Brain Research Institute at the University of California, Los Angeles, CA. [`slides`](https://docs.google.com/presentation/d/1YpgfQU_efzbyA4_oMcNyc6iZWv3286UW-C8XEedRkj0/edit?usp=sharing)
 
 **Nastase, S. A.** (2026, February). *Unifying the structures of language in a neural population code*. Invited talk in the Otolaryngology and Hearing & Communication Neuroscience Seminar Series at the University of Southern California, Los Angeles, CA. [`slides`](https://docs.google.com/presentation/d/18DbJhMBqUoCwoTtTbVrHynthG2BXfsDN-rRnmm_OGBc/edit?usp=sharing)
@@ -116,6 +118,10 @@ Zada, Z., **Nastase, S. A.**, Li, J., & Hasson, U. (2025, November). *Brains and
 Wang, H., Goldstein, A., Jalon, I., Zada, Z., Aubrey, B., Niekerken, L., Doyle, W. K., Friedman, D., Devore, S., Devinsky, O., Flinker, A., Goldstein, A. Y., **Nastase, S. A.**, & Hasson, U. (2025, November). *Unified speech-to-text-to-speech brain encoding model of naturalistic conversations*. Poster presented at the annual meeting of the Society for Neuroscience, San Diego, CA.
 
 **Nastase, S. A.** (2025, October). *Modeling the linguistic structure of brain-to-brain coupling in natural conversations*. Talk presented at the annual meeting of the Academy of Aphasia, San Diego, CA. [`slides`](https://docs.google.com/presentation/d/1PsacVcJ8hvNU8jaRG8QsZCJgpQrF9ZAVHeQU7lavlzc/edit?usp=sharing)
+
+Zada, Z., **Nastase, S. A.**, Li, J., & Hasson, U. (2025, September). *Brains and language models converge on a shared conceptual space across different languages*. Poster presented at the annual meeting of the Society for the Neurobiology of Language, Washington, DC.
+
+Peng, Y., **Nastase, S. A.**, Li, Y., Huang, Y., & Li, P. (2025, September). *Neural signatures of non-native video learning: proficiency-specific strategies revealed by neural coupling and encoding*. Poster presented at the annual meeting of the Society for the Neurobiology of Language, Washington, DC.
 
 Christian, I. R. & **Nastase, S. A.** (2025, August). *Hierarchical systems in the default mode network when reasoning about self and other mental states*. Talk presented at the annual conference on Cognitive Computational Neuroscience, Amsterdam, the Netherlands.
 
