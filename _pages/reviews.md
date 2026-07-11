@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### July 11, 2026 &mdash; Open review of Yan and colleagues: [`review`](https://snastase.github.io/reviews/2026-07-11-yan.html) [`PubPeer`](https://pubpeer.com/publications/8DA4B0AA40D8625B196C1014E32ED3#1)
+Yan, X., Li, J. A., Franch, M., Zhu, H., Cowan, R., Belanger, J., ... & Sheth, S. A. (2026). Polysemanticity in human hippocampal neurons. *bioRxiv*. [`DOI`](https://doi.org/10.64898/2026.05.02.722435)
+
+---
+
 ### April 21, 2026 &mdash; Open review of Singh, Antonello and colleagues: [`review`](https://snastase.github.io/reviews/2026-04-21-singh.html) [`PubPeer`](https://pubpeer.com/publications/B87A31240255DDC5DF1F33A2A7EF01#1)
 Singh, C.\*, Antonello, R. J.\*, Guo, S., Mischler, G., Gao, J., Mesgarani, N., & Huth, A. G. (2025). Evaluating scientific theories as predictive models in language neuroscience. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.08.12.669958)
 
