@@ -16,7 +16,7 @@ PSYC 499<br>
 University of Southern California, Fall 2026<br>
 **Time:** M/W 2:00–3:50 pm<br>
 **Location:** KAP 165<br>
-**Office Hours:** W 4:00–4:00 pm in SGM 1016<br>
+**Office Hours:** W 4:00–6:00 pm in SGM 1016<br>
 **Instructor:** Sam Nastase ([snastase@usc.edu](snastase@usc.edu))<br>
 **Syllabus:** [`Syllabus`](https://docs.google.com/document/d/1blRft9i4kkglKTT3_W-eoEhpjHoNf2cJlI0AO9hNvJ0/edit?usp=sharing)<br>
 **GitHub:** [`GitHub`](https://github.com/snastase/psyc499)<br>
@@ -90,21 +90,27 @@ Neuromatch computational neuroscience tutorials: [`Neuromatch`](https://compneur
 
 Neurohackademy summer school lecture archive: [`Neurohackademy`](https://neurohackademy.org/archive/)
 
-“Introduction to Linear Algebra” textbook materials available online at Gilbert Strang’s website: [`website`](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)
+“Introduction to Linear Algebra” textbook materials available online at Gilbert Strang’s website: [`website`](https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html)<br>
 — Strang, G. (2023). *Introduction to Linear Algebra (6th ed.)*. Wellesley-Cambridge Press.
 
-"Parallel Distributed Processing" (PDP) book chapters available at Jay McClelland's website: [`website`](https://stanford.edu/~jlmcc/papers/PDP/)
+"Parallel Distributed Processing" (PDP) book chapters available at Jay McClelland's website: [`website`](https://stanford.edu/~jlmcc/papers/PDP/)<br>
 — Rumelhart, D. E., McClelland, J. L., & the PDP Research Group. (1986). *Parallel Distributed Processing: Explorations in the Microstructure of Cognition, Volume 1: Foundations*. MIT Press.
 
-“The Elements of Statistical Learning” textbook available online at Trevor Hastie’s website: [`website`](https://hastie.su.domains/ElemStatLearn/) [`PDF`](https://hastie.su.domains/Papers/ESLII.pdf)
+“The Elements of Statistical Learning” textbook available online at Trevor Hastie’s website: [`website`](https://hastie.su.domains/ElemStatLearn/) [`PDF`](https://hastie.su.domains/Papers/ESLII.pdf)<br>
 — Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd ed.)*. Springer.
 
-“Statistical Thinking for the 21st Century” online book by Russ Poldrack: [`website`](https://statsthinking21.org/)
+“Statistical Thinking for the 21st Century” online book by Russ Poldrack: [`website`](https://statsthinking21.org/)<br>
 — Poldrack, R. A. (2023). *Statistical Thinking: Analyzing Data in an Uncertain World*. Princeton University Press.
 
-“Neuroimaging and Data Science” online book and interactive tutorials: [`website`](https://neuroimaging-data-science.org/)
+“Neuroimaging and Data Science” online book and interactive tutorials: [`website`](https://neuroimaging-data-science.org/)<br>
 — Rokem, A., & Yarkoni, T. (2023). *Data Science for Neuroimaging: An Introduction*. Princeton University Press.
 
-“Experimentology“ online book by Michael C. Frank and colleagues: [`website`](https://experimentology.io/)
+“Experimentology“ online book by Michael C. Frank and colleagues: [`website`](https://experimentology.io/)<br>
 — Frank, M. C., Braginsky, M., Cachia, J., Coles, N. A., & Hardwicke, T. E. (2025). *Experimentology: An Open Science Approach to Experimental Psychology Methods*. MIT Press.
+
+“Theoretical Neuroscience” book by Peter Dayan and Larry Abbott: [`PDF`](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf)<br>
+— Dayan, P., & Abbott, L. F. (2001). *Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems*. MIT Press.
+
+“Computational Foundations of Cognitive Neuroscience” online book by Sam Gershman: [`website`](https://gershmanlab.com/textbook.html)<br>
+— Gershman, S. J. (2025). *Computational Foundations of Cognitive Neuroscience*.
 
