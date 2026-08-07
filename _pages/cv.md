@@ -8,38 +8,35 @@ redirect_from:
 ---
 {% include base_path %}
 
-Assistant Professor<br>
-Department of Psychology<br>
-University of Southern California<br>
-Los Angeles, CA
+## Appointments
+---
+**Assistant Professor**, Department of Psychology  2025&ndash;present<br>
+Faculty, Neuroscience Graduate Program<br>
+Co-director, Center for Computational Language Sciences<br>
+University of Southern California
+
+**Postdoctoral Research Associate** and **Lecturer**  2018&ndash;2025<br>
+Princeton Neuroscience Institute<br>
+Princeton University (advisors: Uri Hasson, Kenneth A. Norman)
 
 ## Education 
 ---
-**PhD&mdash;Cognitive Neuroscience**  December, 2017<br>
-**Dartmouth College** (advisor: James V. Haxby)
+**PhD&mdash;Cognitive Neuroscience**  2012&ndash;2017<br>
+Dartmouth College (advisor: James V. Haxby)
 
-**MSc&mdash;Cognitive Neuroscience**  July, 2012<br>
-**University of Trento** (advisor: Uri Hasson)
+**MSc&mdash;Cognitive Neuroscience**  2010&ndash;2012<br>
+University of Trento (advisor: Uri Hasson)
 
-**BA&mdash;Cognitive Science, Philosophy**  May, 2010<br>
-**Johns Hopkins University** (advisor: Michael McCloskey)
+**BA&mdash;Cognitive Science, Philosophy**  2006&ndash;2010<br>
+Johns Hopkins University (advisor: Michael McCloskey)
 
-## Employment
+## Funding
 ---
-**Assistant Professor of Psychology**  2025&ndash;present<br>
-**University of Southern California**
+**NSF CRCNS 2605721** (PI: S.A.N.)  2026&ndash;present<br>
+Generative models of neural activity driving conversational speech in longitudinal dialogues
 
-**Associate Research Scholar**  2023&ndash;2025<br>
-**Princeton University**
-
-**Lecturer**  2021&ndash;2025<br>
-**Princeton University**
-
-**Postdoctoral Research Associate**  2018&ndash;2022<br>
-**Princeton University** (advisors: Uri Hasson, Kenneth A. Norman)
-
-**Student Intern**  June&ndash;August, 2016<br>
-**Siemens Healthcare** (advisor: Francisco Pereira)
+**Digital Brain Project** (PI: S.A.N.)  2026&ndash;present<br>
+Possible Worlds: an fMRI dataset of interactive social-narrative gameplay
 
 ## Publications
 ---
@@ -47,6 +44,8 @@ Los Angeles, CA
 Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & **Nastase, S. A.**\* (2026). Aligning brains into a shared space improves their alignment to large language models. *Nature Computational Science*, *6*, 169–178. [`DOI`](https://doi.org/10.1038/s43588-025-00900-y) [`PDF`](https://snastase.github.io/files/Bhattacharjee_NCS_2026.pdf)
 
 Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2026). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *Neuron*, *114*(4), 774–787. [`DOI`](https://doi.org/10.1016/j.neuron.2025.11.004) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2026.pdf)
+
+Christian, I. R., & **Nastase, S. A.** (2026). Hierarchical systems in the default mode network when reasoning about self and other mental states. *Social Cognitive and Affective Neuroscience*, *21*(1), nsag047. [`DOI`](https://doi.org/10.1093/scan/nsag047) [`PDF`](https://snastase.github.io/files/Christian_SCAN_2026.pdf)
 
 Chen, Y., Zada, Z., **Nastase, S. A.**, Ashby, F. G., & Ghosh, S. S. (2026). Context modulates brain state dynamics and behavioral responses during narrative comprehension. *Imaging Neuroscience*, *4*, IMAG.a.1116. [`DOI`](https://doi.org/10.1162/IMAG.a.1116) [`PDF`](https://snastase.github.io/files/Chen_ImagNeurosci_2026.pdf)
 
@@ -267,6 +266,9 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 
 ## Open data
 ---
+**OpenNeuro ds005574**<br>
+Zada, Z., **Nastase, S. A.**, Aubrey, B., Jalon, I., Michelmann, S., Wang, H., Hasenfratz, L., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Goldstein, A., & Hasson, U. (2025). The “Podcast” ECoG dataset for modeling neural activity during natural story listening. [`DOI`](https://doi.org/10.18112/openneuro.ds005574.v1.0.2)
+
 **OpenNeuro ds002345**<br>
 **Nastase, S. A.**, Liu, Y.-F., Hillman, H., Zadbood, A., Hasenfratz, L., Keshavarzian, N., Chen, J., Honey, C. J., Yeshurun, Y., Regev, M., Nguyen, M., Chang, C. H. C., Baldassano, C. B., Lositsky, O., Simony, E., Chow, M. A., Leong, Y. C., Brooks, P. P., Micciche, E., Choe, G., Goldstein, A., Halchenko, Y. O., Norman, K. A., & Hasson, U. Narratives: fMRI data for evaluating models of naturalistic language comprehension. [`DOI`](https://doi.org/10.18112/openneuro.ds002345.v1.0.1)
 
@@ -289,48 +291,27 @@ Brooks, P. P., McDevitt, E. A., Mennen, A. C., Visconti di Oleggio Castello, M.,
 
 ## Teaching
 ---
-**Instructor&mdash;Computational Language Neuroscience**  Spring, 2026–present<br>
+**Instructor&mdash;Neural and Cognitive Data Science**  2026–present<br>
+University of Southern California [`website`](https://snastase.github.io/teaching/psyc499)
+
+**Instructor&mdash;Computational Language Neuroscience**  2026–present<br>
 University of Southern California  [`website`](https://snastase.github.io/teaching/psyc599)
 
-**Instructor&mdash;Neuroscience Honors Seminar and Honors Thesis**  Fall, 2025–present<br>
+**Instructor&mdash;Neuroscience Honors Seminar and Honors Thesis**  2025–2026<br>
 University of Southern California
 
-**Lecturer&mdash;Cognitive Computational Neuroscience**  Spring, 2021–2025<br>
+**Lecturer&mdash;Cognitive Computational Neuroscience**  2021–2025<br>
 Princeton University (co-lecturers: Jonathan Cohen, Leigh Nystrom)  [`website`](http://snastase.github.io/teaching/neu502b)
 
-**Lecturer&mdash;Mathematical Tools for Neuroscience**  Fall, 2022<br>
+**Lecturer&mdash;Mathematical Tools for Neuroscience**  2022<br>
 Princeton University  [`website`](https://snastase.github.io/teaching/neu314)
 
-**Teaching assistant&mdash;Systems Neuroscience with Lab**  Fall, 2015<br>
-Dartmouth College (instructors: Jeffrey Taube, Matthijs van der Meer)
-
-**Teaching assistant&mdash;Brain Mapping with fMRI**  Winter, 2015<br>
-Dartmouth College (instructor: Won Mok Shim)
-
-**Teaching assistant&mdash;Lab in Psychological Science**  Spring, 2014<br>
-Dartmouth College (instructor: Jonathan Freeman)
-
-**Teaching assistant&mdash;Introduction to Neuroscience**   Fall, 2013<br>
-Dartmouth College (instructor: Catherine Cramer)
-
-**Teaching fellow&mdash;Art, Mind & Brain**  Summer, 2013<br>
-Harvard University (instructors: David Melcher, Francesca Bacci)
-
-**Teaching fellow&mdash;Windows into the Structure of Mind & Brain**  Summer, 2011&ndash;2012<br>
-Harvard University (instructors: Alfonso Caramazza, John Assad)
-
-**Teaching fellow&mdash;Cutting Edge Neuroscience in Film & Television**  Summer, 2012<br>
-Harvard University (instructor: George Alvarez)
-
-**Teaching fellow&mdash;Hormones, Brain & Behavior**  Summer, 2011<br>
-Harvard University (instructor: Marc Tetel)
-
-## Funding and awards
+## Past funding and awards
 ---
-**CRCNS R01-DC022534** (PI: Uri Hasson)  2024–2025<br>
+**NIH CRCNS R01-DC022534** (PI: Uri Hasson)  2024–2025<br>
 Building and testing computational models of the neural basis of natural communication
 
-**Neurobiology of Language Workshop Travel Award**  May, 2024<br>
+**Neurobiology of Language Workshop Travel Award**  2024<br>
 National Science Foundation, MIT Press
 
 **NIH DP1-HD091948** (PI: Uri Hasson)  2023–2024<br>
@@ -346,37 +327,42 @@ International Neuroinformatics Coordinating Facility (INCF)
 **DARPA FA8750-18-C-0213** (PI: Mohamed Amer)  2018<br>
 Brain-to-brain coupling using temporal representation learning
 
-**OHBM Merit Abstract Award**  May, 2015<br>
+**OHBM Merit Abstract Award**  2015<br>
 Organization for Human Brain Mapping
 
-**Neukom Travel Grant**  May, 2015<br>
+**Neukom Travel Grant**  2015<br>
 The William H. Neukom Institute for Computational Science
 
-**Marie A. Center 1982 Graduate Award for Excellence in Teaching**  June, 2014<br>
+**Marie A. Center 1982 Graduate Award for Excellence in Teaching**  2014<br>
 Department of Psychological & Brain Sciences, Dartmouth College
 
-**Student Council Conference Travel Grant**  April, 2014<br>
+**Student Council Conference Travel Grant**  2014<br>
 Graduate Student Council, Dartmouth College
 
-**Graduate Travel Award**  April, 2014<br>
+**Graduate Travel Award**  2014<br>
 Dartmouth Graduate Studies, Dartmouth College
 
-**OHBM Trainee Abstract Travel Award**  March, 2014<br>
+**OHBM Trainee Abstract Travel Award**  2014<br>
 Organization for Human Brain Mapping
 
-**Merit Award**  December, 2012<br>
+**Merit Award**  2012<br>
 Psychology & Cognitive Sciences Department, University of Trento
 
 ## Community
 ---
 **Peer review:** *Acta Psychologica*, *Behavior Research Methods*, *Brain and Cognition*, *Brain and Language*, *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Computers in Human Behavior*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *Current Biology*, *eLife*, *European Journal of Neuroscience*, *European Research Council*, *Frontiers in Neuroscience*, *German Research Foundation*, *Human Brain Mapping*, *IEEE Transactions on Medical Imaging*, *Imaging Neuroscience*, *Journal of Cognitive Neuroscience*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Computational Science*, *Nature Human Behaviour*, *Nature Machine Intelligence*, *Nature Neuroscience*, *Nature Reviews Neuroscience*, *NeuroImage*, *NeuroImage: Reports*, *Neuron*, *Neuropsychologia*, *Neuroscience & Biobehavioral Reviews*, *Organization for Human Brain Mapping*, *PLOS Biology*, *PLOS Computational Biology*, *PLOS One*, *Princeton University Press*, *Proceedings of the National Academy of Sciences of the United States of America*, *Psychological Review*, *Psychophysiology*, *Royal Society Open Science*, *Science*, *Science Advances*, *Science Bulletin*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Cognitive Sciences*, *Trends in Neurosciences*, *UK Research and Innovation*
 
-**Action editor:** *Cognitive Science Society*, *Proceedings of the National Academy of Sciences of the United States of America*
+**Editor:** *Cognitive Science Society*, *Proceedings of the National Academy of Sciences of the United States of America*
 
-**Society membership:** Organization for Human Brain Mapping (OHBM), Society for Neuroscience (SfN), Society for the Neurobiology of Language (SNL), Computational Cognitive Neuroscience (CCN), Vision Sciences Society (VSS), Cognitive Neuroscience Society (CNS)
+**Conferences** Cognitive Computational Neuroscience (CCN), Organization for Human Brain Mapping (OHBM), Society for Neuroscience (SfN), Society for the Neurobiology of Language (SNL) 
 
 **Mentorship**<br>
+EuiYoung Kim, graduate student, Shared Minds Lab, University of Southern California<br>
+Sajjad Torabian, postdoctoral scholar, Shared Minds Lab, University of Southern California<br>
+Landi Jiang, undergraduate student, Shared Minds Lab, University of Southern California<br>
+April Luo, graduate student, Read Lab, University of Southern California<br>
 Ahmad Samara, graduate student, Vanderwal Lab, University of British Columbia<br>
+Arnab Bhattacharjee, graduate student, Hasson Lab, Princeton University<br>
 Yibei Chen, graduate student, Media Neuroscience Lab, UC Santa Barbara<br>
 Isaac Christian, graduate student, Graziano Lab, Princeton University<br>
 Yingying Peng, graduate student, Li Lab, Hong Kong Polytechnic University<br>
@@ -395,9 +381,10 @@ Anne Mennen, graduate student, Norman Lab, Princeton University<br>
 Anqi Wu, graduate student, Pillow Lab, Princeton University<br>
 Cara E. Van Uden, undergraduate research assistant, Haxby Lab, Dartmouth College<br>
 Rebecca E. Philip, undergraduate research assistant, Gobbini Lab, Dartmouth College<br>
-Anwesh Dash, undergraduate honors thesis, Gobbini Lab, Dartmouth College<br>
 
 **Collaborations**<br>
+Prof. Dani Byrd, Department of Linguistics, University of Southern California<br>
+Prof. Shrikanth Narayanan, Department of Electrical and Computer Engineering, University of Southern California<br>
 Prof. M. Ida Gobbini, Department of Medical and Surgical Sciences, University of Bologna<br>
 Prof. Ping Li, Department of Chinese and Bilingual Studies, Hong Kong Polytechnic University<br>
 Prof. Tamara Vanderwal, Department of Psychiatry, University of British Columbia<br>
@@ -411,25 +398,25 @@ Center for Computational Language Sciences at USC&mdash;co-director (2025–pres
 Neuroscience Graduate Program (NGP) at USC&mdash;faculty (2025–present)<br>
 Journal of Neuroscience Journal Club&mdash;mentor (2025)<br>
 Cognitive Computational Neuroscience Proceedings Track&mdash;area chair (2025)<br>
-OHBM Naturalistic Neuroimaging Workgroup&mdash;contributor (June, 2024–present)<br>
-NSF Cognitive Neuroscience FY 2024 Review Panel&mdash;panelist (May, 2024)<br>
+OHBM Naturalistic Neuroimaging Workgroup&mdash;contributor (2024–present)<br>
+NSF Cognitive Neuroscience FY 2024 Review Panel&mdash;panelist (2024)<br>
 Princeton University Responsible Conduct of Research Guide&mdash;contributor (2023)<br>
-Brainhack Princeton 2020, Princeton University&mdash;organizer (December, 2020)<br>
+Brainhack Princeton 2020, Princeton University&mdash;organizer (2020)<br>
 Neuroimaging Analysis Methods (NIAM) seminar series, Princeton University&mdash;organizer (2019–2020)<br>
-Brainhack Princeton 2019, Princeton University&mdash;organizer (November, 2019)<br>
-Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (August, 2019)<br>
-Neurohackademy, University of Washington&mdash;attendee (July, 2019)<br>
-Kavli Summer Institute in Cognitive Neuroscience&mdash;attendee (June, 2019)<br>
-OHBM Brainhack 2019, Rome&mdash;attendee (June, 2019)<br>
+Brainhack Princeton 2019, Princeton University&mdash;organizer (2019)<br>
+Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (2019)<br>
+Neurohackademy, University of Washington&mdash;attendee (2019)<br>
+Kavli Summer Institute in Cognitive Neuroscience&mdash;attendee (2019)<br>
+OHBM Brainhack 2019, Rome&mdash;attendee (2019)<br>
 Pygers Reproducible Neuroimaging support group&mdash;organizer (2018—2022)<br>
-OHBM Brainhack 2018, Singapore&mdash;attendee (June, 2018)<br>
-Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (August, 2017)<br>
-Brainhack Dartmouth 2017, Dartmouth College&mdash;organizer (March, 2017)<br>
-Brainhack LA 2016, UCLA&mdash;attendee (November, 2016)<br>
-Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (August, 2016)<br>
-AFNI Boot Camp, Dartmouth College&mdash;organizer (September, 2016)<br>
-Professional Ethics Program, Dartmouth College&mdash;instructor (September, 2014)<br>
-AFNI Boot Camp, Dartmouth College&mdash;organizer (September, 2014)<br>
+OHBM Brainhack 2018, Singapore&mdash;attendee (2018)<br>
+Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (2017)<br>
+Brainhack Dartmouth 2017, Dartmouth College&mdash;organizer (2017)<br>
+Brainhack LA 2016, UCLA&mdash;attendee (2016)<br>
+Dartmouth CCN Workshop, Dartmouth College&mdash;organizer (2016)<br>
+AFNI Boot Camp, Dartmouth College&mdash;organizer (2016)<br>
+Professional Ethics Program, Dartmouth College&mdash;instructor (2014)<br>
+AFNI Boot Camp, Dartmouth College&mdash;organizer (2014)<br>
 Cognitive Brown Bag symposium series, Dartmouth College&mdash;organizer (2014–2016)<br>
 fMRI Brown Bag symposium series, Dartmouth College&mdash;organizer (2013–2017)<br>
 

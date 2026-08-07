@@ -111,6 +111,14 @@ Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., &
 ---
 ## Conference presentations
 
+Bhattacharjee, A., Aubrey, B., Doyle, W. K., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P., Hasson, U., & **Nastase, S. A.** (2026, August). *Pooling across brains: encoding models for low-data ECoG with embedding SRM*. Poster presented at the annual conference on Cognitive Computational Neuroscience, New York, NY.
+
+Wang, H., Jalon, I., **Nastase, S. A.**, Goldstein, A., Zada, Z., Aubrey, B., Devinsky, O., Flinker, A., & Hasson, U. (2026, August). *A unified speech-to-text-to-speech encoding model for natural conversations*. Poster presented at the annual conference on Cognitive Computational Neuroscience, New York, NY.
+
+Jalon, I., Peeper, G., Wang, H., Zada, Z., Aubrey, B., Bhattacharjee, A., **Nastase, S. A.**, Goldstein, A., Devinsky, O., Flinker, A., & Hasson, U. (2026, August). *Prospective planning and retrospective integration: distinct neural signatures of future and past in naturalistic conversations*. Poster presented at the annual conference on Cognitive Computational Neuroscience, New York, NY.
+
+Feilong, M., Zhang, Y., Jung, H., Huckins, J. F., **Nastase, S. A.**, Visconti di Oleggio Castello, M., Wager, T. D., Gobbini, M. I., & Haxby, J. V. (2026, August). *HyperBrain-Sparta: a functional template for the human brain*. Poster presented at the annual conference on Cognitive Computational Neuroscience, New York, NY.
+
 Bhattacharjee, A., Aubrey, B., Doyle, W. K., Devore, S., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P., Hasson, U., & **Nastase, S. A.** (2025, November). *Aligning individual brains across different contexts via a model-based embedding space*. Poster presented at the annual meeting of the Society for Neuroscience, San Diego, CA.
 
 Zada, Z., **Nastase, S. A.**, Li, J., & Hasson, U. (2025, November). *Brains and language models converge on a shared conceptual space across different languages*. Poster presented at the annual meeting of the Society for Neuroscience, San Diego, CA.
