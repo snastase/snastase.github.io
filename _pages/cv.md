@@ -167,103 +167,6 @@ Connolly, A. C., Sha, L., Guntupalli, J. S., Oosterhof, N. N., Halchenko, Y. O.,
 
 **Nastase, S. A.**, Iacovella, V. and Hasson, U. (2014). Uncertainty in visual and auditory series is coded by modality-general and modality-specific neural systems. *Human Brain Mapping*, *35*(4), 1111–1128. [`DOI`](https://doi.org/10.1002/hbm.22238) [`PDF`](https://snastase.github.io/files/Nastase_HumBrainMapp_2014.pdf)
 
-## Invited talks
----
-
-**Nastase, S. A.** (2026, February). *Unifying the structures of language in a neural population code*. Invited talk at the Brain Research Institute at the University of California, Los Angeles, CA.
-
-**Nastase, S. A.** (2026, February). *Unifying the structures of language in a neural population code*. Invited talk in the Otolaryngology and Hearing & Communication Neuroscience Seminar Series at the University of Southern California, Los Angeles, CA.
-
-**Nastase, S. A.** (2025, November). *Unifying the structures of language in a neural population code*. Invited talk in the Machine Learning Seminar Series at the Albert Einstein College of Medicine, New York City, NY.
-
-**Nastase, S. A.** (2025, November). *Shared language in minds and machines*. Invited talk at the inaugural AI Summit at the University of Southern California, Los Angeles, CA.
-
-**Nastase, S. A.** (2025, October). *Unifying the structures of language in a neural population code*. Invited talk at the Department of Psychology at University of California, Riverside, CA.
-
-**Nastase, S. A.** (2025, September). *Cortical language areas are coupled via a soft hierarchy of model-based linguistic features*. Invited talk at the LLMs and the Brain workshop at Rice University, Houston, TX.
-
-**Nastase, S. A.** (2025, September). *Unifying the structures of language in a neural population code*. Keynote talk at the online Cognition and Natural Sensory Processing Initiative (CNSP) Workshop.
-
-**Nastase, S. A.** (2025, June). *Unifying the structures of language in a neural population code*. Invited talk at the Department of Psychological & Brain Sciences at Johns Hopkins University, Baltimore, MD.
-
-**Nastase, S. A.** (2025, March). *Making your data open “by design”*. Invited talk for the Sharing Science: Data Management Best Practices webinar panel, Society for Neuroscience.
-
-**Nastase, S. A.** (2025, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Clinical Cognitive Computational Neuroscience Center with the York State Psychiatric Institute and Columbia University, New York, NY.
-
-**Nastase, S. A.** (2025, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at Rutgers University, Newark, NJ.
-
-**Nastase, S. A.** (2025, January). *Models that "do" and models that don't*. Invited talk at the Department of Brain and Cognitive Sciences, University of Rochester, Rochester, NY.
-
-**Nastase, S. A.** (2024, December). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Southern California, Los Angeles, CA.
-
-**Nastase, S. A.** (2024, December). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Maryland, College Park, MD.
-
-**Nastase, S. A.**, & Zada, Z. (2024, May). *Language as a vehicle for interactively navigating a shared meaning space*. Invited talk and panel at the Neurobiology of Language Workshop at the Massachusetts Institute of Technology, Cambridge, MA.
-
-**Nastase, S. A.** (2024, March). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the University of Trento, Italy.
-
-**Nastase, S. A.** (2024, February). *Emergent brain-to-brain coupling and coordinated behavior in an artificial gameplay ecosystem*. Invited talk at the Google DeepMind NeuroLab Workshop, London, UK.
-
-**Nastase, S. A.** (2024, February). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Brain and Cognitive Sciences at the University of Rochester, Rochester, NY.
-
-**Nastase, S. A.** (2024, January). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of California, San Diego, CA.
-
-**Nastase, S. A.** (2023, August). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at Fudan University, Shanghai, China.
-
-**Nastase, S. A.**, Zaid Zada, & Hasson, U. (2023, August). *Predicting brain activity from word embeddings during natural language comprehension*. Invited workshop at Jiangsu Normal University, Xuzhou, China.
-
-**Nastase, S. A.** (2023, August). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at Jiangsu Normal University, Xuzhou, China.
-
-**Nastase, S. A.** (2023, August). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Roundtable on ChatGPT and Large Language Models: Linguistic, Cognitive, and Humanistic Perspectives, Hong Kong Polytechnic University, Hong Kong.
-
-**Nastase, S. A.** (2023, March). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited talk at the Department of Psychology at the University of Pennsylvania, Philadelphia, PA.
-
-**Nastase, S. A.** (2022, December). *Putting peer review in the public record*. Invited talk at the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB) "MRI Together" workshop.
-
-**Nastase, S. A.**. (2022, October). *Learning a shared linguistic space for transmitting our thoughts to others*. Invited colloquium for the Cognitive Science program at Indiana University, Bloomington, IN.
-
-Bijsterboch, J., Bayrak, R. G., White, T., **Nastase, S. A.**, Ramanaa, P. R., & Vazire, S. (2022, June). *Open Science Room Panel: Open Publishing*. Invited panel discussion at the annual meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
-
-**Nastase, S. A.** (2022, March). *Ecological insights into the neural machinery for communication and cooperation*. Invited talk at the Music Cognition Lab at Princeton University, Princeton, NJ.
-
-**Nastase, S. A.** (2022, February). *Speaker–listener neural coupling underlies successful communication*. Invited talk at the Columbia Narrative Medicine Program, New York, NY.
-
-**Nastase, S. A.** (2021, November). *Ecological perspectives on the neural machinery for communication and cooperation*. Invited talk at the Institute for Research in Fundamental Sciences (IPM), Tehran, Iran.
-
-**Nastase, S. A.** (2021, August). *Ecological perspectives on the neural machinery for communication and cooperation*. Invited talk at University of Western Ontario, London, ON, Canada.
-
-**Nastase, S. A.** (2021, April). *Developing a community resource for natural language neuroimaging*. Invited talk at University of Michigan, Ann Arbor, MI.
-
-**Nastase, S. A.** (2021, March). *The neuroscience of storytelling*. Invited talk at the Council on Science and Technology "Voices of STEM" virtual workshop at Princeton University, Princeton, NJ.
-
-**Nastase, S. A.** (2021, March). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at the Courtois Project on Neuronal Modelling (CNeuromod), Montreal, QC, Canada.
-
-**Nastase, S. A.** (2021, February). *Developing community resources for reproducible neuroimaging*. Invited talk at the Princeton University Library "Research Inside-Out: Shifting the conversation to research-as-process" panel discussion at Princeton University, Princeton, NJ.
-
-**Nastase, S. A.** (2020, December). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at Johns Hopkins University, Baltimore, MD.
-
-**Nastase, S. A.** (2020, November). *Rethinking the primacy of experimental control in cognitive neuroscience*. Invited talk at the Donders Session on "Narratives for Neuroscience" at the Donders Institute for Brain, Cognition and Behaviour, Nijmegen, the Netherlands.
-
-**Nastase, S. A.** (2020, November). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at the Nathan Kline Institute for Psychiatric Research, Orangeburg, NY.
-
-**Nastase, S. A.** (2020, June). *The benefits of BIDS*. Invited talk for the TrainTrack educational series at OHBM Brainhack 2020. 
-
-**Nastase, S. A.** (2020, May). *Direct fit: an ecological perspective on biological and artificial neural networks*. Invited talk at the Neural-AI Reading Group at Mila, Montreal, Canada. 
-
-**Nastase, S. A.** (2020, February). *Scaling up to a more ecological (and reproducible) cognitive neuroscience*. Invited talk at Columbia University, New York, NY. 
-
-**Nastase, S. A.** (2019, August). *Estimating a shared response space across heterogeneous naturalistic story-listening data sets.* Invited talk at the Center for Cognitive Neuroscience workshop on "Semantic processing and semantic knowledge" at Dartmouth College, Hanover, NH.
-
-**Nastase, S. A.** (2019, January). *Expanding on intersubject correlation analysis*. Tutorial workshop for "MURI: A computational cognitive neuroscience approach to understanding event representation and episodic memory", Princeton, NJ.
-
-**Nastase, S. A.** (2017, November). *Aligning fine-grained functional topographies across individuals*. Invited talk at Brainhack DC, Washington, DC.
-
-**Nastase, S. A.** (2017, August) *Primacy of observed action representation during natural vision*. Invited talk at the Center for Cognitive Neuroscience workshop on "Action understanding: from kinematics to mind" at Dartmouth College, Hanover, NH. 
-
-**Nastase, S. A.** & Haxby, J. V. (2016, November). *Constructing a representational atlas for human cerebral cortex*. Invited talk at the Neurocog 2016 workshop at Katholieke Universiteit Leuven, Leuven, Belgium.
-
-**Nastase, S. A.** (2015, June). *Multivariate pattern analysis for neuroscience*. Invited talk at the Dartmouth-Hitchcock Medical Center, Lebanon, NH.
-
 ## Open data
 ---
 **OpenNeuro ds005574**<br>
@@ -350,11 +253,11 @@ Psychology & Cognitive Sciences Department, University of Trento
 
 ## Community
 ---
-**Peer review:** *Acta Psychologica*, *Behavior Research Methods*, *Brain and Cognition*, *Brain and Language*, *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Computers in Human Behavior*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *Current Biology*, *eLife*, *European Journal of Neuroscience*, *European Research Council*, *Frontiers in Neuroscience*, *German Research Foundation*, *Human Brain Mapping*, *IEEE Transactions on Medical Imaging*, *Imaging Neuroscience*, *Journal of Cognitive Neuroscience*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Computational Science*, *Nature Human Behaviour*, *Nature Machine Intelligence*, *Nature Neuroscience*, *Nature Reviews Neuroscience*, *NeuroImage*, *NeuroImage: Reports*, *Neuron*, *Neuropsychologia*, *Neuroscience & Biobehavioral Reviews*, *Organization for Human Brain Mapping*, *PLOS Biology*, *PLOS Computational Biology*, *PLOS One*, *Princeton University Press*, *Proceedings of the National Academy of Sciences of the United States of America*, *Psychological Review*, *Psychophysiology*, *Royal Society Open Science*, *Science*, *Science Advances*, *Science Bulletin*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Cognitive Sciences*, *Trends in Neurosciences*, *UK Research and Innovation*
+**Peer review:** *Acta Psychologica*, *Behavior Research Methods*, *Brain and Cognition*, *Brain and Language*, *Brain Structure and Function*, *Cambridge University Press*, *Canada Foundation for Innovation*, *Cell Press*, *Cerebral Cortex*, *Cognitive Science*, *Cognitive Science Society*, *Communications Biology*, *Computers in Human Behavior*, *Conference on Cognitive Computational Neuroscience*, *Cortex*, *Current Biology*, *eLife*, *European Journal of Neuroscience*, *European Research Council*, *Frontiers in Neuroscience*, *German Research Foundation*, *Human Brain Mapping*, *IEEE Transactions on Medical Imaging*, *Imaging Neuroscience*, *Journal of Cognitive Neuroscience*, *Journal of Experimental Psychology: Human Perception and Performance*, *Journal of Neurophysiology*, *Journal of Neuroscience*, *Journal of Open Source Software*, *Journal of the International Neuropsychological Society*, *Mind, Brain, and Education*, *National Science Foundation*, *Nature*, *Nature Communications*, *Nature Computational Science*, *Nature Human Behaviour*, *Nature Machine Intelligence*, *Nature Neuroscience*, *Nature Reviews Neuroscience*, *NeuroImage*, *NeuroImage: Reports*, *Neuron*, *Neuropsychologia*, *Neuroscience & Biobehavioral Reviews*, *Organization for Human Brain Mapping*, *PLOS Biology*, *PLOS Computational Biology*, *PLOS One*, *Princeton University Press*, *Proceedings of the National Academy of Sciences of the United States of America*, *Psychological Review*, *Psychophysiology*, *Royal Society Open Science*, *Science*, *Science Advances*, *Science Bulletin*, *Scientific Data*, *Scientific Reports*, *Social Cognitive and Affective Neuroscience*, *Social Neuroscience*, *Trends in Cognitive Sciences*, *Trends in Neurosciences*, *UK Research and Innovation*
 
-**Editor:** *Cognitive Science Society*, *Proceedings of the National Academy of Sciences of the United States of America*
+**Editor:** *Proceedings of the National Academy of Sciences of the United States of America*
 
-**Conferences** Cognitive Computational Neuroscience (CCN), Organization for Human Brain Mapping (OHBM), Society for Neuroscience (SfN), Society for the Neurobiology of Language (SNL) 
+**Conferences:** Cognitive Computational Neuroscience (CCN), Organization for Human Brain Mapping (OHBM), Society for Neuroscience (SfN), Society for the Neurobiology of Language (SNL) 
 
 **Mentorship**<br>
 EuiYoung Kim, graduate student, Shared Minds Lab, University of Southern California<br>
