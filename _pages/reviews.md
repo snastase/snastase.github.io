@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### August 11, 2026 &mdash; Open review of Yoon and colleagues: [`review`](https://snastase.github.io/reviews/2026-08-11-yoon.html) [`PubPeer`](https://pubpeer.com/publications/F74D0DCECBFD8B2F5269130485240F#1)
+Yoon, S., Avansino, D. T., Madugula, S., Levin, A. D., Fan, C., Abramovich Krasa, B., ... & Willett, F. R. (2026). Neural decoding of speech using deep neural ensembles. *bioRxiv*. [`DOI`](https://doi.org/10.64898/2026.06.02.729705)
+
+---
+
 ### July 11, 2026 &mdash; Open review of Yan and colleagues: [`review`](https://snastase.github.io/reviews/2026-07-11-yan.html) [`PubPeer`](https://pubpeer.com/publications/8DA4B0AA40D8625B196C1014E32ED3#1)
 Yan, X., Li, J. A., Franch, M., Zhu, H., Cowan, R., Belanger, J., ... & Sheth, S. A. (2026). Polysemanticity in human hippocampal neurons. *bioRxiv*. [`DOI`](https://doi.org/10.64898/2026.05.02.722435)
 
