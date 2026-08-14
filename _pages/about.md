@@ -16,6 +16,10 @@ The core questions driving my research are **"What is shared between individual 
 
 ---
 ### Recent work
-For an example of our recent work, check out this project led by [Zaid Zada](https://zaidzada.com/) now published in *Neuron*: [`link`](https://doi.org/10.1016/j.neuron.2024.06.025). We use embeddings from a large language model to track the flow of linguistic information from one brain to another in face-to-face conversations between pairs of ECoG patients.
+For an overview of some of our recent work, check out this perspective piece recently published in *Neuron*:
 
-<sup>Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (2024). A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations. *Neuron*, *112*(18), 3211–3222. [`DOI`](https://doi.org/10.1016/j.neuron.2024.06.025) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2024.pdf)</sup>
+<blockquote markdown="1">
+<span style="font-style: normal;">
+Nastase, S. A., Zada, Z., Goldberg, A., & Hasson, U. (2026). Unifying the structures of language in a neural population code. *Neuron*. [`DOI`](https://doi.org/10.1016/j.neuron.2026.07.024) [`PDF`](https://snastase.github.io/files/Nastase_Neuron_2026.pdf)
+{: style="font-style: normal;"}
+</blockquote>
