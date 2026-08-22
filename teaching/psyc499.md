@@ -33,9 +33,9 @@ This course introduces students to the mathematical and data scientific tools at
 ### Course schedule
 
 
-| Date    | Topic                                                     | Slides | Optional readings |
-| ------- | --------------------------------------------------------- | ------ | ----------------- |
-| M 8/24  | Introduction to cognitive computational neuroscience      |        | Marr, 1982, *Vision*, Ch. 1, pp. 8–38 [`PDF`](https://github.com/snastase/psyc499/blob/main/readings/Marr_1982.pdf)<br>McClelland et al., 1986, *PDP*, Ch. 1, pp. 3–44 [`PDF`](https://github.com/snastase/psyc499/blob/main/readings/McClelland_1986.pdf) |
+| Date    | Topic                                                     | Materials | Optional readings |
+| ------- | --------------------------------------------------------- | --------- | ----------------- |
+| M 8/24  | Introduction to cognitive computational neuroscience      | [`Lecture 0`](https://docs.google.com/presentation/d/11duRZ6MpjNIklNEnlKO9fO9cLLC2V9ye-qBXkKfkw4o/edit?usp=sharing) [`Homework 0`](https://colab.research.google.com/drive/1i2H5Fp0kuTK8FWiqS0dA62UiM0rBF7Tx?usp=sharing) | Marr, 1982, *Vision*, Ch. 1, pp. 8–38 [`PDF`](https://github.com/snastase/psyc499/blob/main/readings/Marr_1982.pdf)<br>McClelland et al., 1986, *PDP*, Ch. 1, pp. 3–44 [`PDF`](https://github.com/snastase/psyc499/blob/main/readings/McClelland_1986.pdf) |
 | W 8/26  | Introduction to linear algebra                            |        | Jordan, 1986, *PDP*, Ch. 9, pp. 365–373 [`PDF`](https://github.com/snastase/psyc499/blob/main/readings/Jordan_1986.pdf)<br>Simoncelli, *NYU*, 1999 [`PDF`](https://github.com/snastase/psyc499/blob/main/readings/Simoncelli_1999.pdf) |
 | M 8/31  | Linear combination and vector spaces                      |        |                   |
 | W 9/2   | Application: trichromatic vision                          |        |                   |
