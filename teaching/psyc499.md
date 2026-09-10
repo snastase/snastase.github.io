@@ -16,7 +16,7 @@ PSYC 499<br>
 University of Southern California, Fall 2026<br>
 **Time:** M/W 2:00–3:50 pm<br>
 **Location:** KAP 165<br>
-**Office Hours:** W 4:00–6:00 pm in SGM 1016<br>
+**Office Hours:** W 4:00–6:00 pm in HNB 316<br>
 **Instructor:** Sam Nastase ([snastase@usc.edu](snastase@usc.edu))<br>
 **Syllabus:** [`Syllabus`](https://docs.google.com/document/d/1blRft9i4kkglKTT3_W-eoEhpjHoNf2cJlI0AO9hNvJ0/edit?usp=sharing)<br>
 **GitHub:** [`GitHub`](https://github.com/snastase/psyc499)<br>
