@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### September 19, 2026 &mdash; Open review of Ismail and colleagues: [`review`](https://snastase.github.io/reviews/2026-09-19-ismail.html) [`PubPeer`](https://pubpeer.com/publications/5EB48AF183296E4DC99DE22A807493#1)
+Ismail, T., Chavez, A. G., Yan, X., Zhu, H., Franch, M., Belanger, J., ... & Hayden, B. Y. (2026). Estimation of neuronal tuning for word meaning from passively recorded naturalistic speech. *bioRxiv*. [`DOI`](https://doi.org/10.64898/2026.06.23.733980)
+
+---
+
 ### August 11, 2026 &mdash; Open review of Yoon and colleagues: [`review`](https://snastase.github.io/reviews/2026-08-11-yoon.html) [`PubPeer`](https://pubpeer.com/publications/F74D0DCECBFD8B2F5269130485240F#1)
 Yoon, S., Avansino, D. T., Madugula, S., Levin, A. D., Fan, C., Abramovich Krasa, B., ... & Willett, F. R. (2026). Neural decoding of speech using deep neural ensembles. *bioRxiv*. [`DOI`](https://doi.org/10.64898/2026.06.02.729705)
 
