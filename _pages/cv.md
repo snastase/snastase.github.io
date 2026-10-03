@@ -47,6 +47,10 @@ Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedma
 
 Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2026). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *Neuron*, *114*(4), 774–787. [`DOI`](https://doi.org/10.1016/j.neuron.2025.11.004) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2026.pdf)
 
+Han, J., Chauhan, V., Philip, R., Taylor, M. K., Jung, H., Halchenko, Y. O., Gobbini, M. I., Haxby, J. V.\*, & **Nastase, S. A.**\* (2026). Behaviorally-relevant features of observed actions dominate cortical representational geometry in natural vision. *Nature Communications*. [`DOI`](https://doi.org/10.1038/s41467-026-76599-w) [`PDF`](https://snastase.github.io/files/Han_NatCommun_2026.pdf)
+
+Sourati, Z., Wu, M. H., Ghazizadeh, N., Kaplan, J., Dehghani, M., & **Nastase, S. A.** (2026). Cognitive expert language models better align with the corresponding brain systems. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2609.36239) [`PDF`](https://snastase.github.io/files/Sourati_arXiv_2026.pdf)
+
 Christian, I. R., & **Nastase, S. A.** (2026). Hierarchical systems in the default mode network when reasoning about self and other mental states. *Social Cognitive and Affective Neuroscience*, *21*(1), nsag047. [`DOI`](https://doi.org/10.1093/scan/nsag047) [`PDF`](https://snastase.github.io/files/Christian_SCAN_2026.pdf)
 
 Chen, Y., Zada, Z., **Nastase, S. A.**, Ashby, F. G., & Ghosh, S. S. (2026). Context modulates brain state dynamics and behavioral responses during narrative comprehension. *Imaging Neuroscience*, *4*, IMAG.a.1116. [`DOI`](https://doi.org/10.1162/IMAG.a.1116) [`PDF`](https://snastase.github.io/files/Chen_ImagNeurosci_2026.pdf)
@@ -76,8 +80,6 @@ Christian, I. R., **Nastase, S. A.**, Yu, M., Ziman, K., & Graziano, M. S. (2025
 Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (2024). A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations. *Neuron*, *112*(18), 3211–3222. [`DOI`](https://doi.org/10.1016/j.neuron.2024.06.025) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2024.pdf)
 
 Kumar, S.\*, Sumers, T. R.\*, Yamakoshi, T., Goldstein, A., Hasson, U., Norman, K. A., Griffiths, T. L., Hawkins, R. D., & **Nastase, S. A.** (2024). Shared functional specialization in transformer-based language models and the human brain. *Nature Communications*, *15*, 5523. [`DOI`](https://doi.org/10.1038/s41467-024-49173-5) [`PDF`](https://snastase.github.io/files/Kumar_NatCommun_2024.pdf)
-
-Han, J., Chauhan, V., Philip, R., Taylor, M. K., Jung, H., Halchenko, Y. O., Gobbini, M. I., Haxby, J. V.\*, & **Nastase, S. A.**\* (2024). Behaviorally-relevant features of observed actions dominate cortical representational geometry in natural vision. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2024.11.26.624178) [`PDF`](https://snastase.github.io/files/Han_bioRxiv_2024.pdf)
 
 Chang, C. H. C., **Nastase, S. A.**, & Hasson, U. (2024). How a speaker herds the audience: multi-brain neural convergence over time during naturalistic storytelling. *Social Cognitive and Affective Neuroscience*, *19*(1), nsae059. [`DOI`](https://doi.org/10.1093/scan/nsae059) [`PDF`](https://snastase.github.io/files/Chang_SCAN_2024.pdf)
 
