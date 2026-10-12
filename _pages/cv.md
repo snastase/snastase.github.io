@@ -41,7 +41,7 @@ Possible Worlds: an fMRI dataset of interactive social-narrative gameplay
 ## Publications
 ---
 
-**Nastase, S. A.**, Zada, Z., Goldberg, A., & Hasson, U. (2026). Unifying the structures of language in a neural population code. *Neuron*. [`DOI`](https://doi.org/10.1016/j.neuron.2026.07.024) [`PDF`](https://snastase.github.io/files/Nastase_Neuron_2026.pdf)
+**Nastase, S. A.**, Zada, Z., Goldberg, A., & Hasson, U. (2026). Unifying the structures of language in a neural population code. *Neuron*, *114*(19), 3527–3549. [`DOI`](https://doi.org/10.1016/j.neuron.2026.07.024) [`PDF`](https://snastase.github.io/files/Nastase_Neuron_2026.pdf)
 
 Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & **Nastase, S. A.**\* (2026). Aligning brains into a shared space improves their alignment to large language models. *Nature Computational Science*, *6*, 169–178. [`DOI`](https://doi.org/10.1038/s43588-025-00900-y) [`PDF`](https://snastase.github.io/files/Bhattacharjee_NCS_2026.pdf)
 
@@ -50,6 +50,8 @@ Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns
 Han, J., Chauhan, V., Philip, R., Taylor, M. K., Jung, H., Halchenko, Y. O., Gobbini, M. I., Haxby, J. V.\*, & **Nastase, S. A.**\* (2026). Behaviorally-relevant features of observed actions dominate cortical representational geometry in natural vision. *Nature Communications*. [`DOI`](https://doi.org/10.1038/s41467-026-76599-w) [`PDF`](https://snastase.github.io/files/Han_NatCommun_2026.pdf)
 
 Sourati, Z., Wu, M. H., Ghazizadeh, N., Kaplan, J., Dehghani, M., & **Nastase, S. A.** (2026). Cognitive expert language models better align with the corresponding brain systems. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2609.36239) [`PDF`](https://snastase.github.io/files/Sourati_arXiv_2026.pdf)
+
+Peng, Y., **Nastase, S. A.**, Huang, Y., Li, Y., Guo, Z., & Li, P. (2026). Scaffolding human and AI instruction: neural alignment and learning gains in online education. *Neuron*, *114*(18), 3480–3498. [`DOI`](https://doi.org/10.1016/j.neuron.2026.04.005) [`PDF`](https://snastase.github.io/files/Peng_Neuron_2026.pdf)
 
 Christian, I. R., & **Nastase, S. A.** (2026). Hierarchical systems in the default mode network when reasoning about self and other mental states. *Social Cognitive and Affective Neuroscience*, *21*(1), nsag047. [`DOI`](https://doi.org/10.1093/scan/nsag047) [`PDF`](https://snastase.github.io/files/Christian_SCAN_2026.pdf)
 

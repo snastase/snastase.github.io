@@ -11,7 +11,7 @@ You can find my full list of publications on my CV or on my Google Scholar profi
 
 ---
 
-**Nastase, S. A.**, Zada, Z., Goldberg, A., & Hasson, U. (2026). Unifying the structures of language in a neural population code. *Neuron*. [`DOI`](https://doi.org/10.1016/j.neuron.2026.07.024) [`PDF`](https://snastase.github.io/files/Nastase_Neuron_2026.pdf)
+**Nastase, S. A.**, Zada, Z., Goldberg, A., & Hasson, U. (2026). Unifying the structures of language in a neural population code. *Neuron*, *114*(19), 3527–3549. [`DOI`](https://doi.org/10.1016/j.neuron.2026.07.024) [`PDF`](https://snastase.github.io/files/Nastase_Neuron_2026.pdf)
 
 Zada, Z., Goldstein, A. Y., Michelmann, S., Simony, E., Price, A., Hasenfratz, L., Barham, E., Zadbood, A., Doyle, W., Friedman, D., Dugan, P., Melloni, L., Devore, S., Flinker, A., Devinsky, O., Hasson, U.\*, & **Nastase, S. A.**\* (2024). A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations. *Neuron*, *112*(18), 3211–3222. [`DOI`](https://doi.org/10.1016/j.neuron.2024.06.025) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2024.pdf)
 

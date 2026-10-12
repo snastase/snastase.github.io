@@ -20,6 +20,6 @@ For an overview of some of our recent work, check out this perspective piece rec
 
 <blockquote markdown="1">
 <span style="font-style: normal;">
-Nastase, S. A., Zada, Z., Goldberg, A., & Hasson, U. (2026). Unifying the structures of language in a neural population code. *Neuron*. [`DOI`](https://doi.org/10.1016/j.neuron.2026.07.024) [`PDF`](https://snastase.github.io/files/Nastase_Neuron_2026.pdf)
+Nastase, S. A., Zada, Z., Goldberg, A., & Hasson, U. (2026). Unifying the structures of language in a neural population code. *Neuron*, *114*(19), 3527–3549. [`DOI`](https://doi.org/10.1016/j.neuron.2026.07.024) [`PDF`](https://snastase.github.io/files/Nastase_Neuron_2026.pdf)
 {: style="font-style: normal;"}
 </blockquote>
