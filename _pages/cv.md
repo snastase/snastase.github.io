@@ -47,7 +47,7 @@ Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedma
 
 Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2026). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *Neuron*, *114*(4), 774–787. [`DOI`](https://doi.org/10.1016/j.neuron.2025.11.004) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2026.pdf)
 
-Han, J., Chauhan, V., Philip, R., Taylor, M. K., Jung, H., Halchenko, Y. O., Gobbini, M. I., Haxby, J. V.\*, & **Nastase, S. A.**\* (2026). Behaviorally-relevant features of observed actions dominate cortical representational geometry in natural vision. *Nature Communications*. [`DOI`](https://doi.org/10.1038/s41467-026-76599-w) [`PDF`](https://snastase.github.io/files/Han_NatCommun_2026.pdf)
+Han, J., Chauhan, V., Philip, R., Taylor, M. K., Jung, H., Halchenko, Y. O., Gobbini, M. I., Haxby, J. V.\*, & **Nastase, S. A.**\* (2026). Behaviorally-relevant features of observed actions dominate cortical representational geometry in natural vision. *Nature Communications*, *17*, 10934. [`DOI`](https://doi.org/10.1038/s41467-026-76599-w) [`PDF`](https://snastase.github.io/files/Han_NatCommun_2026.pdf)
 
 Sourati, Z., Wu, M. H., Ghazizadeh, N., Kaplan, J., Dehghani, M., & **Nastase, S. A.** (2026). Cognitive expert language models better align with the corresponding brain systems. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2609.36239) [`PDF`](https://snastase.github.io/files/Sourati_arXiv_2026.pdf)
 
