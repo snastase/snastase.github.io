@@ -47,6 +47,8 @@ Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedma
 
 Zada, Z., **Nastase, S. A.**, Speer, S., Mwilambwe-Tshilobo, L., Tsoi, L., Burns, S., Falk, E., Hasson, U., & Tamir, D. (2026). Linguistic coupling between neural systems for speech production and comprehension during real-time dyadic conversations. *Neuron*, *114*(4), 774–787. [`DOI`](https://doi.org/10.1016/j.neuron.2025.11.004) [`PDF`](https://snastase.github.io/files/Zada_Neuron_2026.pdf)
 
+Jung, H., Jain, H., Han, X., Feilong, M., Han, J., Shokeen, D., Van Uden, C., Hanson, I., Connolly, A. C., Wager, T. D., Haxby, J. V., & **Nastase, S. A.** (2026). Action features dominate cortical representation during natural vision. *Proceedings of the National Academy of Sciences of the United States of America*, *123*(43), e2625018123. [`DOI`](https://doi.org/10.1073/pnas.2625018123) [`PDF`](https://snastase.github.io/files/Jung_PNAS_2026.pdf)
+
 Han, J., Chauhan, V., Philip, R., Taylor, M. K., Jung, H., Halchenko, Y. O., Gobbini, M. I., Haxby, J. V.\*, & **Nastase, S. A.**\* (2026). Behaviorally-relevant features of observed actions dominate cortical representational geometry in natural vision. *Nature Communications*, *17*, 10934. [`DOI`](https://doi.org/10.1038/s41467-026-76599-w) [`PDF`](https://snastase.github.io/files/Han_NatCommun_2026.pdf)
 
 Sourati, Z., Wu, M. H., Ghazizadeh, N., Kaplan, J., Dehghani, M., & **Nastase, S. A.** (2026). Cognitive expert language models better align with the corresponding brain systems. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2609.36239) [`PDF`](https://snastase.github.io/files/Sourati_arXiv_2026.pdf)
@@ -74,8 +76,6 @@ Xu, Q., Peng, Y., **Nastase, S. A.**, Chodorow, M., Wu, M., & Li, P. (2025). Lar
 Gu, C., **Nastase, S. A.**, Zada, Z., & Li, P. (2025). Reading comprehension in L1 and L2 readers: neurocomputational mechanisms revealed through large language models. *npj Science of Learning*, *10*, 46. [`DOI`](https://doi.org/10.1038/s41539-025-00337-y) [`PDF`](https://snastase.github.io/files/Gu_SciLearn_2025.pdf)
 
 Goldstein, A., **Nastase, S. A.**\*, Wang, H.\*, Niekerken, L.\*, Zada, Z.\*, Aubrey, B.\*, Sheffer, T.\*, Gazula, H., Schain, M., Singh, A., Rao, A., Choe, G., Kim, C., Doyle, W., Friedman, D., Devore, S., Dugan, P., Hassidim, A., Brenner, M., Matias, Y., Devinsky, O., Flinker, A., & Hasson, U. (2025). A unified acoustic-to-speech-to-language embedding space captures the neural basis of natural language processing in everyday conversations. *Nature Human Behaviour*, *9*, 1041–1055. [`DOI`](https://doi.org/10.1038/s41562-025-02105-9) [`PDF`](https://snastase.github.io/files/Goldstein_NatHumBehav_2025.pdf)
-
-Jung, H., Han, X., Feilong, M., Han, J., Shokeen, D., Van Uden, C., Hanson, I., Connolly, A. C., Haxby, J. V., & **Nastase, S. A.** (2025). Action features dominate cortical representation during natural vision. *bioRxiv*. [`DOI`](https://doi.org/10.1101/2025.01.30.635800) [`PDF`](https://snastase.github.io/files/Jung_bioRxiv_2025.pdf)
 
 Christian, I. R., **Nastase, S. A.**, Yu, M., Ziman, K., & Graziano, M. S. (2025). Monitoring attention in self and others. *Journal of Cognitive Neuroscience*, *37*(11), 2284–2294. [`DOI`](https://doi.org/10.1162/jocn.a.51) [`PDF`](https://snastase.github.io/files/Christian_JOCN_2025.pdf)
 
