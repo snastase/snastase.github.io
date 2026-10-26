@@ -55,16 +55,16 @@ This course introduces students to the mathematical and data scientific tools at
 | W 10/21 | Statistical tests as linear models | [`Lecture 14`](https://docs.google.com/presentation/d/167ShRIcJNAF6JQXszyjMjVDAOk_fXqw0suvffTPBS4I/edit?usp=sharing) [`Code 14`](https://colab.research.google.com/drive/1qGSTXF9b9sxMjNJQbHmya6DSrTM5ky4R?usp=sharing)  | Poldrack, 2019, *Statistical Thinking*, Ch. 7 [`link`](https://statsthinking21.github.io/statsthinking21-core-site/fitting-models.html)<br>Lindeløv & Ho, 2019 [`link`](https://www.georgeho.org/tests-as-linear/) |
 | M 10/26 | Application: representational similarity analysis | [`Lecture 15`](https://docs.google.com/presentation/d/1jtFZNebsWGHr7t5jcGRNsubenma3QgzPdlU3N6MVSoI/edit?usp=sharing) [`Code 15`](https://colab.research.google.com/drive/1HXAPmcjyiu9jNgYP0ULc1SB7oReS4V3P?usp=sharing) [`Homework 5`](https://colab.research.google.com/drive/1Z5CsdsUsUYyemlgHooEz17ah5n9JfdAO?usp=sharing) | Kriegeskorte & Kievit, 2013, *TICS* [`PDF`](https://github.com/snastase/psyc499/blob/main/readings/Kriegeskorte_2013.pdf)<br>Cichy et al., 2014, *Nat. Neurosci.* [`PDF`](https://github.com/snastase/psyc499/blob/main/readings/Cichy_2014.pdf) |
 | W 10/28 | Permutation tests and the bootstrap |        | Good, 1994, *Permutation Tests*, Ch. 1 [`PDF`](https://github.com/snastase/psyc499/blob/main/readings/Good_1994.pdf)<br>Griffiths et al., 2010, *TICS* [`PDF`](https://github.com/snastase/psyc499/blob/main/readings/Griffiths_2010.pdf) |
-| M 11/2  | Introduction to machine learning                          |        |     |
-| W 11/4  | Overfitting and out-of-sample prediction                  |        |     |
-| M 11/9  | Regularized regression                                    |        |     |
+| M 11/2  | Overfitting and out-of-sample prediction                          |        |     |
+| W 11/4  | Regularized regression                  |        |     |
+| M 11/9  | Application: encoding models in fMRI                                    |        |     |
 | W 11/11 | *No class* (Veterans Day Holiday)                         |        |      |
-| M 11/16 | Application: encoding models in fMRI                      |        |     |
-| W 11/18 | Classification analysis                                   |        |     |
-| M 11/23 | Application: neural decoding                              |        |     |
+| M 11/16 | Classification analysis                      |        |     |
+| W 11/18 | Application: neural decoding                                   |        |     |
+| M 11/23 | Artificial neural networks                              |        |     |
 | W 11/25 | *No class* (Thanksgiving Holiday)                         |        |    |
-| M 11/30 | Artificial neural networks                                |        |      |
-| W 12/2  | Application: deep learning                                |        |     |
+| M 11/30 | Application: deep learning                                |        |      |
+| W 12/2  | *Final exam*                                |        |     |
 
 ---
 
