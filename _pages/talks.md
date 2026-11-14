@@ -12,6 +12,8 @@ If you're interested in hearing me talk at your institution, send me an [email](
 ---
 ## Invited talks
 
+**Nastase, S. A.** (2026, November). *Unifying the structures of language in a neural population code*. Invited talk at the Neuroscience of the Everyday World conference at Boston University, Boston, MA. [`slides`](https://docs.google.com/presentation/d/1P9yBxRq4tutbs4g4EslIKBnrHQ4nYWDQj-M-c_u7Gd0/edit?usp=sharing)
+
 **Nastase, S. A.** (2026, October). *Possible Worlds: building interactive worlds rich enough to drive model–brain alignment*. Invited talk at the inaugural consortium meeting of the Digital Brain Project, Paris, France. [`slides`](https://docs.google.com/presentation/d/1vnEV9Ug89zK1N7kzECXrE-WMF0zA5rVXQPc1eWZhHgI/edit?usp=sharing)
 
 **Nastase, S. A.** (2026, April). *Unifying the structures of language in a neural population code*. Invited talk at the Chen Institute symposium on Neuroscience and AI in Sensation and Motivation, Los Angeles, CA. [`slides`](https://docs.google.com/presentation/d/1Ys254cuP5eWXMWKqakuBv_a1f3Y5cO3XD716KSeFrIE/edit?usp=sharing)
