@@ -13,6 +13,11 @@ When solicited for peer review by academic journals&mdash;*if the authors have p
 
 ---
 
+### November 27, 2026 &mdash; Open review of Murphy: [`review`](https://snastase.github.io/reviews/2026-11-27-murphy.html) [`PubPeer`](https://pubpeer.com/publications/1A9786C55014A980689B028863860E#1)
+Murphy, E. (2026). No country for old linguists: LLM-brain alignment underdetermines neural computation. *arXiv*. [`DOI`](https://doi.org/10.48550/arXiv.2609.03160)
+
+---
+
 ### September 19, 2026 &mdash; Open review of Ismail and colleagues: [`review`](https://snastase.github.io/reviews/2026-09-19-ismail.html) [`PubPeer`](https://pubpeer.com/publications/5EB48AF183296E4DC99DE22A807493#1)
 Ismail, T., Chavez, A. G., Yan, X., Zhu, H., Franch, M., Belanger, J., ... & Hayden, B. Y. (2026). Estimation of neuronal tuning for word meaning from passively recorded naturalistic speech. *bioRxiv*. [`DOI`](https://doi.org/10.64898/2026.06.23.733980)
 
